@@ -1,0 +1,1886 @@
+complaint_id,product,sub_product,issue,company,state,city,zip_code,status,company_response_to_consumer,timely_response,consumer_disputed,response_time_days
+101709,Credit Reporting,Collections,Other,Northstar Finance,Il,Chicago,00123,In Progress,,,Y,58
+101248,Student Loan,Fixed loan,Identity theft,FinServ Co,Ny,,75201,Open,,Yes,Yes,57
+101169,Bank Account,Fixed loan,Identity theft,,Il,New York,40722,  ,In progress,,,37
+101242,Credit Card,Interest rate,Identity theft,,Nc,Charlotte,00000,,Closed,,No,10
+101499,Mortgage,Collections,Other,Northstar Finance,Mi,New York,54760,,,N,Y,38
+101756,Credit  Card,Fixed loan,Incorrect information,,Pa,Atlanta,51767,,Closed,TRUE,Y,16
+101673,Student Loan,Interest rate,Incorrect information,,Fl,Columbus,,Open,,,FALSE,7
+100997,Bank Account,,Fees,FinServ Co,,Houston,85216,Open,,No,,18
+100661,,Rewards,Billing disputes,Acme Bank,Ca,Charlotte,98790,In Progress,,,TRUE,27
+101310,Student Loan,,Billing disputes,Northstar Finance,Ga,New York,70818,  ,,N,TRUE,36
+100605,Student Loan,Interest rate,Fees,,Mi,Houston,,Open,,Yes,TRUE,24
+101054,Student Loan,Adjustable loan,Other,,Ca,Los Angeles,71629,In Progress,,,TRUE,13
+100141,Credit Reporting,Adjustable loan,Identity theft,,Ny,Philadelphia,27040,Resolved,In progress,FALSE,,6
+100606,Student Loan,Collections,Fees,,Mi,Miami,69022,In Progress,,Yes,Y,24
+101382,Credit Card,Fixed loan,Fees,Metro Loans,Tx,Houston,84070,Open,In progress,Y,N,9
+100533,Credit  Card,,Fees,,Ga,Columbus,22050,,,TRUE,TRUE,8
+100335,Student Loan,Rewards,Other,,Tx,,00000,,Closed,FALSE,No,45
+100225,Debt Collection,Rewards,Incorrect information,Northstar Finance,,Miami,65163,,,TRUE,,25
+101962,Credit Reporting,Adjustable loan,Fees,Metro Loans,Il,Chicago,38277,Resolved,Closed with explanation,,Y,43
+100467,Debt Collection,Rewards,Fees,,Pa,Los Angeles,76589,  ,,No,FALSE,40
+101567,Debt Collection,Interest rate,Other,,,Columbus,72721,  ,,FALSE,TRUE,1
+101292,Credit Reporting,,Identity theft,United Credit,Mi,New York,47931,In Progress,,TRUE,,-1
+100063,Credit Card,Interest rate,Incorrect information,Northstar Finance,Il,Los Angeles,29809,  ,,No,N,32
+101039,Debt Collection,Fixed loan,Other,Northstar Finance,Ny,Atlanta,26296,Closed,,N,N,59
+100935,Credit  Card,Rewards,Incorrect information,Acme Bank,Ny,Detroit,31296,Open,,Y,N,59
+100830,Credit Reporting,Collections,Fees,,Oh,Philadelphia,76530,In Progress,,FALSE,,-1
+101523,Credit  Card,Fixed loan,Other,Northstar Finance,,Atlanta,34956,Open,,Y,TRUE,32
+101442,Student Loan,Collections,Other,United Credit,Mi,,26114,  ,In progress,No,TRUE,-3
+100170,Mortgage,,Collection harassment,Northstar Finance,Tx,Detroit,37022,Closed,,,Y,-4
+100561,Bank Account,,Collection harassment,Metro Loans,,,48787,Closed,,TRUE,Yes,46
+100881,Student  Loan,Fixed loan,Fees,Northstar Finance,Ca,,90713,Closed,Closed,TRUE,Yes,35
+100649,Mortgage,Rewards,Fees,Northstar Finance,,,92983,In Progress,Closed with explanation,No,FALSE,4
+100599,Credit Reporting,Rewards,Collection harassment,Acme Bank,Nc,Chicago,15173,,,No,FALSE,9
+101126,Credit Card,Adjustable loan,Collection harassment,Northstar Finance,Nc,Atlanta,79918,In Progress,,FALSE,N,43
+100238,Mortgage,Adjustable loan,,Metro Loans,,Atlanta,70157,  ,Closed,No,TRUE,6
+101384,Credit Reporting,Rewards,Collection harassment,Acme Bank,Il,Detroit,99298,,,TRUE,Yes,23
+101354,Bank Account,Collections,Identity theft,Metro Loans,,Chicago,52967,  ,,FALSE,,31
+101850,Student Loan,Fixed loan,Identity theft,Metro Loans,,,,Open,In progress,FALSE,,58
+101412,Student Loan,Fixed loan,Incorrect information,Northstar Finance,Ga,Chicago,88825,Closed,Closed,,FALSE,-1
+100060,Credit Card,Interest rate,Incorrect information,Northstar Finance,,Detroit,18345,Open,Closed,N,,53
+101289,Credit Card,,Billing disputes, ,Mi,Atlanta,85421,In Progress,In progress,Yes,,7
+100300,,Rewards,Collection harassment,Metro Loans,Ny,Philadelphia,41437,,Closed with explanation,,TRUE,27
+101931,Bank Account,,Billing disputes,,,Charlotte,11239,Closed,Closed,N,No,19
+100927,Student Loan,Collections,Collection harassment,FinServ Co,Fl,,37053,Open,Closed,N,N,43
+101898,Student Loan,,Identity theft,United Credit,Pa,Houston,70799,In Progress,,Y,N,11
+100581,Bank Account,,Incorrect information, ,Pa,Miami,95673,Resolved,,No,No,30
+101504,Debt Collection,Interest rate,Identity theft,United Credit,Ga,New York,88727,Resolved,Closed,No,N,23
+100032,Bank Account,,Billing disputes,Metro Loans,Fl,New York,47745,Closed,,FALSE,N,15
+101543,Credit Reporting,,Other,,Oh,Atlanta,17308,Open,In progress,,Y,1
+101159,Credit Reporting,Rewards,Other,,Nc,Chicago,30829,Resolved,,FALSE,No,-5
+100214,Student Loan,Collections,Fees,Acme Bank,Oh,New York,,Resolved,Closed with explanation,Yes,No,25
+100940,Debt Collection,Adjustable loan,Other,,Ga,Atlanta,,In Progress,Closed with explanation,No,Y,6
+100189,Student Loan,Collections,Fees,United Credit,,Charlotte,30880,  ,Closed with explanation,N,Yes,44
+101983,Bank Account,Collections,Incorrect information,Metro Loans,Ga,New York,11070,Open,,No,,48
+101253,Credit  Card,Interest rate,Fees,Acme Bank,Pa,New York,00000,  ,,No,,19
+100590,Debt  Collection,Adjustable loan,Identity theft,,Ga,New York,17992,In Progress,In progress,No,,3
+101350,Credit Reporting,Fixed loan,Identity theft,,Nc,New York,60353,Resolved,Closed,N,Yes,54
+101704,Bank Account,Interest rate,Billing disputes,Acme Bank,Pa,Houston,45115,In Progress,Closed with explanation,FALSE,Y,58
+101296,Bank Account,Adjustable loan,,,Oh,Columbus,98605,Resolved,In progress,Y,Yes,-1
+100145,Debt Collection,Interest rate,Other,,,Los Angeles,,Open,,,No,6
+101629,Credit Reporting,Collections,Incorrect information,Acme Bank,Mi,Miami,66433,,,TRUE,,9
+100547,Bank Account,Collections,Identity theft,Acme Bank,Tx,Chicago,16471,In Progress,,,,13
+100423,Credit Card,Fixed loan,Fees,Northstar Finance,Ca,Los Angeles,18010,In Progress,In progress,,Y,4
+101206,Mortgage,,Identity theft, ,Pa,New York,75515,,,No,,41
+101443,Debt Collection,,Incorrect information,FinServ Co,Ga,,45606,Closed,,FALSE,,9
+101669,Student  Loan,Rewards,Fees,Metro Loans,Pa,Detroit,71064,Resolved,,,Y,7
+100604,Credit  Card,Adjustable loan,Identity theft,,Ga,Chicago,,,Closed,N,,26
+100730,Student  Loan,Collections,Other,FinServ Co,,Miami,00123,,,,,36
+101026,Credit Reporting,Collections,Identity theft,United Credit,,,10469,Resolved,,,Y,36
+100088,,,Incorrect information,United Credit,Ga,Miami,30010,,,N,No,5
+101963,Mortgage,Collections,Collection harassment,,,Los Angeles,98603,In Progress,Closed with explanation,,No,17
+100779,Student Loan,Fixed loan,Billing disputes, ,,New York,56338,Open,,,FALSE,33
+100630,Student Loan,Rewards,Fees,,Nc,New York,78675,Closed,Closed,TRUE,FALSE,8
+101000,Credit Reporting,,,,Fl,,75392,Resolved,Closed with explanation,Yes,,-3
+100010,Debt Collection,Interest rate,Other,Metro Loans,Ny,Miami,94980,Resolved,In progress,,No,22
+101798,Mortgage,Rewards,Fees,,Ny,Philadelphia,73999,Closed,,,Y,34
+100662,Bank Account,Collections,Other,Acme Bank,Il,Chicago,94770,  ,In progress,Yes,,47
+100322,Debt Collection,Collections,Billing disputes, ,,Los Angeles,52524,Open,In progress,Y,N,18
+101631,Student Loan,Rewards,Fees,Northstar Finance,Ny,,00123,  ,In progress,No,Yes,-3
+100577,Credit Reporting,,Incorrect information,,Oh,,87785,In Progress,,Yes,No,38
+100157,Mortgage,Fixed loan,Collection harassment,,,Miami,00000,Resolved,,FALSE,,56
+101566,Credit Card,Collections,Identity theft,Acme Bank,Mi,,80549,In Progress,Closed,Y,FALSE,50
+100571,Credit  Card,,Other,United Credit,Ca,Miami,97885,Closed,Closed,TRUE,No,28
+100112,Bank Account,Rewards,Fees,Acme Bank,,New York,,Closed,In progress,TRUE,TRUE,43
+100870,,Adjustable loan,Identity theft,,Tx,,81258,  ,,TRUE,Y,10
+101286,Credit Card,Rewards,Other,,,Miami,34292,Closed,Closed with explanation,,No,8
+101541,Credit  Card,Fixed loan,Identity theft,Acme Bank,Fl,Los Angeles,36404,Open,In progress,No,Yes,-2
+101223,Student Loan,Interest rate,Incorrect information,,Ga,,11879,,,Y,N,51
+101030,Debt  Collection,Collections,Fees,Acme Bank,,Los Angeles,00123,In Progress,Closed with explanation,N,Yes,58
+101278,Bank Account,,Billing disputes,Northstar Finance,Pa,Philadelphia,,  ,,Yes,TRUE,53
+101046,,,Incorrect information,,Tx,Philadelphia,15165,Closed,,Yes,FALSE,25
+100334,Credit Reporting,Collections,Other,,Ga,Miami,46098,Closed,,FALSE,N,20
+101224,Mortgage,,Other,FinServ Co,Ga,Atlanta,57789,  ,Closed,Yes,Yes,-2
+101413,Credit Card,Adjustable loan,Other,Metro Loans,,,14311,Open,,Yes,No,21
+100344,Student Loan,,Billing disputes,Metro Loans,,Miami,95420,Resolved,,TRUE,TRUE,37
+101736,Bank Account,Fixed loan,Identity theft,United Credit,Ny,,,,Closed with explanation,Yes,Yes,40
+101213,Credit Reporting,,Collection harassment,,Il,,88684,Closed,,N,,24
+100608,Credit Card,Adjustable loan,,,,Atlanta,97001,Open,In progress,Y,TRUE,20
+100459,Mortgage,Adjustable loan,Incorrect information,,,Philadelphia,11085,Closed,Closed,No,,3
+100306,Student Loan,Collections,Collection harassment,,Nc,New York,97729,  ,,Y,TRUE,20
+100647,Student Loan,,Collection harassment,Acme Bank,,Los Angeles,51996,,,,FALSE,55
+101027,Bank Account,,Fees,Northstar Finance,Mi,New York,93206,Closed,,No,FALSE,43
+100786,Credit Card,,Other,Metro Loans,Tx,New York,55056,  ,,,No,35
+101743,Credit Reporting,Fixed loan,Incorrect information,Metro Loans,Ca,,00000,  ,Closed,,No,38
+100781,Credit Reporting,Fixed loan,Collection harassment,Metro Loans,,Houston,39715,Open,,FALSE,Y,17
+100302,Bank Account,,Other,FinServ Co,Oh,,53876,Open,Closed with explanation,TRUE,,58
+100658,Bank Account,Adjustable loan,Fees,Metro Loans,Mi,,19937,Closed,Closed with explanation,N,N,35
+101739,Credit  Card,Fixed loan,Identity theft,FinServ Co,Ga,Atlanta,20358,  ,Closed,N,No,30
+100618,Bank Account,,Identity theft,FinServ Co,Oh,Detroit,96767,Closed,,TRUE,Y,45
+100896,Credit Card,Fixed loan,Billing disputes,Northstar Finance,Ga,New York,50970,Closed,In progress,N,Y,-4
+101111,Mortgage,,Collection harassment,,Ny,New York,52478,,,TRUE,,5
+101230,,Interest rate,Other,Northstar Finance,Ca,,78686,In Progress,,FALSE,FALSE,51
+101171,Credit Card,Rewards,Other,Acme Bank,,Miami,22514,In Progress,Closed with explanation,No,Yes,-1
+101216,Credit Card,Interest rate,Identity theft,United Credit,Fl,Miami,,Open,,,No,51
+100039,Student Loan,Rewards,Identity theft,United Credit,Tx,Miami,38347,Open,Closed,TRUE,TRUE,18
+101889,Mortgage,Interest rate,Identity theft,,Pa,Atlanta,38448,Closed,Closed with explanation,TRUE,TRUE,30
+101529,Debt Collection,Interest rate,Collection harassment,United Credit,,,23132,In Progress,,Y,,47
+100795,Credit Card,,Other,Metro Loans,,Atlanta,30762,Resolved,Closed,N,N,1
+101122,Student  Loan,,Other,FinServ Co,Mi,,22219,In Progress,Closed with explanation,TRUE,N,43
+101713,,,Billing disputes,,Mi,,,Resolved,Closed with explanation,Y,FALSE,42
+100659,Student Loan,,Collection harassment,,Pa,Philadelphia,39534,,,No,,46
+100782,Debt Collection,,Fees,Acme Bank,,,35923,Resolved,,TRUE,,3
+101785,Debt  Collection,Interest rate,Billing disputes,FinServ Co,Nc,Los Angeles,16691,Closed,Closed with explanation,,FALSE,24
+100419,Debt Collection,Collections,Identity theft,Northstar Finance,Ny,New York,79414,Open,,Yes,,38
+100975,Student  Loan,Interest rate,Other,Metro Loans,Ca,Houston,13107,Closed,,TRUE,,31
+101671,Credit  Card,Rewards,Other,Northstar Finance,Ny,,,  ,In progress,Yes,,10
+101013,Student Loan,,Identity theft,United Credit,,Houston,86885,  ,Closed,,TRUE,5
+100787,Mortgage,Interest rate,Other,,Tx,,36544,  ,Closed,,FALSE,2
+101331,Student Loan,Collections,Other,,Ca,,22294,  ,Closed with explanation,,Yes,46
+100199,Mortgage,Rewards,,Acme Bank,Ga,,81165,Closed,In progress,Y,N,49
+101611,Credit  Card,Adjustable loan,Identity theft,Metro Loans,Fl,Los Angeles,00000,In Progress,In progress,Y,N,42
+101121,Bank Account,Rewards,Collection harassment,,Nc,Columbus,26885,,Closed,FALSE,Yes,58
+100040,Credit Reporting,Adjustable loan,Collection harassment,,Oh,Houston,00123,Closed,,,TRUE,38
+101016,Mortgage,Collections,Identity theft,,Nc,,91501,Resolved,Closed,Yes,,7
+100882,Bank Account,Collections,Other,FinServ Co,Oh,,00000,,,Y,Y,59
+100006,Mortgage,Adjustable loan,Other,Metro Loans,Mi,,73944,Resolved,In progress,,No,49
+100438,Bank Account,Adjustable loan,Fees,,Tx,Houston,46023,Resolved,Closed,,Y,52
+101088,,Collections,Billing disputes,Acme Bank,,,93130,Closed,Closed,FALSE,No,8
+100513,Student  Loan,Collections,Incorrect information,United Credit,Pa,Los Angeles,00123,Open,In progress,TRUE,TRUE,32
+100488,Credit Reporting,Collections,Other,FinServ Co,Ca,,,Closed,Closed,,TRUE,-3
+100641,,Adjustable loan,Incorrect information,,,Columbus,74454,Closed,,,No,-3
+101481,Credit Reporting,Rewards,Collection harassment,Metro Loans,Il,Miami,60458,Open,In progress,TRUE,Y,36
+101691,Credit Reporting,Adjustable loan,Incorrect information,,,Houston,23707,,,Y,FALSE,41
+101291,Bank Account,Adjustable loan,Collection harassment,,,Miami,76858,,,N,Yes,19
+101303,Mortgage,Adjustable loan,Identity theft,Northstar Finance,Ca,,00123,,,TRUE,Y,0
+100670,Bank Account,,Fees,FinServ Co,Mi,,27806,Open,In progress,Yes,FALSE,17
+101393,Debt  Collection,,Identity theft,Northstar Finance,,New York,57016,Resolved,,,TRUE,-3
+100586,Debt Collection,Fixed loan,Collection harassment,United Credit,Oh,Los Angeles,67327,  ,Closed,FALSE,N,49
+101793,,Collections,Other,FinServ Co,Ga,,29994,Resolved,Closed with explanation,Yes,N,12
+100119,Bank Account,Rewards,Collection harassment,FinServ Co,,Detroit,,,,Yes,TRUE,35
+100455,Student Loan,Rewards,Incorrect information,,Pa,Los Angeles,,,Closed,,Yes,55
+100341,,Fixed loan,Identity theft,,Ga,Houston,98340,Closed,In progress,TRUE,FALSE,19
+100136,Bank Account,,Billing disputes,Metro Loans,Fl,Philadelphia,47190,Open,,,N,59
+100003,Student  Loan,,Fees,Metro Loans,Ga,New York,00123,  ,,,No,24
+100460,Credit Card,Adjustable loan,Collection harassment,Northstar Finance,Mi,Houston,14567,Open,In progress,TRUE,FALSE,2
+100550,,,Fees,,Ny,,10317,Closed,In progress,Y,,55
+100737,Bank Account,,Collection harassment,,Oh,Atlanta,36450,Resolved,In progress,,FALSE,27
+101450,Credit  Card,,Incorrect information,Metro Loans,Nc,Los Angeles,80090,In Progress,,,Y,5
+101602,Credit Reporting,Interest rate,Incorrect information,Metro Loans,,,00000,,,FALSE,No,27
+101498,Credit Reporting,Collections,Incorrect information,Acme Bank,Mi,Detroit,46316,Resolved,Closed,,Yes,29
+100348,Mortgage,Fixed loan,Fees,,,Houston,10774,Resolved,Closed with explanation,,TRUE,15
+100651,Student  Loan,Interest rate,Other,Metro Loans,Ny,Los Angeles,79752,Open,,,Yes,4
+101548,Bank Account,Fixed loan,Identity theft,,Tx,Houston,32025,Open,Closed with explanation,,No,-4
+101049,Mortgage,Fixed loan,Incorrect information,Northstar Finance,,Los Angeles,28472,Resolved,,TRUE,,6
+101640,Credit Card,Rewards,Identity theft,,Fl,Detroit,94023,In Progress,,,FALSE,-3
+100340,Mortgage,Fixed loan,Fees,,,Houston,32481,Open,,,FALSE,31
+101196,Credit Reporting,,Fees,FinServ Co,,,15050,In Progress,,Yes,FALSE,34
+100018,Credit Card,Collections,Collection harassment,FinServ Co,Ga,,64790,,Closed with explanation,Yes,No,37
+101210,Credit  Card,,Billing disputes,,Pa,,55608,Closed,In progress,Yes,Yes,27
+101119,Credit Card,,Collection harassment,United Credit,Ca,Charlotte,70288,Closed,In progress,No,FALSE,7
+101586,Credit Card,Interest rate,Other,Metro Loans,Pa,Columbus,,,In progress,FALSE,N,16
+100926,Credit Card,Adjustable loan,Other,United Credit,,Houston,58094,In Progress,,FALSE,,21
+100220,Bank Account,Fixed loan,Identity theft,Northstar Finance,Oh,,68999,  ,,N,Y,-2
+100082,Debt Collection,,,FinServ Co,Mi,,45235,  ,Closed,,No,-3
+100987,Mortgage,Rewards,Collection harassment,FinServ Co,Tx,Columbus,,Resolved,,,Yes,32
+100343,Credit  Card,Collections,Identity theft,,,Chicago,95146,In Progress,Closed with explanation,TRUE,Yes,13
+100578,Mortgage,Fixed loan,Other,Northstar Finance,Mi,Detroit,89213,Resolved,In progress,,No,51
+101615,Debt Collection,,Fees,,Ga,Los Angeles,75109,In Progress,,Yes,Yes,26
+100240,Bank Account,Adjustable loan,,Metro Loans,Ga,,43558,Resolved,Closed with explanation,Y,N,3
+100070,Bank Account,Interest rate,Fees,Acme Bank,Pa,Miami,66151,In Progress,In progress,No,FALSE,29
+101032,Debt Collection,Rewards,Billing disputes,,Fl,New York,53086,,In progress,No,,21
+101627,Student Loan,Collections,Identity theft,,Fl,Miami,57822,In Progress,,Y,No,28
+101298,Student  Loan,Collections,Identity theft,United Credit,,,60855,In Progress,Closed with explanation,,No,3
+101576,Credit Card,,Billing disputes,,,,83216,Open,In progress,FALSE,TRUE,-1
+101249,Credit Reporting,Rewards,Fees,United Credit,,,87172,Open,,Yes,TRUE,23
+101339,,Collections,Billing disputes,FinServ Co,Fl,,,Closed,Closed with explanation,,,52
+101244,Credit Reporting,Interest rate,Identity theft,,Pa,Atlanta,69403,Resolved,In progress,No,No,9
+100261,Student Loan,Rewards,Identity theft,Acme Bank,Tx,Detroit,00123,Closed,,No,No,40
+101081,Mortgage,Interest rate,Identity theft,,Pa,Miami,38673,  ,Closed with explanation,Yes,,0
+100125,Bank Account,,Other,,Pa,Columbus,90120,Resolved,,N,FALSE,44
+101974,Mortgage,Collections,Billing disputes,FinServ Co,Nc,Miami,28136,Open,Closed with explanation,,,41
+101975,Student Loan,Rewards,Collection harassment,Acme Bank,,,57642,Closed,,,Y,39
+100780,Bank Account,Interest rate,Identity theft,,Nc,Detroit,00000,Resolved,,,FALSE,43
+100976,Mortgage,Interest rate,Identity theft,,Fl,Los Angeles,77068,Closed,,No,,12
+100486,Debt  Collection,Collections,Fees,Acme Bank,Ga,,53615,Closed,,N,No,35
+101103,Bank Account,,Incorrect information, ,Fl,Miami,13395,Closed,,FALSE,,1
+101706,Credit Card,Fixed loan,Identity theft,Metro Loans,Fl,Charlotte,84468,In Progress,Closed with explanation,No,Y,42
+100257,Mortgage,Collections,Other,Metro Loans,Il,,54929,Resolved,Closed,N,No,47
+100484,Credit Card,Adjustable loan,Fees,Acme Bank,Nc,Miami,00000,,Closed with explanation,N,No,19
+100810,Credit Reporting,Fixed loan,Collection harassment,,Il,Chicago,22256,Closed,Closed with explanation,,,41
+100706,Student Loan,Fixed loan,Fees,FinServ Co,,Philadelphia,47485,  ,,TRUE,FALSE,1
+100538,Student Loan,Fixed loan,Collection harassment,Metro Loans,,New York,,In Progress,Closed,,,53
+100544,Student Loan,Collections,Collection harassment,United Credit,Nc,New York,49145,Open,,Yes,No,49
+100178,Credit Card,Rewards,Incorrect information,Acme Bank,Ny,,67365,Open,,N,,11
+100917,,,Other,Northstar Finance,Pa,Los Angeles,35257,In Progress,In progress,N,No,45
+100623,Credit Reporting,Interest rate,Collection harassment,Acme Bank,Nc,Detroit,28862,  ,,No,,49
+101636,Credit Card,Collections,Collection harassment,United Credit,Ga,Chicago,11602,Open,,TRUE,Y,34
+101379,Credit Reporting,Interest rate,Incorrect information,United Credit,,,93464,,Closed,TRUE,N,23
+100196,Credit Reporting,Rewards,Billing disputes,Acme Bank,Mi,Los Angeles,61657,  ,,No,,31
+100998,Student  Loan,Adjustable loan,,,Fl,Los Angeles,00123,Resolved,,,Y,59
+100146,Student Loan,Fixed loan,Fees,Acme Bank,Tx,Charlotte,20257,,,No,Yes,51
+100543,Mortgage,Adjustable loan,Billing disputes,,Ga,Chicago,20278,Closed,In progress,N,Y,44
+101688,Bank Account,Interest rate,Identity theft,United Credit,Pa,Los Angeles,60164,Closed,,FALSE,FALSE,4
+101365,Bank Account,Rewards,Incorrect information,,Il,,76507,Resolved,Closed,Yes,TRUE,55
+100633,Bank Account,Adjustable loan,Collection harassment,,Ga,Los Angeles,47840,Open,Closed,Yes,Yes,9
+101840,Bank Account,,Collection harassment,United Credit,,,00000,Open,In progress,,TRUE,44
+101565,Mortgage,,,,,Miami,25862,  ,Closed,,,-4
+101370,Credit Card,Rewards,Collection harassment,Metro Loans,,Chicago,00123,Open,In progress,Yes,,38
+101390,Credit Card,Fixed loan,,Metro Loans,Ga,Charlotte,,Open,,,,48
+100519,Debt Collection,Adjustable loan,Identity theft,,,Columbus,44963,Closed,,N,Y,18
+101766,Mortgage,,,Metro Loans,Nc,Miami,54006,  ,In progress,,,56
+101864,Credit Card,Collections,Incorrect information,Metro Loans,Fl,Miami,62299,  ,Closed,N,,-4
+100765,Student Loan,Adjustable loan,Collection harassment,,Fl,Detroit,81430,Resolved,,Yes,Y,40
+100465,Student Loan,,Collection harassment,Metro Loans,Ca,Detroit,75671,Open,Closed,,FALSE,-1
+101686,Credit Card,Collections,Incorrect information,Metro Loans,Nc,Los Angeles,73570,Closed,,,No,32
+101536,Credit Reporting,,Collection harassment,Northstar Finance,Fl,Chicago,,Closed,,N,TRUE,7
+100194,Credit Card,Adjustable loan,Collection harassment,United Credit,Ga,Los Angeles,00000,Closed,Closed with explanation,Yes,TRUE,15
+100174,Student Loan,Rewards,Identity theft,Acme Bank,Pa,Charlotte,45798,Open,,TRUE,,34
+100430,Debt Collection,Adjustable loan,Other,United Credit,,Columbus,,In Progress,Closed with explanation,TRUE,FALSE,57
+101405,Bank Account,Rewards,Incorrect information, ,Il,,00123,In Progress,Closed,,Yes,57
+100203,,Fixed loan,Identity theft,United Credit,,Atlanta,95385,,In progress,FALSE,TRUE,-5
+100708,Debt  Collection,Adjustable loan,Billing disputes,,Ga,,12300,,Closed,TRUE,Y,27
+101967,Student Loan,Fixed loan,Other,Northstar Finance,,New York,,Resolved,,Y,,53
+101579,Debt Collection,Collections,Incorrect information, ,Mi,Houston,73352,Closed,,TRUE,N,35
+101655,,,Incorrect information,Metro Loans,,New York,00123,Closed,,No,,34
+101118,Student Loan,Interest rate,Billing disputes,,Ny,,79856,Closed,,Yes,FALSE,51
+100364,Student Loan,Adjustable loan,Collection harassment,,Oh,New York,45379,  ,,N,,31
+101102,Bank Account,Adjustable loan,Billing disputes,,Pa,,16028,,,,TRUE,14
+100583,Credit Reporting,,,Acme Bank,Pa,Miami,22687,In Progress,,N,Y,3
+100442,Credit  Card,Adjustable loan,Billing disputes,United Credit,,Charlotte,24733,Open,Closed with explanation,No,Y,1
+101994,Credit  Card,Collections,Fees,United Credit,Pa,Detroit,,Resolved,,,FALSE,12
+100529,Credit Card,Fixed loan,Billing disputes,Northstar Finance,Nc,Charlotte,63553,,Closed with explanation,TRUE,N,26
+101288,Mortgage,Interest rate,Fees,FinServ Co,Mi,Miami,69896,Open,Closed,,Y,0
+100481,Bank Account,,Collection harassment,United Credit,Ga,Detroit,00000,Resolved,Closed with explanation,TRUE,Y,35
+101205,Mortgage,Collections,Collection harassment,United Credit,Pa,Miami,00000,Open,Closed,,Yes,54
+100379,Credit Reporting,Rewards,Fees,Northstar Finance,Mi,,97329,Resolved,Closed,Y,TRUE,56
+100066,Student Loan,Adjustable loan,Incorrect information,Metro Loans,Pa,,61671,Closed,,Y,Yes,1
+100001,Mortgage,Collections,Collection harassment,,Fl,Miami,43383,Resolved,,,N,9
+100850,Bank Account,Adjustable loan, ,Metro Loans,Fl,Charlotte,40770,In Progress,,N,,25
+100222,Mortgage,Fixed loan,Other,,,Miami,30777,Closed,In progress,FALSE,No,8
+100089,Credit Card,Rewards,Billing disputes,,Fl,New York,,  ,,TRUE,TRUE,-4
+100288,Credit Card,Fixed loan,Collection harassment,FinServ Co,Mi,New York,94567,Resolved,Closed,,N,56
+100168,Credit  Card,Collections,Fees,Metro Loans,Tx,,63379,In Progress,,FALSE,Yes,41
+100947,Credit Reporting,Fixed loan,Billing disputes,,Il,New York,42120,  ,In progress,,,44
+101372,Mortgage,Interest rate,Collection harassment,,,New York,59484,Resolved,Closed,,,39
+100594,Mortgage,Collections,,Acme Bank,Oh,Chicago,94882,  ,,TRUE,TRUE,30
+101723,Student  Loan,Collections,Collection harassment,Acme Bank,Ny,Houston,87051,In Progress,Closed,,TRUE,37
+100823,Bank Account,,Fees,Metro Loans,Pa,Miami,48276,Closed,Closed,Y,No,19
+100016,Mortgage,Rewards,Incorrect information,,Ny,Atlanta,72865,  ,In progress,Y,N,39
+100684,Bank Account,,Incorrect information,Acme Bank,,Detroit,68996,Open,,Yes,Yes,30
+101695,,Collections,Billing disputes,Acme Bank,,Detroit,47530,  ,In progress,Y,,6
+101367,Debt Collection,Fixed loan,Identity theft,,,Los Angeles,97506,Open,,No,TRUE,16
+100735,Student  Loan,Adjustable loan,Identity theft,,Ny,,79275,Closed,,Y,Yes,-4
+100512,Credit Card,Adjustable loan,Identity theft,,Tx,Houston,61879,Open,,Yes,No,0
+100282,Student Loan,Rewards,Other,,,,,Open,Closed with explanation,Y,No,-3
+100217,Bank Account,Adjustable loan,Other,United Credit,Fl,,11979,In Progress,Closed,Yes,Y,49
+101437,Debt  Collection,,Collection harassment,FinServ Co,Il,Philadelphia,94423,In Progress,,TRUE,Yes,18
+100698,Bank Account,Adjustable loan,Other,Metro Loans,,,00123,Resolved,In progress,N,No,41
+101823,Debt Collection,Interest rate,Other,Acme Bank,Nc,Los Angeles,56772,,Closed with explanation,No,Y,36
+101335,Student Loan,Fixed loan,Collection harassment,FinServ Co,Nc,,17417,In Progress,Closed,,No,56
+101458,Student Loan,Interest rate,Billing disputes,Acme Bank,Tx,Chicago,81758,,,FALSE,N,21
+101241,Credit Reporting,Collections,,Northstar Finance,Il,Charlotte,46392,Resolved,Closed,FALSE,,46
+100117,Credit Reporting,Collections,Other,Acme Bank,,,77326,Closed,,,,21
+100864,Debt  Collection,Fixed loan,Collection harassment,Acme Bank,Fl,New York,,  ,,Y,FALSE,23
+100033,Credit Reporting,Fixed loan,,Metro Loans,Fl,Detroit,37267,,Closed,Y,Y,14
+101284,,Adjustable loan,Fees,FinServ Co,Nc,,19145,,Closed with explanation,TRUE,Yes,5
+101730,Credit Card,Adjustable loan,Identity theft,,Il,Miami,63719,Open,,,FALSE,35
+100150,Bank Account,Collections,Identity theft,FinServ Co,Ny,Miami,91352,  ,In progress,Y,Yes,51
+100806,Mortgage,Rewards,Collection harassment, ,Ny,Atlanta,97086,In Progress,Closed with explanation,,N,52
+101297,Credit Card,Interest rate,Collection harassment,,Oh,Miami,00000,Open,,FALSE,N,-4
+101982,Mortgage,Adjustable loan,Identity theft,Acme Bank,,,98581,Open,,Yes,Y,28
+100296,Debt  Collection,,Collection harassment,,,New York,27514,In Progress,Closed with explanation,,,58
+101768,Student Loan,Interest rate,Billing disputes,Northstar Finance,Ga,,12674,  ,In progress,TRUE,,37
+100989,Credit Card,,Collection harassment,Metro Loans,Tx,Miami,00123,Resolved,Closed with explanation,N,No,42
+100293,Student Loan,Fixed loan,Identity theft,,Tx,,64881,Resolved,,Y,,55
+100644,Credit  Card,Interest rate,Identity theft,,,,37700,,Closed with explanation,,,-2
+101166,Debt Collection,Collections,Incorrect information,Acme Bank,,Charlotte,28900,Resolved,,N,FALSE,17
+100607,Student  Loan,Rewards,Identity theft,Acme Bank,Pa,Los Angeles,68819,  ,Closed,TRUE,FALSE,51
+100510,Mortgage,Fixed loan,Fees,,Fl,Charlotte,67210,Closed,In progress,TRUE,No,58
+101707,Mortgage,,Collection harassment,Metro Loans,,Los Angeles,,Open,,FALSE,,-4
+100697,Credit Reporting,Fixed loan,Other,FinServ Co,Nc,,71897,  ,,TRUE,,44
+101415,Mortgage,Rewards,Other,,Mi,Atlanta,56982,Closed,,TRUE,N,38
+100047,Student Loan,Rewards,Billing disputes,,Oh,Columbus,71273,Resolved,,Y,,53
+101614,Bank Account,Fixed loan,Identity theft,,Fl,Houston,77385,Open,,No,N,17
+101668,Credit Reporting,,Other,Acme Bank,Nc,New York,97276,  ,Closed with explanation,No,Y,58
+101855,Mortgage,Adjustable loan,Collection harassment,,Il,Chicago,00123,Resolved,,FALSE,Yes,57
+101247,Mortgage,,Incorrect information,United Credit,,New York,75808,Resolved,Closed,N,TRUE,17
+100836,Debt Collection,Collections,Other,,Nc,,95401,  ,,Y,FALSE,43
+101538,,,Incorrect information,,Nc,Los Angeles,79922,Resolved,,,N,50
+101696,Mortgage,Interest rate,Identity theft,United Credit,Tx,,38742,  ,In progress,Yes,,50
+100383,Student  Loan,,Other,FinServ Co,Il,Charlotte,36983,,Closed,No,TRUE,1
+101397,Mortgage,Interest rate,Other,United Credit,Ca,,29299,Resolved,,,,30
+100838,Credit Card,Interest rate,Billing disputes,,Ga,Houston,20096,In Progress,,No,,47
+101356,Mortgage,,Incorrect information,FinServ Co,Tx,,64022,In Progress,,Y,Yes,13
+100110,Mortgage,Collections,Collection harassment,Northstar Finance,Pa,Philadelphia,00000,  ,,,N,27
+101610,Credit Card,Interest rate,Incorrect information,Metro Loans,Il,,49626,,,,TRUE,9
+101701,Mortgage,Collections,Fees,United Credit,,Columbus,52790,Closed,Closed,,Yes,30
+100292,Credit Card,Interest rate,Fees,Acme Bank,,New York,96807,Resolved,,TRUE,,47
+100227,Student  Loan,Adjustable loan,Incorrect information,United Credit,,New York,,  ,In progress,FALSE,Yes,14
+101960,Credit  Card,,Other,Acme Bank,Ny,,97309,,In progress,,,10
+100463,Bank Account,Fixed loan,Other,United Credit,Nc,Detroit,46872,Resolved,Closed,,No,9
+100445,Debt  Collection,Adjustable loan,Collection harassment,,Ca,New York,40074,Closed,In progress,FALSE,,27
+100953,Debt  Collection,Fixed loan,Other,,,New York,,Open,Closed with explanation,N,Y,38
+100022,Credit  Card,Adjustable loan,Collection harassment,United Credit,Il,Atlanta,68476,Resolved,,,,59
+100464,Credit Reporting,Rewards,Billing disputes,,,,89436,,,,,49
+101193,Mortgage,Adjustable loan,Other,Metro Loans,Nc,New York,43268,Resolved,In progress,,N,8
+101811,Debt Collection,Interest rate,Identity theft,Acme Bank,Tx,Miami,28069,,Closed with explanation,No,N,16
+100792,Student  Loan,,Identity theft,FinServ Co,Oh,Charlotte,60599,  ,Closed with explanation,Yes,N,12
+100668,Student  Loan,Rewards,Fees,Northstar Finance,Fl,Detroit,97667,Open,In progress,Y,,56
+101863,Debt  Collection,Interest rate,Other, ,Il,Columbus,44798,Resolved,In progress,Yes,TRUE,7
+101375,Student Loan,Collections,Fees,,,Philadelphia,80966,Open,,No,Yes,24
+100171,Credit Card,,Other,,,,99490,In Progress,,Yes,,29
+100304,Bank Account,Collections,Incorrect information,FinServ Co,Fl,,,Open,Closed,,Yes,19
+100521,Credit Reporting,Rewards,Other,Northstar Finance,Ga,Charlotte,00000,,Closed,No,,3
+100019,Bank Account,,Fees,Metro Loans,Ny,Columbus,00000,Open,,No,,-5
+100934,Mortgage,Adjustable loan,Fees,Metro Loans,Ny,Houston,22614,In Progress,Closed with explanation,Yes,No,17
+101165,Credit Card,Adjustable loan,Collection harassment,,Oh,,54766,Resolved,,No,Yes,20
+101907,Bank Account,,Other,Acme Bank,Pa,Philadelphia,21680,Open,,,TRUE,21
+100421,Student  Loan,Rewards,Other,,Oh,Detroit,,,In progress,Y,FALSE,23
+101643,Student  Loan,,Incorrect information,,,Los Angeles,22533,Open,Closed with explanation,TRUE,FALSE,32
+101792,Student Loan,Fixed loan,Identity theft,Acme Bank,,Chicago,86007,Resolved,,FALSE,,28
+100152,Student  Loan,Adjustable loan,Fees,FinServ Co,Pa,,56722,Closed,,,N,7
+100011,Debt Collection,Collections,Fees, ,Fl,,13669,Resolved,,,No,27
+101646,Student  Loan,Interest rate,Fees,Northstar Finance,Ga,Los Angeles,00000,,,No,TRUE,21
+101462,Debt Collection,Adjustable loan,,FinServ Co,,Charlotte,45185,Open,Closed,FALSE,Y,9
+100109,Student Loan,Fixed loan,Collection harassment,,,,27437,Resolved,Closed with explanation,No,Yes,8
+100866,,Adjustable loan,Billing disputes,United Credit,,Miami,,  ,Closed with explanation,Yes,TRUE,14
+100324,Credit  Card,Rewards,Incorrect information,United Credit,Fl,Los Angeles,63388,In Progress,,,FALSE,21
+101689,Credit Card,,Identity theft,FinServ Co,Mi,,68346,,,Yes,No,38
+100672,Bank Account,,Incorrect information,Metro Loans,,Charlotte,17104,In Progress,,FALSE,Yes,0
+101399,Credit Card,,Other,United Credit,Ny,New York,75920,Resolved,Closed with explanation,N,TRUE,0
+101192,Mortgage,,Identity theft,Northstar Finance,,New York,,  ,Closed with explanation,FALSE,Yes,45
+101423,Credit Reporting,Adjustable loan,Billing disputes,FinServ Co,Nc,Atlanta,69515,Resolved,In progress,TRUE,No,57
+101558,Bank Account,Rewards,Other,Metro Loans,Nc,,38748,,,Y,N,-1
+101651,Student Loan,Interest rate,,Metro Loans,,Houston,54644,Closed,Closed with explanation,Y,TRUE,31
+101086,Debt Collection,,Incorrect information,Metro Loans,Ca,New York,99290,Open,,Yes,,45
+101411,Credit Reporting,Adjustable loan,Identity theft,Metro Loans,Pa,Detroit,62761,Resolved,,Yes,FALSE,2
+101831,Credit Card,Rewards,Identity theft, ,Ga,Los Angeles,,,Closed with explanation,,TRUE,1
+101294,Debt Collection,Fixed loan,Fees,United Credit,,Los Angeles,81812,Open,In progress,Yes,Yes,59
+100938,Debt Collection,,Fees,Metro Loans,,Detroit,53755,In Progress,,No,,14
+101283,Student Loan,Fixed loan,Other,Northstar Finance,Fl,Los Angeles,11243,,Closed with explanation,,,48
+100283,Bank Account,Interest rate,Collection harassment,United Credit,Oh,,00123,,Closed,Y,Y,8
+100873,,,Other,,Oh,New York,41501,Closed,In progress,N,N,-2
+100648,Bank Account,Adjustable loan,Other,,,Houston,,Closed,Closed with explanation,TRUE,Yes,-1
+101980,,Fixed loan,Other,,Tx,Detroit,,In Progress,,Yes,No,5
+100303,Credit Reporting,Adjustable loan,Incorrect information,,Ny,Detroit,00000,Closed,In progress,Yes,TRUE,57
+100875,Mortgage,Fixed loan,Fees,Metro Loans,Mi,Charlotte,88618,Resolved,,FALSE,,18
+100158,Mortgage,Interest rate,Identity theft,,Oh,Los Angeles,50314,  ,Closed with explanation,N,Y,13
+100753,Credit Reporting,Interest rate,Other,FinServ Co,Mi,,00000,In Progress,In progress,TRUE,,7
+101854,Debt Collection,Interest rate,Identity theft,United Credit,Pa,Los Angeles,,,Closed with explanation,TRUE,No,23
+101530,Bank Account,,Other,Metro Loans,,New York,,In Progress,,Yes,,16
+101464,Debt Collection,Interest rate,Collection harassment,FinServ Co,Pa,,23494,Open,Closed,,,53
+100598,Credit Card,Rewards,Billing disputes,Northstar Finance,,Atlanta,40051,In Progress,,TRUE,TRUE,53
+100186,Credit Reporting,,Incorrect information,FinServ Co,Pa,New York,70101,Open,,Y,Y,31
+101547,Bank Account,Collections,Fees,,,Los Angeles,29550,Resolved,,TRUE,No,6
+100632,Credit Reporting,Fixed loan,Fees,Acme Bank,Pa,Columbus,80560,In Progress,,Yes,FALSE,58
+101124,Credit Reporting,Interest rate,Billing disputes,United Credit,,New York,64739,Closed,Closed,No,,48
+101876,Credit Card,,Fees,Metro Loans,Ca,Miami,99542,Open,,Yes,TRUE,25
+101556,Credit  Card,Adjustable loan,Fees,,Ny,Los Angeles,00123,  ,Closed with explanation,Y,Y,12
+100424,Debt Collection,Interest rate,Other,,,,67585,  ,,,FALSE,27
+100099,Student Loan,,Fees,FinServ Co,Ny,Atlanta,24402,Open,Closed with explanation,TRUE,No,-3
+100413,Mortgage,,Identity theft,FinServ Co,,Houston,86875,Closed,Closed,TRUE,N,59
+101500,Credit Card,Fixed loan,Fees,Northstar Finance,Ga,,68351,Open,,TRUE,FALSE,49
+101632,Debt Collection,Interest rate,Billing disputes,Metro Loans,Mi,Miami,96264,,,,,1
+101234,,Interest rate,Collection harassment,,Ny,Los Angeles,58372,Closed,,,Y,52
+100495,Student  Loan,Adjustable loan,Collection harassment,United Credit,Fl,,00123,Closed,,Yes,,24
+100832,Bank Account,,Billing disputes,,Tx,,,In Progress,,Yes,Y,26
+101505,Credit Card,Interest rate,Fees,,Il,,35616,  ,Closed,FALSE,N,10
+101748,Bank Account,Adjustable loan,,FinServ Co,Ga,,,Resolved,In progress,,Yes,-1
+101749,Credit Reporting,Rewards,Fees,FinServ Co,,Charlotte,,,,TRUE,No,21
+101470,Student Loan,Collections,Billing disputes,Acme Bank,Ca,,59238,,,Y,No,50
+101155,Bank Account,Collections,Identity theft,,Oh,New York,51984,Open,Closed with explanation,N,FALSE,16
+100724,,Collections, , ,Oh,,25682,Closed,Closed,N,,-1
+100663,Bank Account,,Fees,Acme Bank,Ny,New York,63390,  ,,,,51
+101954,Credit Card,Collections,Collection harassment,Acme Bank,Oh,Los Angeles,,  ,,No,,-3
+101115,Student Loan,,Incorrect information,FinServ Co,,Charlotte,30570,In Progress,,TRUE,No,58
+101017,Credit Card,, ,Acme Bank,Pa,,32993,Closed,In progress,TRUE,FALSE,6
+100123,Debt  Collection,,Collection harassment,Metro Loans,,,96525,Resolved,In progress,Y,Y,57
+101599,Mortgage,,Billing disputes,Northstar Finance,Mi,Miami,91097,  ,,N,TRUE,57
+100736,Student  Loan,,Billing disputes,Northstar Finance,Mi,New York,15708,  ,,N,Yes,25
+100327,Student Loan,Rewards,Collection harassment,Northstar Finance,Oh,Miami,19865,  ,,Y,,47
+101272,Student  Loan,Adjustable loan,Fees,,Ca,,31422,Open,In progress,No,No,32
+100172,Bank Account,Adjustable loan,Collection harassment,Acme Bank,Mi,Columbus,,  ,Closed with explanation,No,,-2
+101263,Credit Card,,Identity theft,,Oh,Miami,50975,In Progress,,,,15
+101239,Credit Card,,Identity theft,Northstar Finance,Pa,New York,80651,Resolved,,,TRUE,21
+101305,Mortgage,Adjustable loan,Fees,,,Miami,00123,  ,Closed,TRUE,No,-3
+101416,Mortgage,Adjustable loan,,Northstar Finance,,Houston,96119,  ,,N,TRUE,26
+100086,Debt Collection,Rewards,Other,Acme Bank,Il,Detroit,30925,Resolved,,FALSE,N,48
+100246,Debt Collection,,Incorrect information,United Credit,Ny,Los Angeles,,Open,,FALSE,Yes,18
+100386,Debt Collection,Fixed loan,Identity theft, ,,Columbus,12798,Open,Closed,FALSE,No,32
+100872,Student Loan,,Collection harassment,FinServ Co,Pa,,23103,Resolved,In progress,,,44
+101051,,Collections,Fees,,Ca,Los Angeles,97214,Closed,,No,TRUE,21
+101637,Credit Reporting,Adjustable loan,Other,,Mi,New York,63332,Closed,Closed,Y,No,40
+101935,Debt Collection,Rewards,Other,Acme Bank,Tx,Chicago,63810,Open,In progress,Y,Yes,21
+100479,Debt Collection,Interest rate,Fees,United Credit,,Philadelphia,,Resolved,Closed,,,32
+100397,Student  Loan,Rewards,Billing disputes,,,New York,76934,  ,,FALSE,,16
+101969,Mortgage,Adjustable loan,Collection harassment,,,Chicago,61632,In Progress,In progress,,TRUE,9
+101146,Credit Reporting,Rewards,Collection harassment,Metro Loans,,Columbus,11028,  ,Closed with explanation,TRUE,Yes,11
+101048,Credit Reporting,Interest rate,Billing disputes,United Credit,Il,Los Angeles,38745,,,Y,TRUE,8
+101577,Debt Collection,Fixed loan,Identity theft,,,New York,88184,,,No,N,24
+100087,Credit Reporting,Rewards,Identity theft,FinServ Co,Tx,Columbus,37613,Open,,TRUE,,17
+101068,Student Loan,Interest rate,Billing disputes,United Credit,Ga,New York,00000,Open,In progress,TRUE,,3
+100326,Mortgage,Interest rate,Fees,FinServ Co,Pa,Houston,45400,Closed,,N,N,23
+101369,Bank Account,Interest rate,Incorrect information,,Ny,Los Angeles,45446,  ,,FALSE,TRUE,35
+100270,Credit Reporting,Rewards,Other,,,Charlotte,71902,,Closed with explanation,,,2
+100807,Student Loan,Collections,Other,,,,54194,Open,In progress,N,N,42
+100353,Credit Card,Adjustable loan,,Northstar Finance,Il,New York,00000,Closed,Closed,,,29
+101025,Student  Loan,Fixed loan,Fees,FinServ Co,Nc,,,,Closed,FALSE,Y,29
+100592,Credit Card,Interest rate,Collection harassment,Metro Loans,Tx,,,  ,Closed with explanation,,Y,46
+101011,Credit Card,Adjustable loan,Fees,FinServ Co,Tx,Philadelphia,00000,Open,Closed with explanation,N,Yes,16
+100144,,Rewards,Collection harassment,,Ca,,00000,Resolved,Closed,,FALSE,20
+101162,Student Loan,,Other,,Fl,Houston,34867,Closed,In progress,Yes,N,54
+101302,,,Fees,,Il,New York,19261,  ,Closed with explanation,N,N,32
+101942,Credit Reporting,Rewards,Incorrect information,Acme Bank,Oh,Philadelphia,69594,Open,,N,No,18
+100884,Bank Account,Fixed loan,Identity theft,United Credit,Il,Miami,00123,In Progress,In progress,Y,,34
+101469,Bank Account,Fixed loan,,United Credit,Il,New York,45102,,,TRUE,FALSE,26
+101266,Student  Loan,Fixed loan,Incorrect information,,,,,In Progress,,No,,52
+100075,Student Loan,,Billing disputes,Metro Loans,Ga,,66890,In Progress,In progress,Y,Y,9
+101546,Bank Account,Fixed loan,Incorrect information,Metro Loans,Ny,Los Angeles,00123,,,FALSE,N,31
+101652,Debt Collection,,Collection harassment,Northstar Finance,,,72583,  ,,FALSE,,55
+101666,Credit Card,,Identity theft,Metro Loans,Ca,,39668,Resolved,,,TRUE,44
+100773,Bank Account,,Collection harassment,Acme Bank,,Philadelphia,35940,  ,In progress,N,N,-3
+100591,,Collections,Other,United Credit,,Philadelphia,00123,Resolved,Closed with explanation,Yes,FALSE,54
+101571,Bank Account,Fixed loan,Other,Northstar Finance,Mi,Philadelphia,74316,Open,Closed with explanation,N,FALSE,9
+101922,Mortgage,Adjustable loan,Identity theft,Northstar Finance,,Chicago,,Resolved,Closed with explanation,Y,,20
+100617,Credit Reporting,Collections,Billing disputes,,Ca,Miami,60825,,Closed,,Yes,31
+100867,Student Loan,Interest rate, ,,,New York,,  ,,FALSE,Yes,50
+101275,Debt  Collection,Interest rate,Fees,,Il,Charlotte,54238,Resolved,,,,12
+100749,Credit Reporting,Adjustable loan,Billing disputes,Metro Loans,Il,New York,90752,Resolved,In progress,N,Yes,53
+101214,Student Loan,,Collection harassment,,Ny,Los Angeles,00000,Open,,Yes,Y,17
+100268,Bank Account,Fixed loan,Fees,,Il,Detroit,00000,,,FALSE,,35
+101860,Mortgage,,Other,Metro Loans,Il,Los Angeles,45368,Resolved,,,,16
+101664,Student Loan,,Collection harassment,Metro Loans,,Detroit,55102,,,N,No,-5
+101997,Student  Loan,,Other,Metro Loans,,Chicago,99599,Closed,Closed with explanation,TRUE,No,56
+100685,Mortgage,Adjustable loan,Incorrect information,Acme Bank,Il,Los Angeles,59848,In Progress,Closed,Yes,FALSE,22
+100328,Student Loan,Rewards,Billing disputes,United Credit,Ca,Houston,55375,  ,,No,Y,36
+101323,Student Loan,Fixed loan,Fees,FinServ Co,Ny,Chicago,46092,Closed,Closed,Yes,No,22
+100377,Mortgage,Fixed loan,Collection harassment,FinServ Co,Ny,Miami,67218,Open,,,Yes,59
+101173,Debt  Collection,Collections,Collection harassment,,Oh,Chicago,62415,  ,In progress,No,,9
+101420,Student Loan,Collections,Other,,,Houston,95529,Closed,Closed with explanation,N,Yes,27
+101702,Debt Collection,,Fees,United Credit,,New York,00000,In Progress,,Y,No,15
+100456,Student  Loan,Collections,Other,,,Atlanta,22678,In Progress,,Y,No,19
+101578,Credit Reporting,Fixed loan,Collection harassment,United Credit,,Charlotte,49859,,,Yes,Yes,47
+101612,Bank Account,Fixed loan,Incorrect information,Northstar Finance,Tx,Chicago,52281,Closed,,Yes,N,-3
+101886,,Interest rate,Identity theft,Northstar Finance,Fl,Charlotte,53034,  ,,FALSE,Yes,27
+100679,Credit Reporting,Rewards,Collection harassment,Acme Bank,Ca,Philadelphia,73268,Closed,,Y,,50
+100106,Debt  Collection,Collections,,,Pa,Los Angeles,63304,  ,Closed with explanation,No,N,11
+101322,Credit Card,Rewards,Identity theft,FinServ Co,Pa,Miami,63635,,,N,No,6
+101067,Debt Collection,Fixed loan,,Northstar Finance,Ga,,00123,,,N,N,12
+101185,Mortgage,,Identity theft,United Credit,,Los Angeles,44873,Closed,In progress,N,FALSE,34
+100693,Credit Reporting,Rewards,Fees,Northstar Finance,Pa,New York,11976,Resolved,,No,,5
+101948,Credit Reporting,Interest rate,Incorrect information,,,,00123,  ,,Y,,8
+100939,Credit Card,Adjustable loan,Identity theft,FinServ Co,Il,Philadelphia,96658,Closed,,Y,Y,9
+101839,,Rewards,Other,,Fl,Chicago,36534,  ,,Y,Y,11
+101564,Credit Reporting,,Identity theft,Acme Bank,Ga,Detroit,,Closed,,,,-4
+101262,Mortgage,Rewards,Identity theft,Acme Bank,Ny,,75041,,Closed with explanation,TRUE,TRUE,36
+100140,Credit Reporting,Adjustable loan,Incorrect information,,Nc,New York,82149,Resolved,,FALSE,,37
+101219,Debt  Collection,Rewards,Collection harassment,United Credit,Ca,Philadelphia,95606,,Closed,N,FALSE,49
+101461,Bank Account,Fixed loan,Billing disputes,,Il,Miami,00123,Open,,,TRUE,4
+101381,Credit Card,,Identity theft,,,Miami,00000,  ,,,FALSE,59
+101642,Credit Reporting,Rewards,Other,,Mi,Houston,22449,Resolved,,Yes,TRUE,9
+101433,Credit Reporting,Collections,Other,FinServ Co,Fl,Miami,61020,,,,,33
+100378,Bank Account,Collections,Other,Northstar Finance,Il,Houston,43366,Open,In progress,Y,TRUE,-2
+101021,Credit Reporting,Interest rate,Incorrect information,Northstar Finance,Mi,Atlanta,31169,  ,In progress,N,TRUE,23
+101189,Credit Card,,,,Ny,Chicago,44719,,Closed with explanation,,Y,45
+100052,,Collections,Identity theft,,Mi,Los Angeles,62520,Closed,Closed with explanation,TRUE,N,15
+100771,Credit Reporting,Rewards,,Metro Loans,Tx,New York,,Resolved,Closed,TRUE,N,19
+100883,Bank Account,Collections,Other,Northstar Finance,Oh,Los Angeles,49277,  ,Closed with explanation,N,Y,25
+100269,Mortgage,Collections,Billing disputes,Metro Loans,Il,New York,16237,In Progress,In progress,TRUE,Yes,21
+100539,Credit Card,Rewards,Billing disputes,,Pa,Atlanta,62704,Resolved,Closed,Yes,Yes,20
+100650,Debt  Collection,,Billing disputes,FinServ Co,Fl,New York,87733,Closed,Closed with explanation,N,No,7
+100504,Mortgage,Rewards,Billing disputes,FinServ Co,Ny,,59387,Closed,Closed,FALSE,TRUE,56
+101998,,Adjustable loan,Billing disputes,FinServ Co,Fl,Columbus,65673,,,No,TRUE,2
+101400,Credit Reporting,,Fees,United Credit,,Atlanta,90664,Closed,Closed with explanation,Y,TRUE,35
+101866,,Fixed loan,Fees,,Pa,,92766,  ,,,FALSE,24
+101251,Debt  Collection,Rewards,Identity theft,Metro Loans,Pa,Los Angeles,00000,Open,Closed with explanation,,,2
+101082,Student  Loan,Interest rate,Collection harassment,,Il,Columbus,34529,Resolved,In progress,,No,5
+100265,Credit Card,Adjustable loan,Billing disputes,United Credit,Oh,Miami,82433,Open,Closed with explanation,Yes,,-2
+100041,,Rewards,Fees,,Mi,Detroit,24761,Closed,Closed with explanation,Yes,Y,44
+101805,Bank Account,Adjustable loan,Fees,,,Miami,00000,,Closed,No,,21
+100173,Mortgage,Rewards,Identity theft,FinServ Co,Pa,Detroit,74516,In Progress,Closed with explanation,TRUE,Y,55
+100710,Mortgage,Fixed loan,Incorrect information,,Ca,Columbus,,,Closed with explanation,FALSE,Yes,28
+100952,Credit Reporting,, ,,Il,,79553,In Progress,,FALSE,,39
+101759,Student Loan,Rewards,Fees,United Credit,Ga,,81121,In Progress,,TRUE,,42
+100159,Credit Card,Fixed loan,Other,Northstar Finance,,Miami,94588,In Progress,,FALSE,Y,11
+100073,Credit Card,Rewards,Other,United Credit,Oh,,88420,Closed,Closed,,FALSE,-2
+101868,Bank Account,Collections,Fees,Northstar Finance,Ny,Miami,34803,Open,Closed,N,FALSE,28
+101760,Credit Card,Interest rate,Fees,,,,00000,  ,Closed,Yes,,28
+101871,Credit Reporting,Adjustable loan,Fees,United Credit,Ca,New York,43016,Resolved,,N,,-5
+100788,Credit Card,,Billing disputes,United Credit,,Los Angeles,96401,Resolved,,Y,,43
+101170,Student Loan,Rewards,Billing disputes, ,Oh,Columbus,53013,In Progress,Closed,Yes,Y,25
+101677,Mortgage,Collections,Billing disputes,United Credit,Ca,Columbus,00123,Resolved,,,FALSE,-1
+100333,Debt  Collection,Rewards,Other,Northstar Finance,,Philadelphia,,Closed,,N,FALSE,42
+101870,Bank Account,,Collection harassment,Acme Bank,Ca,,85258,  ,,,TRUE,16
+100574,Bank Account,Fixed loan,Other,United Credit,,,27006,,,No,Y,57
+100294,,Interest rate,Incorrect information,United Credit,Ca,Philadelphia,94069,In Progress,,Y,,6
+101142,Credit Reporting,Rewards,Incorrect information,Metro Loans,Oh,New York,55538,Resolved,,TRUE,FALSE,46
+100969,Debt  Collection,Fixed loan,Incorrect information,Metro Loans,,Columbus,51572,,In progress,Y,FALSE,22
+100059,,Adjustable loan,Billing disputes,,,Miami,90635,,,FALSE,FALSE,9
+100210,Credit Reporting,Rewards,Identity theft,Metro Loans,Ga,New York,34116,Open,In progress,TRUE,Yes,6
+100615,Credit Card,,Fees,United Credit,Fl,Charlotte,60456,Closed,,FALSE,Y,42
+101753,Student  Loan,Collections,Other,,,Philadelphia,20900,Open,Closed,FALSE,,4
+101953,Mortgage,Interest rate,Billing disputes,Metro Loans,Nc,Atlanta,83796,Resolved,,,No,43
+100241,Debt Collection,Collections,Fees,Northstar Finance,,,90093,In Progress,Closed with explanation,TRUE,TRUE,37
+101979,,Fixed loan,Collection harassment,FinServ Co,Oh,Philadelphia,91842,,In progress,Y,TRUE,29
+101243,Mortgage,Fixed loan,Billing disputes,Acme Bank,Ca,Miami,75506,,,,Y,46
+100420,Debt  Collection,Interest rate,Other,United Credit,Fl,Columbus,52808,  ,Closed,Y,TRUE,5
+101946,Credit Reporting,,Incorrect information,,,Miami,21836,Open,Closed with explanation,N,Y,32
+100601,Student Loan,Interest rate,,FinServ Co,Ca,Houston,30795,Closed,Closed with explanation,FALSE,,23
+101801,Debt Collection,,Fees,Metro Loans,Ga,New York,56678,Closed,In progress,Yes,Y,16
+100255,Mortgage,Interest rate,Identity theft, ,Nc,New York,00000,  ,,,TRUE,22
+101989,Credit Card,Adjustable loan,Billing disputes,,,,00123,In Progress,,No,,17
+100990,Mortgage,Collections,Identity theft, ,,Columbus,20353,,,TRUE,,49
+100102,,,Other,,,Charlotte,00123,Closed,,,Y,20
+101957,Bank Account,Adjustable loan,Fees,Acme Bank,Ca,Philadelphia,27979,,In progress,N,FALSE,30
+101211,Mortgage,,Collection harassment,,Ny,,49701,  ,,,,25
+100874,Credit Card,Fixed loan,Collection harassment,United Credit,,Miami,00123,Open,In progress,Yes,N,55
+100556,Credit  Card,Rewards,,United Credit,Tx,Philadelphia,78106,Resolved,Closed with explanation,,No,54
+101406,Credit Card,Fixed loan,,,Oh,Philadelphia,67604,Resolved,,No,No,29
+100031,,Fixed loan,Incorrect information,FinServ Co,,Atlanta,00123,In Progress,Closed with explanation,Yes,N,15
+101098,Bank Account,Adjustable loan,Other,,Tx,New York,63725,  ,,No,,-2
+100999,Credit Reporting,Interest rate,Fees,FinServ Co,Ny,,88465,  ,Closed,,Yes,52
+101341,Bank Account,Rewards,Incorrect information,,Il,Philadelphia,82264,  ,In progress,,Yes,52
+101622,Bank Account,Fixed loan,Collection harassment,,Fl,,64945,In Progress,,,,36
+101667,Debt Collection,,Other,,,New York,25878,Open,In progress,N,,41
+100398,Debt  Collection,Rewards, ,United Credit,Oh,Atlanta,37524,Closed,,Yes,Y,43
+100179,Student Loan,,Collection harassment,,Tx,Philadelphia,35989,Open,Closed with explanation,,N,13
+101160,Credit Reporting,Fixed loan,Collection harassment,Acme Bank,Ga,Detroit,,  ,Closed with explanation,FALSE,Y,41
+101076,Bank Account,Adjustable loan,Billing disputes,,,Miami,00000,  ,Closed,No,N,50
+100023,Mortgage,Interest rate,Collection harassment,FinServ Co,Il,Columbus,,Closed,,,Yes,-3
+101163,Bank Account,Rewards,Other,Acme Bank,Il,New York,30111,Open,Closed,N,,5
+100113,Bank Account,Rewards,Incorrect information,Northstar Finance,Ga,Philadelphia,71678,Open,Closed with explanation,,No,41
+100731,Credit Reporting,Interest rate,Fees,Northstar Finance,,New York,72525,Closed,In progress,Y,FALSE,34
+100202,Mortgage,Interest rate,Identity theft,Acme Bank,Oh,Chicago,37951,Resolved,Closed with explanation,,Y,-5
+100562,Bank Account,Rewards,Collection harassment,,Tx,Charlotte,55340,Resolved,,Yes,No,23
+100688,Bank Account,Adjustable loan,Other,,Fl,,00123,  ,,TRUE,Y,15
+101127,Credit Card,,Incorrect information,,Ny,Charlotte,37764,Resolved,Closed with explanation,,Yes,35
+101583,Credit Reporting,Rewards,Identity theft,Metro Loans,Fl,,34057,In Progress,,N,Y,30
+101361,Mortgage,Rewards,Fees,,Oh,,24483,Resolved,,FALSE,TRUE,23
+100067,Student Loan,,,,,,56777,Resolved,,N,FALSE,16
+101781,Mortgage,Adjustable loan,Identity theft,,Ga,,72278,Resolved,,,FALSE,3
+101812,Credit Card,,Fees,FinServ Co,Ga,Atlanta,57160,Open,In progress,N,TRUE,20
+101849,Debt Collection,,Incorrect information,,Ca,Columbus,11357,Resolved,,,TRUE,58
+100711,Credit Card,Fixed loan,Fees,Acme Bank,Ny,Charlotte,30856,In Progress,In progress,Y,,28
+101598,Credit Card,Collections,Other,FinServ Co,Fl,,88076,Resolved,,TRUE,,33
+101947,Debt Collection,Fixed loan,Incorrect information,Acme Bank,Oh,,95535,Resolved,Closed with explanation,Y,N,12
+100946,Bank Account,,Collection harassment,,Oh,,00123,In Progress,In progress,Y,FALSE,56
+100865,Credit Card,Interest rate,Identity theft,United Credit,Ca,New York,32930,In Progress,Closed,No,,40
+101151,Credit  Card,,,,Ny,Miami,,In Progress,,Yes,TRUE,11
+101539,Student Loan,Adjustable loan,Fees,FinServ Co,Oh,Atlanta,57937,Resolved,,N,FALSE,59
+101887,Credit  Card,Fixed loan,Incorrect information,FinServ Co,Tx,New York,26267,,,No,Y,-3
+100093,Credit Reporting,Interest rate,Collection harassment,Metro Loans,Nc,Philadelphia,00000,,,TRUE,Y,12
+100286,Debt Collection,Rewards,Identity theft,Northstar Finance,Ny,Charlotte,84475,In Progress,,Yes,TRUE,16
+100160,Bank Account,,Billing disputes,Metro Loans,,Los Angeles,,  ,In progress,Yes,TRUE,42
+100820,Bank Account,Fixed loan,Fees,,Ca,Houston,33824,Closed,,,No,12
+100794,Credit Card,Collections,Incorrect information,Northstar Finance,,,93582,Open,Closed with explanation,,FALSE,2
+101580,Bank Account,Interest rate,Collection harassment,,Oh,,86531,Open,Closed with explanation,,Yes,3
+100509,Credit Reporting,Adjustable loan,Other,,,Miami,32927,Open,In progress,,Y,21
+101222,Credit Card,,Identity theft,,,New York,00000,,,Yes,,56
+100207,Mortgage,Adjustable loan,,Metro Loans,Ny,Miami,00000,Open,,,TRUE,45
+100128,Credit Card,Interest rate,Incorrect information,,Mi,Philadelphia,13054,In Progress,Closed with explanation,,N,6
+100069,Student  Loan,Adjustable loan,Collection harassment,Acme Bank,,,30297,In Progress,Closed,No,No,15
+100508,Mortgage,Interest rate,Billing disputes,,Mi,,46473,Resolved,,Yes,,47
+100774,Credit Reporting,Fixed loan,Incorrect information,Northstar Finance,,,,In Progress,Closed,TRUE,TRUE,42
+100559,,Fixed loan,Other,Acme Bank,Ga,Chicago,89630,Closed,In progress,Yes,Yes,41
+100728,Mortgage,Fixed loan,Identity theft,United Credit,,Miami,00123,In Progress,Closed with explanation,N,Yes,9
+100098,Mortgage,Rewards,Fees,Acme Bank,Il,Charlotte,28217,  ,,,,48
+100748,Credit Reporting,Collections,Billing disputes,United Credit,Tx,Los Angeles,00000,In Progress,,,,45
+101364,Debt  Collection,Interest rate,Identity theft,,Mi,Miami,35209,Closed,,,,35
+101927,Mortgage,Rewards,Incorrect information,,,New York,90649,  ,Closed,,Yes,25
+100285,Student  Loan,Adjustable loan,Incorrect information,United Credit,Mi,,77514,  ,Closed,Y,No,-1
+101199,Debt Collection,Collections,,FinServ Co,Pa,Atlanta,99453,Closed,,FALSE,No,55
+101776,Credit Card,Interest rate,Fees,,Ny,,59302,Resolved,,No,FALSE,4
+101516,Debt Collection,,Collection harassment,Northstar Finance,Il,Miami,,In Progress,Closed,Y,Y,15
+101336,Bank Account,Rewards,Collection harassment,,,,69333,Open,Closed with explanation,N,FALSE,39
+101287,Bank Account,Adjustable loan,Collection harassment,United Credit,,New York,23715,Resolved,,,N,3
+101195,Debt  Collection,Adjustable loan,,Northstar Finance,Pa,Chicago,62558,,,Yes,,10
+100163,Debt Collection,Adjustable loan,Billing disputes,,Pa,Philadelphia,00000,Closed,,,,43
+100081,Bank Account,,Fees,FinServ Co,Tx,,,  ,,No,Yes,1
+101890,Debt Collection,Rewards,Other,United Credit,Pa,,27557,Closed,,FALSE,FALSE,22
+101710,Debt  Collection,Rewards,Fees,FinServ Co,Ga,Miami,36830,Open,,FALSE,,6
+100355,Bank Account,,Identity theft,,,New York,,,,Yes,Y,14
+101264,Student Loan,Fixed loan,Fees,United Credit,Fl,Miami,47251,In Progress,,,Y,8
+100367,Mortgage,,Identity theft,Metro Loans,Nc,,61792,  ,,FALSE,,29
+101164,Bank Account,Interest rate,Incorrect information,Acme Bank,Nc,Charlotte,59455,Closed,Closed with explanation,FALSE,TRUE,58
+101912,Credit Reporting,Adjustable loan,Identity theft,Metro Loans,Oh,Atlanta,,,,Y,Y,29
+101009,Credit Reporting,Adjustable loan,Fees,FinServ Co,Nc,,71826,Resolved,Closed,N,,4
+101842,Mortgage,Fixed loan,Identity theft,,Ny,New York,29387,In Progress,Closed with explanation,FALSE,Yes,45
+101148,Credit Reporting,Fixed loan,Other,,,Chicago,,Closed,Closed,,No,42
+100392,Mortgage,Rewards,Fees,United Credit,Ga,Houston,59252,Open,,TRUE,,39
+101852,Credit Reporting,Interest rate,Other,,,Chicago,15897,Closed,Closed with explanation,N,,-3
+101911,Credit Card,,Fees,Acme Bank,Pa,Los Angeles,60986,,Closed,N,Y,16
+100406,Debt Collection,Collections,Fees,FinServ Co,,Columbus,,,In progress,N,N,-5
+101675,Debt  Collection,Rewards,,Acme Bank,,Columbus,79354,  ,,Y,,46
+100013,Mortgage,Fixed loan,Fees,Metro Loans,Fl,Philadelphia,47743,In Progress,In progress,N,N,27
+101274,Credit Reporting,Interest rate,Incorrect information,Northstar Finance,,Los Angeles,,Resolved,,Y,,4
+101829,Credit Card,,Identity theft,FinServ Co,Ga,Atlanta,38322,In Progress,,No,Y,42
+100054,Credit Card,,Billing disputes,FinServ Co,,Philadelphia,33013,Resolved,,Y,FALSE,43
+100905,,Interest rate,Collection harassment,,,Detroit,95347,  ,Closed with explanation,FALSE,TRUE,44
+100829,Credit Card,Collections,Fees,United Credit,Ga,Miami,11697,Closed,,FALSE,,4
+101254,Credit  Card,Interest rate,Incorrect information,Northstar Finance,Nc,Charlotte,,,,,Y,43
+101665,Credit  Card,Collections,Fees,Metro Loans,Pa,Miami,52887,Closed,Closed,FALSE,FALSE,51
+101271,Debt Collection,Adjustable loan,Identity theft,United Credit,,New York,89056,In Progress,,No,TRUE,58
+100498,Mortgage,Rewards,Billing disputes,,Ga,,40088,,,Y,N,7
+101537,Debt Collection,,Other,,,Miami,84552,Closed,,N,N,29
+100131,,,Other,Acme Bank,Ca,New York,20231,  ,Closed with explanation,N,N,-3
+101920,,Fixed loan,Collection harassment,,,,40203,Open,Closed with explanation,Y,Y,-3
+100790,Mortgage,,Billing disputes,Acme Bank,Tx,Los Angeles,45462,Resolved,,FALSE,N,53
+100247,Bank Account,,Incorrect information,FinServ Co,Tx,New York,35736,,,No,TRUE,10
+101964,Credit  Card,Collections,Identity theft,Northstar Finance,Fl,Houston,56817,In Progress,In progress,Y,No,3
+100387,Credit Card,,Collection harassment,Northstar Finance,,Los Angeles,00000,Open,,,,58
+101531,Mortgage,Interest rate,Billing disputes,United Credit,,New York,80312,Closed,,N,,22
+100936,Credit  Card,Fixed loan,Other,United Credit,,,49411,,Closed with explanation,No,,31
+101542,Credit Card,Rewards,Identity theft,FinServ Co,Nc,Charlotte,80522,  ,In progress,,,9
+100920,,Rewards,Billing disputes,,,Philadelphia,00000,In Progress,Closed,,,51
+101734,Credit Card,Interest rate,Fees,Acme Bank,Nc,,35287,  ,Closed,N,Y,11
+101090,Debt  Collection,Interest rate,Fees,Northstar Finance,Fl,Houston,16830,Resolved,In progress,FALSE,TRUE,54
+101471,Mortgage,Interest rate,Billing disputes,,Ny,Miami,64377,Open,In progress,Y,N,18
+101834,Bank Account,Adjustable loan,Other,FinServ Co,Ca,,91057,  ,,No,N,56
+101407,Credit Reporting,Fixed loan,Incorrect information,,Oh,Columbus,,,,,FALSE,36
+101132,,Rewards,,Acme Bank,Il,,21468,Open,,No,Y,10
+100751,Bank Account,Collections,Billing disputes,United Credit,Ca,New York,66570,Closed,In progress,,TRUE,24
+101738,Credit  Card,,Other,FinServ Co,Ny,New York,12870,  ,,,,59
+101553,Debt Collection,,Billing disputes,United Credit,,Atlanta,61065,,,,,11
+101117,Student Loan,Adjustable loan,,United Credit,Mi,Chicago,83393,,,Y,No,-2
+100996,Credit Reporting,Interest rate,Fees,,,New York,71739,Resolved,,Yes,,32
+101167,Student Loan,,Other,FinServ Co,Ny,,72912,  ,Closed with explanation,N,TRUE,18
+101143,Debt Collection,Interest rate,Collection harassment,Acme Bank,,Los Angeles,61309,Resolved,,N,N,57
+100028,Credit Reporting,Rewards,Fees,Metro Loans,Fl,Columbus,00123,In Progress,,,Y,42
+101352,Bank Account,Collections,Identity theft,,Ga,Los Angeles,63335,Resolved,,FALSE,Y,14
+101072,Credit Reporting,Rewards,Other,Northstar Finance,Pa,Miami,00123,Open,,,Yes,21
+101517,Mortgage,Interest rate,Identity theft,Acme Bank,,New York,64288,In Progress,,No,TRUE,36
+101123,Bank Account,Rewards,Other,Metro Loans,Ca,New York,44312,Resolved,In progress,,Yes,-2
+100739,Credit Reporting,Collections,Collection harassment,,Fl,Houston,20447,Resolved,,TRUE,No,13
+101591,Mortgage,Interest rate,Billing disputes,Metro Loans,,Miami,97317,,,N,FALSE,53
+100281,,Rewards,Fees,FinServ Co,Ca,Miami,55414,,Closed with explanation,TRUE,N,23
+101687,Student Loan,,Fees,Northstar Finance,Oh,,53376,In Progress,In progress,No,,27
+101459,Student Loan,Rewards,Collection harassment,FinServ Co,Pa,New York,25808,In Progress,,FALSE,Yes,13
+100758,,Adjustable loan,Other,Acme Bank,Pa,New York,00000,  ,,TRUE,Yes,17
+100525,Debt Collection,Fixed loan,Identity theft,FinServ Co,Pa,New York,00123,,Closed,N,,8
+101813,Debt Collection,Fixed loan,,,Fl,Los Angeles,29210,  ,Closed,,TRUE,44
+101332,Student Loan,,Other,,Ga,,30799,In Progress,,,No,49
+101685,,Rewards,Billing disputes,FinServ Co,,Miami,34482,In Progress,Closed with explanation,FALSE,Y,36
+100061,Mortgage,Adjustable loan,Other,Acme Bank,,,00000,,Closed with explanation,FALSE,,12
+101951,Credit Reporting,Interest rate,Billing disputes,,Ny,New York,00000,Open,Closed,N,Y,22
+101905,Credit Card,Collections,Identity theft,United Credit,Nc,,,  ,,FALSE,TRUE,3
+101533,Debt Collection,Collections,Collection harassment,United Credit,,Miami,73662,Open,In progress,N,No,29
+100506,Mortgage,,Fees,Acme Bank,,Charlotte,28536,  ,Closed,FALSE,FALSE,21
+100812,,Fixed loan,Fees,FinServ Co,,Chicago,00123,Closed,,Y,TRUE,6
+101961,Credit Reporting,Fixed loan,Identity theft,Metro Loans,,Miami,43947,  ,,Yes,Y,39
+101120,Mortgage,Rewards,Other,United Credit,Oh,,72434,Open,,Yes,Yes,29
+100898,Bank Account,,Fees,Northstar Finance,Nc,,72487,Closed,,N,N,26
+100153,Credit Card,Interest rate,Other,,Oh,Detroit,75328,Open,,No,TRUE,35
+100390,Mortgage,Adjustable loan,Billing disputes,United Credit,Mi,Miami,28424,  ,Closed with explanation,,No,-3
+101816,Credit Reporting,Collections,Identity theft,Acme Bank,Fl,,84427,  ,,Y,N,19
+100388,Credit  Card,Collections,,,Tx,Detroit,37747,Resolved,Closed,Yes,FALSE,-5
+101031,Credit  Card,Adjustable loan, ,,Oh,Los Angeles,16414,  ,,,TRUE,5
+100911,Credit  Card,Collections,Other,Acme Bank,Fl,,28452,,Closed with explanation,N,Y,41
+100669,Student  Loan,Interest rate,Identity theft,FinServ Co,Fl,Los Angeles,,Closed,,TRUE,FALSE,3
+101624,Credit  Card,Collections,Fees,Northstar Finance,,Charlotte,35312,,,FALSE,,34
+101727,Student Loan,Interest rate,Collection harassment,,Pa,,94881,,In progress,,FALSE,46
+100092,Mortgage,Collections,Identity theft,,Mi,Columbus,70481,Closed,Closed,,,50
+101697,Credit  Card,Interest rate,Fees,United Credit,Ga,,74946,Open,,FALSE,FALSE,29
+100336,Student Loan,Adjustable loan,Identity theft,Metro Loans,,Los Angeles,92343,Resolved,,,FALSE,16
+100134,Student  Loan,,Billing disputes,Acme Bank,,Miami,43650,  ,,TRUE,Y,20
+101028,Bank Account,Adjustable loan,Identity theft,Acme Bank,Nc,,00123,Resolved,,TRUE,Yes,39
+100804,Bank Account,,Incorrect information,Northstar Finance,Oh,Philadelphia,00000,Open,,No,N,29
+100258,Debt Collection,,Identity theft,Acme Bank,Nc,Miami,45213,Closed,In progress,Y,,52
+101617,,Rewards,Identity theft,,Ca,Chicago,84310,In Progress,Closed with explanation,Y,FALSE,18
+101532,Mortgage,Rewards,Other,Acme Bank,,Philadelphia,,Resolved,,N,,16
+101508,Mortgage,Rewards,Fees,,Il,Los Angeles,79659,  ,,,No,59
+100673,Credit Card,Adjustable loan,Collection harassment,Northstar Finance,,Charlotte,00000,Open,,No,TRUE,25
+101478,Student Loan,Collections,Billing disputes,Metro Loans,Fl,,32789,,In progress,,Yes,11
+100394,Credit  Card,,Other,Acme Bank,Ga,,92686,Open,In progress,,Yes,31
+100139,Credit  Card,Collections,Other,United Credit,,Detroit,47478,,Closed,,N,59
+101045,Credit Reporting,Rewards,Billing disputes,,Nc,,,Resolved,,FALSE,,21
+101705,Mortgage,,Identity theft,,Mi,Atlanta,96784,In Progress,Closed with explanation,,TRUE,3
+100518,Credit Card,Fixed loan,Other,Northstar Finance,Il,Columbus,46822,In Progress,Closed with explanation,Yes,,36
+101353,Bank Account,Fixed loan,Other,,Ga,New York,,Resolved,Closed,FALSE,,59
+100777,Credit Card,Collections,Incorrect information,FinServ Co,Mi,Los Angeles,32104,  ,,Y,Y,29
+101521,Credit Card,Adjustable loan,Fees,Northstar Finance,,Houston,23150,In Progress,,,,6
+101641,Credit Card,Adjustable loan,Incorrect information,Northstar Finance,Fl,,69608,Open,,,Y,51
+100374,Debt  Collection,Rewards,Fees,FinServ Co,Mi,Los Angeles,72256,Resolved,Closed with explanation,N,Yes,33
+101228,Mortgage,Collections,Identity theft,FinServ Co,,Chicago,53239,  ,Closed with explanation,,N,11
+100919,Credit Card,Interest rate,Fees,,Ny,,10800,Closed,Closed,TRUE,,38
+101145,Credit Card,Collections,Incorrect information,Northstar Finance,Tx,Charlotte,00123,Open,Closed,N,Y,46
+101389,Debt Collection,,Fees,Metro Loans,,Miami,63266,Open,Closed with explanation,,,49
+101976,Bank Account,,Identity theft,Acme Bank,Ga,,00000,Resolved,,Y,FALSE,59
+100568,Debt Collection,Rewards,Collection harassment,Acme Bank,Tx,Chicago,71844,Closed,,Yes,N,46
+100933,Credit Reporting,,Billing disputes,Northstar Finance,Ga,New York,53413,Open,,,TRUE,23
+100854,Credit Reporting,Fixed loan,Other,FinServ Co,Ny,Charlotte,,Closed,Closed with explanation,N,N,10
+101772,Student Loan,Interest rate,Incorrect information,Metro Loans,Oh,Los Angeles,73490,In Progress,Closed with explanation,N,TRUE,52
+101681,,Adjustable loan,Identity theft,FinServ Co,Il,,47120,Open,,,Y,55
+101043,Student  Loan,Collections,Billing disputes,Acme Bank,Mi,Los Angeles,56336,,,N,N,58
+100312,Credit Card,,, ,,Miami,43432,In Progress,In progress,,N,15
+101112,Debt  Collection,,Billing disputes,FinServ Co,Ca,Charlotte,00123,Resolved,Closed with explanation,,Y,56
+101238,Student Loan,,Billing disputes,FinServ Co,,Los Angeles,80645,In Progress,Closed with explanation,N,Yes,29
+101454,Mortgage,, ,FinServ Co,Fl,Charlotte,82840,Resolved,,,,16
+101819,Bank Account,Collections,,Northstar Finance,,,66734,  ,Closed with explanation,No,FALSE,8
+101514,Mortgage,Rewards,Identity theft,,Ny,New York,,Resolved,Closed,TRUE,TRUE,12
+101534,Credit Card,,Billing disputes,Northstar Finance,Pa,Miami,14300,,,No,Y,3
+100200,Mortgage,Adjustable loan,Collection harassment,Acme Bank,Oh,Chicago,83076,Open,Closed,FALSE,,-1
+101080,Mortgage,Rewards,Billing disputes,,Pa,Charlotte,48308,Closed,,N,No,-3
+101426,Debt Collection,Adjustable loan,Collection harassment,United Credit,Fl,Los Angeles,18117,In Progress,Closed with explanation,TRUE,No,24
+101762,Bank Account,Interest rate,Fees,Acme Bank,Ca,New York,22908,In Progress,,,TRUE,-3
+101894,Debt Collection,Interest rate,Fees,Metro Loans,,Houston,42277,In Progress,Closed,Yes,,27
+100928,Credit  Card,,Other,,Tx,Miami,10168,Resolved,In progress,TRUE,No,12
+101900,,Interest rate,Fees,Acme Bank,Mi,,41235,In Progress,Closed,,FALSE,27
+101062,Credit Reporting,Adjustable loan,Other,FinServ Co,Mi,,39008,  ,,TRUE,,12
+101716,Student Loan,Rewards,Identity theft,United Credit,Tx,,92696,In Progress,,TRUE,Yes,56
+101985,Debt Collection,,Collection harassment,Metro Loans,Mi,,76404,,Closed with explanation,FALSE,FALSE,45
+100717,Credit  Card,Interest rate,Fees,Metro Loans,Oh,Philadelphia,15390,,In progress,Y,Y,1
+101820,Debt Collection,,Billing disputes,Northstar Finance,,Detroit,17121,Closed,,N,FALSE,33
+101923,Mortgage,Adjustable loan,Incorrect information,Northstar Finance,Fl,Los Angeles,61926,In Progress,In progress,FALSE,Yes,31
+101607,,Interest rate,Fees,,Oh,,16619,In Progress,,,Y,45
+101833,Student Loan,Collections,,Metro Loans,Tx,Miami,59800,,Closed,N,Y,49
+101626,Bank Account,Fixed loan,Collection harassment,United Credit,Nc,Los Angeles,22721,In Progress,,,FALSE,45
+100345,Bank Account,,Identity theft,Metro Loans,,Houston,19824,  ,In progress,N,FALSE,17
+100891,Mortgage,Adjustable loan,Fees,,,,,,,Y,Yes,18
+101448,Mortgage,Collections,,Metro Loans,Il,Detroit,63916,Closed,Closed with explanation,N,,56
+100447,Credit Reporting,Interest rate,,,Il,Chicago,93070,  ,,,,10
+101100,Debt Collection,Collections,Identity theft,,,Charlotte,90031,  ,,N,,51
+101952,Credit Card,Adjustable loan,Fees,United Credit,Fl,,63995,In Progress,,,Yes,17
+101522,,,Billing disputes,United Credit,Ny,Miami,74970,In Progress,,N,,27
+100722,Debt  Collection,Fixed loan,Incorrect information,Acme Bank,,Charlotte,11729,Resolved,In progress,Y,Yes,22
+101836,Credit Card,,Identity theft,Northstar Finance,,Atlanta,60459,In Progress,In progress,,No,-4
+100667,Mortgage,Rewards,Other,FinServ Co,Oh,Los Angeles,34146,In Progress,,,Yes,35
+100133,Mortgage,,Fees,United Credit,Ny,,,In Progress,Closed,N,Yes,-2
+101255,Student Loan,,,FinServ Co,Ca,,,,,N,FALSE,55
+101012,Debt Collection,Fixed loan,Fees,,,New York,14435,Open,In progress,TRUE,FALSE,43
+100720,Credit Reporting,Fixed loan,Other,FinServ Co,Il,,82962,  ,In progress,Y,Y,26
+101595,Mortgage,,Billing disputes,FinServ Co,Ny,Charlotte,94916,Resolved,Closed,FALSE,Yes,4
+100256,Bank Account,,Billing disputes,Northstar Finance,,Chicago,16579,Resolved,In progress,N,Y,8
+101648,Credit  Card,Collections,Other,,Nc,Charlotte,78850,Resolved,,No,,6
+101479,Credit Card,Fixed loan,Fees,FinServ Co,Fl,New York,38863,Open,,TRUE,Y,39
+101777,Mortgage,Adjustable loan,Other,United Credit,Fl,Columbus,87699,In Progress,,Yes,No,12
+101395,Student Loan,Rewards,Collection harassment,United Credit,Nc,,59399,In Progress,In progress,,,57
+100950,Student Loan,Fixed loan,Billing disputes,Northstar Finance,,,,Closed,In progress,,Yes,-5
+100008,Credit  Card,Fixed loan,Incorrect information,Metro Loans,Il,,00123,Open,,FALSE,No,6
+100803,Debt Collection,Collections,Fees,United Credit,Fl,Charlotte,31932,,,FALSE,,16
+101344,Credit Card,Adjustable loan,Billing disputes,,Il,Charlotte,86955,,,FALSE,Y,14
+101245,Bank Account,Rewards,Incorrect information,FinServ Co,Il,Detroit,70088,,,N,,21
+101069,Credit Card,,Fees,United Credit,Il,Atlanta,00000,,Closed,,N,-4
+100985,,Fixed loan,Billing disputes,,Pa,Los Angeles,73312,Resolved,In progress,TRUE,No,34
+100384,Credit Card,,Collection harassment,Northstar Finance,,Miami,38454,Resolved,In progress,,Y,55
+100185,Mortgage,,Billing disputes,Acme Bank,Il,,77948,Resolved,,,FALSE,17
+101240,Bank Account,Fixed loan,Fees,United Credit,Il,Atlanta,,,,Yes,No,45
+100332,Credit Card,Collections,Billing disputes,Acme Bank,Ga,,25090,Resolved,Closed with explanation,,Y,55
+100839,Student  Loan,Interest rate,,,,Chicago,22967,Closed,In progress,,No,8
+100689,Credit  Card,,Fees,United Credit,Ny,Detroit,30188,Resolved,In progress,Yes,,7
+101830,Credit Reporting,Rewards, ,FinServ Co,Tx,New York,51618,Closed,In progress,TRUE,Yes,1
+100035,Credit Card,Fixed loan,Billing disputes,Northstar Finance,Mi,Atlanta,,Open,,TRUE,FALSE,6
+100492,,Adjustable loan,Billing disputes,FinServ Co,Pa,Los Angeles,98324,Closed,Closed with explanation,N,Yes,28
+100224,Bank Account,Rewards,Billing disputes,FinServ Co,Oh,Chicago,28793,In Progress,,No,No,33
+101438,Debt Collection,,,Metro Loans,,Los Angeles,25676,Open,,Yes,,45
+100732,Debt Collection,,Identity theft,,,Miami,85435,,In progress,,N,-2
+100945,Student Loan,Interest rate,Other,Northstar Finance,Pa,,44651,,In progress,No,TRUE,35
+101984,Mortgage,,Fees,United Credit,Nc,Miami,42830,In Progress,,,TRUE,29
+100537,Mortgage,Fixed loan,Collection harassment,United Credit,,Atlanta,60896,  ,In progress,,FALSE,28
+100260,Mortgage,Fixed loan,Collection harassment,,Pa,Detroit,14707,Open,Closed with explanation,N,Yes,55
+101093,Debt Collection,Adjustable loan,Fees,FinServ Co,,Miami,47991,Closed,Closed,FALSE,,11
+100819,Mortgage,,Other,FinServ Co,Fl,,75656,,Closed,TRUE,No,20
+101601,,Fixed loan,Other,Metro Loans,Nc,Detroit,00123,  ,,TRUE,,51
+100714,Credit Card,,Fees,Northstar Finance,,Atlanta,81421,Resolved,,,Yes,23
+101197,Debt Collection,,Billing disputes,Acme Bank,Ga,Miami,18194,Resolved,Closed,FALSE,Yes,14
+101447,Student Loan,Rewards,Collection harassment,,Ca,Atlanta,90694,Resolved,Closed,,,1
+100307,Bank Account,Collections,Collection harassment,,,,00123,  ,,Y,N,46
+100555,Debt Collection,,,United Credit,Oh,New York,74839,Resolved,,,Y,-1
+100754,Bank Account,,Incorrect information,FinServ Co,Oh,Philadelphia,24356,,,Yes,FALSE,50
+101256,Credit  Card,,Fees,,Ga,New York,,Closed,,Y,,29
+100913,Mortgage,Rewards,Identity theft,Acme Bank,Tx,Charlotte,00000,In Progress,,No,N,7
+101204,Student  Loan,Fixed loan,Fees,Acme Bank,Pa,,54366,Open,,Y,Yes,9
+100195,Bank Account,Collections,,,Il,,24752,,Closed with explanation,TRUE,FALSE,24
+100393,Mortgage,Interest rate,Incorrect information,Metro Loans,Ny,,,,,Y,FALSE,54
+100233,Debt  Collection,Fixed loan, ,,Nc,,,In Progress,,,FALSE,21
+100381,Bank Account,Rewards,Billing disputes,United Credit,,Chicago,84338,Closed,,Yes,,50
+100859,Mortgage,,Identity theft,Metro Loans,Fl,New York,69546,,,,No,12
+100114,Debt Collection,,Fees,Northstar Finance,Mi,Los Angeles,66294,,In progress,Yes,No,25
+101767,Mortgage,Adjustable loan,Fees,Metro Loans,Tx,Columbus,54471,  ,Closed with explanation,Yes,TRUE,11
+101684,Credit Reporting,Rewards,Billing disputes,Northstar Finance,Tx,Miami,43770,Closed,Closed,,FALSE,22
+100516,Bank Account,,Identity theft, ,,,85275,Open,In progress,,,51
+100798,Credit Reporting,,Other,,Il,Detroit,12418,  ,Closed with explanation,No,No,13
+101752,Debt Collection,Rewards,Identity theft,United Credit,,Philadelphia,,Closed,,Yes,Y,43
+100058,Student Loan,,Incorrect information,FinServ Co,,Los Angeles,84371,,,Y,No,26
+101178,Credit  Card,Fixed loan,Identity theft, ,Nc,Philadelphia,13191,,Closed with explanation,No,TRUE,51
+100980,Mortgage,Interest rate,Other,,Ny,,,In Progress,In progress,,No,23
+101838,Credit  Card,Adjustable loan,Other,Northstar Finance,,Los Angeles,42443,In Progress,Closed,,N,34
+100045,,Fixed loan,Collection harassment,Metro Loans,,Chicago,40930,  ,,N,Yes,39
+101895,Bank Account,,Billing disputes,,Ga,Atlanta,,Open,In progress,Y,Yes,59
+101917,Credit Card,Rewards,Billing disputes,FinServ Co,Pa,Charlotte,77343,Open,Closed with explanation,N,,40
+100560,Bank Account,Collections,Collection harassment,Acme Bank,,Miami,81617,,In progress,TRUE,TRUE,20
+101053,Mortgage,Interest rate,Collection harassment,,Ny,Atlanta,67123,  ,,FALSE,No,10
+100695,Debt Collection,Adjustable loan,Incorrect information,Metro Loans,,New York,14279,  ,Closed with explanation,FALSE,TRUE,47
+101906,Student  Loan,Adjustable loan,Incorrect information,Acme Bank,Il,Chicago,69755,Open,,FALSE,,13
+101023,Bank Account,,Billing disputes,,Nc,Detroit,00000,,Closed,Y,,43
+101489,Debt Collection,Interest rate,Other,FinServ Co,Oh,Los Angeles,12194,  ,,,TRUE,17
+100449,Credit Card,Collections,Fees,,Pa,Philadelphia,59668,Resolved,In progress,No,Yes,36
+101402,Bank Account,Adjustable loan,Incorrect information,United Credit,,Detroit,17982,Open,In progress,Yes,FALSE,55
+100683,Bank Account,Fixed loan,,,Tx,Houston,52751,Open,Closed,,No,3
+100629,Credit Reporting,,Collection harassment,United Credit,Ga,,87005,  ,Closed with explanation,,Yes,50
+100027,Mortgage,Collections,Billing disputes,United Credit,Il,,00123,In Progress,,FALSE,TRUE,39
+101079,Student Loan,Fixed loan,Incorrect information,,Fl,Columbus,85810,Resolved,,Yes,,11
+101133,Mortgage,Collections,Billing disputes,,Ny,Los Angeles,00123,Open,,Yes,Yes,15
+100817,Credit Reporting,Adjustable loan,Other,Acme Bank,Ny,,95642,  ,,N,TRUE,47
+100944,Credit Reporting,Adjustable loan,Incorrect information,,Mi,,13917,In Progress,Closed,TRUE,N,-2
+101650,Mortgage,Interest rate,Fees,,Pa,Detroit,80732,Closed,,Yes,N,48
+101800,Mortgage,,Incorrect information,FinServ Co,Ga,,83456,Resolved,Closed with explanation,N,,19
+101091,,Interest rate,Billing disputes,FinServ Co,,Detroit,00123,,Closed,No,FALSE,34
+101233,Student  Loan,Interest rate,Collection harassment,FinServ Co,Ca,Charlotte,77879,Open,Closed,,No,42
+100852,Debt Collection,Fixed loan,Identity theft,United Credit,,Miami,55386,Resolved,,Y,,20
+100643,Debt  Collection,,Identity theft,United Credit,Mi,Los Angeles,00123,  ,,,,31
+101679,Bank Account,Rewards,Collection harassment,United Credit,Fl,Philadelphia,67406,In Progress,,,,-2
+101977,Debt Collection,Collections,Fees,Acme Bank,Tx,Chicago,,Closed,In progress,Y,Y,26
+100266,Debt Collection,Interest rate,Identity theft,Northstar Finance,Oh,,,,Closed with explanation,FALSE,Yes,2
+100593,Debt Collection,Fixed loan,Other,United Credit,Ca,Atlanta,68961,Open,In progress,Yes,N,14
+101128,Bank Account,Fixed loan,Collection harassment,,,,87895,Closed,In progress,FALSE,FALSE,13
+101807,Credit Card,Adjustable loan,Incorrect information,,,Los Angeles,,  ,,,No,24
+101218,Debt Collection,Collections,Fees,FinServ Co,,Detroit,21327,Closed,In progress,No,FALSE,-3
+100552,Credit Reporting,,Incorrect information,United Credit,,,58606,In Progress,In progress,N,No,5
+101613,Mortgage,Interest rate,Other,Metro Loans,Il,Miami,32649,  ,In progress,No,Yes,1
+101563,Debt Collection,,,Metro Loans,,Los Angeles,,In Progress,,Y,N,47
+100297,Credit Card,Adjustable loan,Fees,Acme Bank,Oh,Philadelphia,69460,In Progress,,FALSE,FALSE,16
+101503,,,Fees,Metro Loans,Pa,,24937,,,,Y,56
+101965,Credit Card,Fixed loan,Collection harassment,Metro Loans,,Atlanta,25343,  ,Closed,N,Yes,14
+101326,Bank Account,,Other,Metro Loans,Nc,Charlotte,96243,  ,Closed,No,FALSE,11
+101940,Credit Reporting,Interest rate,Identity theft,,Il,,48204,Resolved,,,No,25
+101315,Bank Account,Collections,Incorrect information,,Ny,Columbus,23728,Resolved,Closed with explanation,,,21
+100631,Credit  Card,Interest rate,Billing disputes,,Mi,Columbus,,Open,,FALSE,TRUE,13
+100665,Credit  Card,Collections,Fees,Metro Loans,,Miami,,Closed,,FALSE,No,37
+100676,Credit Card,,Fees,,,Miami,90335,Closed,Closed with explanation,N,No,23
+101763,Bank Account,Adjustable loan,Fees,Acme Bank,,,32144,Open,,,Yes,24
+100558,Credit Card,Collections,Billing disputes,,Ga,,98437,Open,,,TRUE,31
+100095,Credit Reporting,Rewards,Other,United Credit,,New York,,Open,Closed,,Yes,30
+101280,Debt  Collection,Interest rate,Other,Acme Bank,Fl,Detroit,27372,Open,,Yes,No,54
+101780,Student Loan,Collections,Incorrect information,FinServ Co,Ga,Detroit,12901,In Progress,,,No,39
+100407,,Rewards,Collection harassment,United Credit,Fl,,80012,In Progress,Closed with explanation,No,TRUE,31
+101949,Credit Card,Interest rate,Billing disputes,Northstar Finance,,Atlanta,17502,  ,,,,-3
+100699,Mortgage,,Other,,,Miami,78133,Open,Closed with explanation,N,Yes,53
+100372,Mortgage,Rewards,Billing disputes,,Ca,Atlanta,,  ,In progress,N,TRUE,55
+100245,Debt Collection,Collections,Billing disputes,Acme Bank,Pa,Atlanta,25945,In Progress,Closed with explanation,No,FALSE,17
+100470,Debt Collection,Fixed loan,Other,,Fl,Atlanta,57290,Resolved,,FALSE,,51
+101714,Bank Account,Rewards,Incorrect information,,,,12848,In Progress,,,FALSE,25
+101837,Mortgage,Fixed loan,Fees,,Fl,,88806,  ,Closed,Yes,Yes,58
+101528,Mortgage,Fixed loan,Incorrect information,FinServ Co,,Los Angeles,00123,  ,Closed,No,Yes,43
+100234,Credit Card,,Incorrect information,Northstar Finance,Pa,Philadelphia,93284,In Progress,Closed,Yes,No,8
+100037,Credit Card,Rewards,Collection harassment,,,Miami,49342,,,,N,8
+100835,Credit Card,Collections,Incorrect information,Northstar Finance,,Philadelphia,32381,Resolved,Closed,FALSE,FALSE,32
+101456,Credit Card,Fixed loan,Incorrect information,,Nc,Atlanta,79090,In Progress,Closed with explanation,TRUE,Y,15
+101561,Debt Collection,Interest rate,Incorrect information,,Pa,Philadelphia,,  ,,,,32
+101472,Credit Reporting,Interest rate,Other,,Il,Miami,26580,  ,,TRUE,N,59
+100127,Credit  Card,,Incorrect information,Northstar Finance,Nc,Philadelphia,30136,,,N,No,16
+101728,Bank Account,Interest rate,Billing disputes,United Credit,,,,Open,Closed,TRUE,,10
+100862,Bank Account,,Billing disputes,United Credit,,,64770,Closed,,No,N,3
+101191,Credit Reporting,,Billing disputes,United Credit,Pa,Miami,72512,Closed,,No,,11
+101786,Student Loan,,Identity theft,Acme Bank,Ny,,90074,Closed,,TRUE,No,4
+100050,Mortgage,,Incorrect information,United Credit,Nc,,00000,Closed,Closed,Y,Y,22
+101301,Mortgage,Collections,Billing disputes,,Ny,Atlanta,95647,Open,Closed,,FALSE,42
+100469,Student Loan,Interest rate,Incorrect information,,,Los Angeles,57102,  ,Closed with explanation,Y,FALSE,42
+100278,Student Loan,Interest rate,,Metro Loans,Mi,Philadelphia,10873,Closed,,Y,Yes,4
+100734,Student Loan,Collections,Collection harassment,FinServ Co,Fl,Miami,94775,Resolved,Closed with explanation,TRUE,,58
+100704,Credit Reporting,Fixed loan,Identity theft,Acme Bank,Nc,,82167,Open,In progress,FALSE,No,7
+100733,Student  Loan,Interest rate,Identity theft,,,Columbus,56245,  ,,FALSE,,33
+101999,Credit Reporting,Fixed loan,Incorrect information,Metro Loans,Il,Philadelphia,83465,Closed,In progress,Y,No,44
+100382,Credit Reporting,,Fees,United Credit,Tx,,90522,Resolved,,Yes,Y,20
+101180,Bank Account,,,,Tx,New York,00000,Resolved,,No,,13
+101559,Bank Account,Fixed loan,Collection harassment,FinServ Co,Ga,,88416,Open,In progress,,TRUE,-5
+100545,Credit Reporting,Interest rate,,,,Houston,42823,Closed,,No,No,54
+100528,Credit Card,Fixed loan,Incorrect information,Northstar Finance,,Los Angeles,38136,,Closed,TRUE,N,59
+101268,Credit Card,,Incorrect information,,,,84613,,,No,Y,47
+100861,Bank Account,Fixed loan,Identity theft,FinServ Co,Il,Philadelphia,40209,In Progress,Closed,N,Y,18
+101554,Debt Collection,Rewards,Other,Acme Bank,Nc,Houston,,Resolved,,No,Y,52
+101568,Credit Reporting,Fixed loan,Other,,Il,New York,00123,In Progress,Closed,N,,5
+101937,Bank Account,Rewards,Other,United Credit,Tx,Atlanta,57396,Closed,In progress,Y,TRUE,41
+100404,Credit Card,Fixed loan,Fees,,Pa,New York,58974,Open,,,N,25
+100036,Student Loan,Rewards,Other,Acme Bank,Tx,Chicago,13977,Open,,No,,22
+100906,Student Loan,Adjustable loan,Billing disputes,Metro Loans,Mi,Los Angeles,82224,  ,Closed,Yes,TRUE,30
+101277,Debt  Collection,Rewards,Incorrect information,Metro Loans,Fl,Miami,24359,  ,,Y,FALSE,6
+101692,Bank Account,Rewards,Billing disputes,Northstar Finance,Ga,,00123,  ,,,,-1
+100791,Mortgage,,,Northstar Finance,Ny,Miami,10871,Open,,Yes,Y,42
+100042,Credit Reporting,Adjustable loan,Incorrect information,,Tx,Columbus,35433,Open,In progress,Y,Yes,17
+100204,Debt Collection,,Billing disputes,Metro Loans,Fl,Chicago,00123,Resolved,Closed with explanation,,FALSE,8
+100411,,Interest rate,Other,Metro Loans,Pa,Charlotte,,,,Y,No,52
+101916,Bank Account,Collections,Billing disputes,United Credit,,Chicago,71932,,,,Yes,7
+101252,Student Loan,,Billing disputes,Acme Bank,Ca,Detroit,00000,In Progress,Closed with explanation,N,Yes,36
+101004,Credit Reporting,Interest rate,Other,,Fl,Los Angeles,64093,  ,Closed with explanation,FALSE,N,28
+101678,,Rewards,Incorrect information, ,Pa,Los Angeles,10219,  ,Closed,,TRUE,50
+100876,Mortgage,,Collection harassment,United Credit,Tx,Philadelphia,00123,In Progress,In progress,TRUE,No,27
+100044,Debt Collection,Interest rate,Fees,Metro Loans,Tx,Los Angeles,33336,Open,Closed,Y,Yes,46
+101236,,,Incorrect information,Acme Bank,Fl,Miami,13432,Resolved,,N,,30
+100478,Credit Reporting,Collections, , ,Ga,Miami,90597,Resolved,,No,,39
+100323,Credit Card,Fixed loan,Other,,Mi,New York,00123,Closed,,No,N,38
+101309,Mortgage,Fixed loan,Other,United Credit,Ny,Miami,17332,,In progress,N,,14
+100880,Credit Card,Fixed loan,Collection harassment,Northstar Finance,Fl,,88711,Open,In progress,TRUE,Y,51
+100012,Debt Collection,Interest rate,Billing disputes,Acme Bank,Il,,00123,Open,In progress,Yes,FALSE,30
+101574,Credit Reporting,,Other,,,Detroit,46613,In Progress,,TRUE,Yes,23
+101279,,Interest rate, ,Acme Bank,,Atlanta,29614,Open,In progress,TRUE,No,39
+101113,Credit Card,Adjustable loan,Billing disputes,,Il,Miami,00123,,Closed,,,1
+100778,Bank Account,Collections,Collection harassment,,Nc,Detroit,95167,,In progress,Yes,No,9
+101116,Student  Loan,Collections,Billing disputes,,,,70503,,,FALSE,Y,23
+101771,Debt Collection,Fixed loan,Fees,Northstar Finance,,New York,81356,Resolved,In progress,N,,17
+100213,Debt  Collection,,Collection harassment,,,Los Angeles,82536,Closed,,FALSE,Yes,1
+100922,Credit Card,,Collection harassment,,,Miami,62565,Closed,Closed with explanation,FALSE,Yes,52
+100165,Mortgage,,Other,,Il,,86290,Closed,,TRUE,Yes,19
+100813,Credit Reporting,Collections,Billing disputes,FinServ Co,Tx,Detroit,13342,Open,,TRUE,TRUE,43
+100166,Credit Reporting,,Billing disputes,Northstar Finance,Ga,New York,33322,In Progress,,N,N,48
+101139,Debt  Collection,Adjustable loan,Collection harassment,Acme Bank,Oh,Columbus,18043,Resolved,,,Yes,50
+100851,Credit Reporting,Collections,Fees,,Ny,,57457,,,No,,17
+100427,Mortgage,Rewards,Other,Metro Loans,Oh,Miami,73243,,,N,Yes,10
+101497,Mortgage,Interest rate,Identity theft,Acme Bank,Oh,,52300,,Closed,Yes,TRUE,19
+100768,Student  Loan,Collections,Incorrect information,,,Atlanta,63885,Open,,No,No,22
+100636,Bank Account,Adjustable loan,Identity theft,Northstar Finance,Il,Philadelphia,81874,Open,Closed with explanation,FALSE,N,28
+100912,,Adjustable loan,Identity theft,Acme Bank,Nc,,57211,  ,,TRUE,,9
+101527,Mortgage,,Incorrect information,,Ca,Los Angeles,20778,,Closed,,,39
+100389,Student Loan,Fixed loan,Identity theft,,Ca,Philadelphia,98862,Resolved,,Yes,FALSE,35
+101378,Credit  Card,,Incorrect information,Acme Bank,Pa,,91851,  ,Closed with explanation,,FALSE,21
+100180,Credit Card,Rewards,,Acme Bank,,Detroit,96483,Open,In progress,,Y,22
+100977,Student Loan,Collections,Collection harassment,Metro Loans,Ga,Columbus,,  ,Closed with explanation,,No,-5
+100811,Debt Collection,,Billing disputes,,Tx,Los Angeles,14749,Closed,Closed,TRUE,TRUE,49
+100205,Student Loan,Rewards,Collection harassment,FinServ Co,Fl,Houston,40475,  ,In progress,FALSE,,33
+101250,Mortgage,Rewards,Billing disputes,,Ca,Miami,61059,Open,,Yes,,41
+100657,Credit Reporting,Interest rate,Identity theft,,Ny,Detroit,36665,  ,Closed,No,,37
+101826,Mortgage,Collections,Billing disputes,Acme Bank,Tx,Detroit,45844,Resolved,Closed,,,17
+101001,Mortgage,Fixed loan,Identity theft,,Nc,Charlotte,17725,Open,Closed with explanation,No,,8
+100700,Mortgage,,Identity theft,Acme Bank,,Detroit,42474,Closed,Closed with explanation,Yes,No,5
+101202,Debt  Collection,Collections,Incorrect information,,Pa,Chicago,00000,In Progress,,TRUE,No,-4
+100760,Debt  Collection,,Collection harassment,Northstar Finance,Nc,New York,10548,,,N,,38
+101056,Student  Loan,Adjustable loan,Identity theft,Acme Bank,Ny,Columbus,32296,,,TRUE,Yes,46
+100309,Debt  Collection,Fixed loan,Billing disputes,United Credit,Ny,,90607,In Progress,Closed with explanation,,Y,25
+101343,Student Loan,Collections,Collection harassment,Acme Bank,,New York,,In Progress,,Yes,FALSE,8
+100104,Mortgage,Collections,Collection harassment,,Pa,Charlotte,00000,  ,,TRUE,Y,42
+100563,Mortgage,Fixed loan,Collection harassment,Northstar Finance,Il,Philadelphia,65443,In Progress,Closed with explanation,No,Yes,59
+100967,Student Loan,,Incorrect information,Metro Loans,Pa,Columbus,,Resolved,,Yes,,59
+101220,Credit Reporting,,Incorrect information,United Credit,Nc,Houston,42691,Resolved,,Yes,FALSE,20
+100477,Credit Reporting,Fixed loan,Collection harassment,,Ca,New York,47346,Resolved,,No,No,23
+101676,,,Identity theft,Acme Bank,Ga,Miami,68548,In Progress,Closed,Y,Y,0
+101480,Debt Collection,Rewards,Identity theft,Northstar Finance,Ca,Los Angeles,28619,  ,,No,No,12
+100925,Mortgage,Collections,Other,,Nc,Detroit,37678,Closed,,,N,3
+101893,Credit Reporting,Collections,Other,United Credit,,,34300,Open,Closed,,No,42
+100126,Student  Loan,Fixed loan,Collection harassment,Acme Bank,,Los Angeles,55860,In Progress,,No,Y,0
+100775,Bank Account,Fixed loan,Other,Metro Loans,Fl,,,Closed,,,,26
+101445,Debt Collection,Collections,Identity theft,Northstar Finance,,Los Angeles,23262,,,FALSE,N,5
+100461,Credit Reporting,,Fees,Metro Loans,,Los Angeles,73612,Open,In progress,TRUE,FALSE,52
+100770,Mortgage,,Billing disputes,FinServ Co,,Charlotte,71296,Closed,,,FALSE,47
+100056,Credit Reporting,Collections,Collection harassment,Metro Loans,Il,Miami,28577,In Progress,Closed,No,No,47
+101609,Bank Account,Rewards,Fees,United Credit,Ga,Los Angeles,71353,In Progress,Closed,FALSE,FALSE,43
+100209,Bank Account,Interest rate,Collection harassment,Metro Loans,Ga,Charlotte,28297,In Progress,,Yes,,45
+100439,Bank Account,,Fees, ,Nc,New York,46710,  ,In progress,,Y,32
+101560,Debt Collection,Interest rate,Collection harassment,Acme Bank,,Miami,25753,In Progress,In progress,N,Y,-2
+100653,Credit Card,Rewards,Collection harassment,Northstar Finance,Fl,Miami,21467,  ,In progress,,,18
+100338,Credit  Card,Rewards,Other,United Credit,Il,Detroit,41441,Closed,,Yes,Yes,24
+101071,Credit Reporting,,Collection harassment,FinServ Co,,Chicago,00000,Resolved,In progress,TRUE,Yes,28
+101789,Bank Account,Adjustable loan,Collection harassment,Metro Loans,,Chicago,,,Closed,Y,Y,39
+100955,Debt Collection,,Identity theft,Acme Bank,,Charlotte,84779,In Progress,In progress,No,No,43
+101425,Bank Account,,Billing disputes,,Ca,Philadelphia,59373,,,,,28
+100834,Student Loan,Interest rate,Fees,United Credit,Ca,Charlotte,20024,,,TRUE,Y,45
+100757,Student Loan,Adjustable loan,Identity theft,Northstar Finance,Tx,Charlotte,,In Progress,,Y,Yes,14
+101717,Mortgage,Collections,Collection harassment,,,Columbus,74908,Open,Closed,,,28
+101152,,Adjustable loan,,United Credit,Fl,Detroit,54073,Closed,,FALSE,,29
+100755,Bank Account,,Billing disputes,United Credit,Fl,Los Angeles,22904,Open,Closed with explanation,N,No,45
+101680,Credit Reporting,Adjustable loan,Collection harassment,United Credit,,,65662,Resolved,In progress,No,,34
+101261,Credit Reporting,,Other,Northstar Finance,Tx,Atlanta,56766,In Progress,,N,Y,-2
+100907,Debt  Collection,,Collection harassment,United Credit,Fl,Chicago,55538,Resolved,Closed,TRUE,Yes,36
+100924,Student  Loan,,Collection harassment,United Credit,Nc,,00123,In Progress,,,N,15
+101662,Credit Card,Adjustable loan,Identity theft,United Credit,Nc,New York,36561,  ,In progress,N,,56
+101059,Credit  Card,Fixed loan,Other,Northstar Finance,Tx,,11186,In Progress,,N,TRUE,30
+101751,Credit Card,Interest rate,Identity theft,Acme Bank,Tx,Los Angeles,00000,,Closed with explanation,,N,44
+101718,Student Loan,Fixed loan,Collection harassment,Northstar Finance,,,74517,In Progress,,,Yes,42
+100267,,,Incorrect information,Acme Bank,Il,Philadelphia,64700,Open,Closed,No,No,24
+101808,Bank Account,,Fees,FinServ Co,Oh,Columbus,,  ,Closed,TRUE,Yes,11
+100248,,Adjustable loan,Fees,,,,42808,Resolved,Closed,,N,-2
+101429,Student Loan,Interest rate,Identity theft,,Fl,Philadelphia,86434,Closed,,No,FALSE,22
+100507,Student Loan,Rewards,Billing disputes,,Il,Los Angeles,89875,  ,Closed with explanation,,FALSE,9
+100416,Credit  Card,,Collection harassment,FinServ Co,Nc,Columbus,61121,,,FALSE,N,31
+101095,Bank Account,Adjustable loan,Other,,,,,Closed,Closed with explanation,Y,N,-1
+101313,Bank Account,Fixed loan,Incorrect information,,,Atlanta,55561,Closed,,N,N,56
+100111,Bank Account,Adjustable loan,Billing disputes,FinServ Co,Fl,Houston,97055,Closed,In progress,Yes,TRUE,30
+101485,Mortgage,,Identity theft,United Credit,Pa,Los Angeles,97068,Closed,,,N,-5
+100408,Credit Card,,Billing disputes,Acme Bank,Ca,,94473,,Closed,N,Yes,46
+101101,Mortgage,,Collection harassment,FinServ Co,Ny,Charlotte,17620,,,Yes,No,30
+101661,Credit Reporting,Rewards,Fees,FinServ Co,,,30728,Resolved,,N,Yes,28
+100691,Credit Card,Rewards,Other,United Credit,Pa,Philadelphia,62011,,Closed,,No,6
+100321,Debt  Collection,Collections,Other,,Pa,Houston,56935,  ,Closed,,,32
+100366,Debt Collection,Interest rate,Other,,Ga,,29725,Closed,In progress,,TRUE,44
+101396,Bank Account,Interest rate, ,Northstar Finance,Tx,New York,81321,In Progress,,TRUE,TRUE,25
+101682,,Adjustable loan,Billing disputes,Acme Bank,Il,Houston,,,,Y,Yes,34
+100900,Credit Reporting,Adjustable loan,Fees,FinServ Co,,,81462,Open,,,N,27
+100637,Debt Collection,Fixed loan,Identity theft,Acme Bank,,Los Angeles,46789,  ,Closed with explanation,N,N,38
+101899,Credit Card,,Identity theft,,Ny,Miami,22704,In Progress,,TRUE,TRUE,52
+101140,Debt  Collection,Adjustable loan,Collection harassment,FinServ Co,Oh,Philadelphia,84268,Closed,,N,Yes,20
+101019,Bank Account,Interest rate,Identity theft,,Pa,Columbus,84548,In Progress,In progress,No,Yes,31
+100298,Student  Loan,Adjustable loan,Billing disputes,,Tx,New York,83806,,Closed,TRUE,Y,29
+100687,Debt Collection,Adjustable loan,Identity theft,,Mi,Detroit,41922,Closed,Closed with explanation,FALSE,,35
+100065,Bank Account,Adjustable loan,Identity theft,FinServ Co,Tx,New York,71719,Resolved,In progress,TRUE,Y,54
+101878,Mortgage,Adjustable loan,Fees,,Nc,Los Angeles,12995,Open,,No,Yes,3
+100677,Credit Card,Rewards,Identity theft,Metro Loans,,,58863,,,TRUE,Y,35
+101608,Bank Account,,Other,United Credit,Ga,Detroit,41003,Resolved,,N,No,18
+100049,Student Loan,Interest rate,Fees,Northstar Finance,Fl,Miami,77927,  ,,No,Y,55
+101914,,Collections,Incorrect information,,Fl,New York,,Open,Closed with explanation,TRUE,TRUE,58
+100055,Credit Reporting,Rewards,,,,Philadelphia,98413,Open,Closed with explanation,,N,41
+100549,Mortgage,Interest rate,Billing disputes,Acme Bank,Pa,,47670,Closed,Closed with explanation,N,No,-5
+101897,Credit Card,,Incorrect information,Acme Bank,Il,,74265,  ,Closed,N,Y,58
+100567,Debt Collection,Fixed loan,Fees,,Ca,Los Angeles,56817,,Closed with explanation,N,Y,13
+100743,Credit  Card,,Other,FinServ Co,Mi,Atlanta,58591,Closed,In progress,TRUE,FALSE,47
+100091,Credit  Card,Rewards,Billing disputes,United Credit,,New York,46438,Closed,,No,N,-1
+100752,Debt  Collection,,Incorrect information,Northstar Finance,Ny,Los Angeles,57406,,,FALSE,FALSE,36
+100639,Bank Account,Collections,Incorrect information,,Fl,Columbus,26795,,,,No,51
+101337,Bank Account,,Incorrect information,,Mi,New York,48291,  ,In progress,TRUE,No,36
+101083,Student Loan,,Collection harassment,Metro Loans,,,44147,  ,,TRUE,Yes,46
+101257,Student Loan,,Incorrect information,,,New York,10286,In Progress,Closed,Yes,Yes,1
+101600,Student Loan,Fixed loan,Incorrect information,United Credit,Nc,Columbus,77262,Resolved,,FALSE,N,56
+100522,Credit Reporting,Adjustable loan,Fees,Northstar Finance,Mi,Philadelphia,54701,Resolved,Closed with explanation,,FALSE,23
+101757,Credit Reporting,,Other,Acme Bank,,Chicago,00123,Open,Closed,Y,,-4
+100415,,Rewards,Billing disputes,Northstar Finance,,Columbus,11132,Closed,,Y,,50
+101385,Credit  Card,,Other,,Ca,Los Angeles,,  ,,No,Yes,49
+100982,Credit Reporting,Collections,Other,Acme Bank,,Miami,23906,,Closed with explanation,No,,11
+101424,Debt Collection,Collections,Identity theft,United Credit,Nc,New York,60005,,Closed with explanation,Y,No,57
+100090,Credit Reporting,Collections,Fees,,,,44324,Resolved,,No,FALSE,4
+100515,Mortgage,Collections,Collection harassment,,Mi,,27306,Resolved,,Y,TRUE,59
+100068,Student  Loan,Rewards,Incorrect information,Northstar Finance,Fl,Detroit,89707,Closed,Closed,,,4
+100216,Credit Card,Interest rate,Identity theft,Acme Bank,Il,Philadelphia,24656,Open,Closed with explanation,Yes,Y,25
+101698,Bank Account,Fixed loan,Billing disputes,,Nc,Los Angeles,92162,Open,Closed,No,TRUE,25
+100844,Debt Collection,Fixed loan,Billing disputes,Metro Loans,Fl,Columbus,10671,Resolved,,N,Yes,10
+101018,Mortgage,Collections,Identity theft,Acme Bank,Tx,New York,47002,Open,,Y,No,7
+101125,Mortgage,,Incorrect information,FinServ Co,Oh,Detroit,65634,In Progress,,,N,5
+101791,Credit Reporting,Interest rate,Billing disputes,,,Detroit,23787,,,Yes,FALSE,30
+100889,Bank Account,Adjustable loan,Billing disputes,FinServ Co,Nc,Los Angeles,59683,Closed,,,,27
+101735,,Rewards,Fees,United Credit,,New York,91527,,Closed,Yes,No,1
+101822,Student  Loan,Fixed loan,Billing disputes,United Credit,Ny,Detroit,40281,Resolved,,TRUE,Y,-4
+101172,Debt Collection,Interest rate,Identity theft,United Credit,Oh,Charlotte,47802,,,,Yes,59
+101147,Mortgage,,Collection harassment,Metro Loans,,,00123,Closed,In progress,Y,TRUE,45
+101194,Debt  Collection,,Incorrect information,,,Charlotte,27552,In Progress,Closed,,N,16
+100466,Mortgage,Rewards,Fees,,,,82682,In Progress,,Yes,No,13
+100789,Student Loan,Fixed loan,Fees,United Credit,Tx,,61517,Resolved,,No,,9
+100740,Bank Account,Fixed loan,Fees,,,New York,73788,Closed,In progress,,TRUE,25
+101432,Bank Account,Fixed loan,Collection harassment,,Tx,Philadelphia,17344,Closed,Closed with explanation,Y,TRUE,1
+100949,Student  Loan,Interest rate,Incorrect information,FinServ Co,,,29904,Closed,In progress,Y,No,-2
+100197,Bank Account,,Identity theft,United Credit,Pa,,00123,  ,,No,Y,36
+101304,Student  Loan,,Incorrect information,FinServ Co,Nc,Los Angeles,97164,Resolved,Closed with explanation,No,TRUE,45
+101959,Credit  Card,Fixed loan,Other,United Credit,,Chicago,34247,  ,,,N,56
+100330,Credit  Card,Interest rate,Other,Northstar Finance,,,19513,In Progress,,TRUE,Y,55
+101519,,,Other,FinServ Co,,Charlotte,40875,  ,,TRUE,,0
+100048,Student  Loan,Rewards,Incorrect information,FinServ Co,Nc,Los Angeles,40420,Open,,TRUE,Yes,48
+100468,Bank Account,Adjustable loan,Billing disputes,,Oh,Detroit,,Closed,,,FALSE,14
+100738,Credit Card,Interest rate,Identity theft,United Credit,Ny,Houston,81930,In Progress,Closed,No,,53
+101215,Mortgage,Collections,Identity theft,FinServ Co,Fl,Philadelphia,70783,  ,Closed with explanation,N,No,48
+101104,Debt Collection,Collections,Identity theft,FinServ Co,Il,Houston,,Closed,Closed,Y,Y,35
+101525,Mortgage,Fixed loan,Collection harassment,Metro Loans,Oh,,82150,Closed,,FALSE,N,21
+101657,Credit Card,,Collection harassment,Metro Loans,,,00123,Open,In progress,Y,,29
+100295,Credit Card,,Incorrect information,FinServ Co,Tx,Philadelphia,98107,,Closed with explanation,,,47
+101387,Debt Collection,Interest rate,Incorrect information,Metro Loans,Ca,Detroit,10514,,Closed,,,45
+100690,Mortgage,,Identity theft,Acme Bank,Ga,,68791,Closed,Closed with explanation,Y,No,37
+100357,Credit Reporting,,Other,United Credit,,,94411,  ,Closed,TRUE,,27
+100437,Bank Account,,Collection harassment,Northstar Finance,Oh,New York,18592,Closed,,,No,57
+101520,Credit Card,Adjustable loan,Incorrect information,Northstar Finance,Ca,,54170,  ,Closed,,,31
+100184,Debt Collection,Collections,Incorrect information,Northstar Finance,,Miami,97598,  ,Closed,No,,48
+100026,Credit Reporting,Rewards,Incorrect information,Northstar Finance,,Houston,00000,  ,Closed,No,FALSE,1
+101797,Bank Account,,Incorrect information,Metro Loans,Ga,Miami,66078,,Closed,,Yes,39
+100921,Debt Collection,Rewards,Collection harassment,,Il,Houston,50946,  ,,Y,FALSE,2
+101883,Student  Loan,,Collection harassment,FinServ Co,,Houston,59774,In Progress,In progress,Y,Yes,59
+101950,,Interest rate,Other,FinServ Co,Mi,New York,30026,  ,,TRUE,Yes,53
+101175,Mortgage,Interest rate,Fees,,Oh,New York,60840,  ,Closed,,N,33
+101618,Mortgage,Rewards,Collection harassment,FinServ Co,Il,New York,44199,In Progress,Closed with explanation,Yes,,-4
+100002,,Interest rate,Other,,Ny,,43864,Closed,,FALSE,,38
+101388,Credit Card,Rewards,Other,,Ca,Miami,96631,,,TRUE,FALSE,10
+100916,Credit Reporting,Interest rate,Billing disputes,,,New York,33400,In Progress,,No,N,50
+100745,Credit  Card,,Identity theft,FinServ Co,Il,,90788,Open,Closed,,,41
+100020,Credit Card,,Other,FinServ Co,Ca,Miami,49610,  ,,,,59
+100878,Debt Collection,Collections,Billing disputes,,,,36996,In Progress,In progress,TRUE,TRUE,36
+100546,Mortgage,,Fees,FinServ Co,Il,Chicago,50293,Closed,,Yes,N,2
+101593,Student  Loan,Adjustable loan,Incorrect information,,,Los Angeles,73425,  ,,No,Yes,47
+100726,Credit Card,,Collection harassment,United Credit,,,84425,,Closed with explanation,N,No,33
+101995,Student Loan,Adjustable loan,Collection harassment,,Oh,Miami,22734,Resolved,Closed with explanation,FALSE,Y,11
+101825,Debt Collection,,Billing disputes,Northstar Finance,Fl,Houston,51543,Open,,FALSE,No,44
+101183,Credit Card,Interest rate,Incorrect information,FinServ Co,Nc,Philadelphia,52203,Closed,,N,TRUE,34
+100741,Credit Reporting,Adjustable loan,Other, ,Pa,Houston,40651,Resolved,In progress,FALSE,,41
+101156,Credit Card,Rewards,Incorrect information,FinServ Co,Ca,,42265,,,N,TRUE,46
+101078,Credit Card,,Fees,Acme Bank,,Houston,60743,Closed,,TRUE,Yes,20
+100308,Credit Reporting,Collections,,FinServ Co,Ny,Chicago,,Open,Closed with explanation,,N,33
+100675,Student Loan,Interest rate,Collection harassment,Acme Bank,Ca,Detroit,36870,  ,Closed with explanation,No,N,21
+100030,Debt  Collection,,Fees,FinServ Co,Il,Miami,00123,Open,,FALSE,TRUE,58
+100458,Credit Card,,Fees,,Oh,,12084,Open,In progress,FALSE,,22
+101368,Bank Account,Interest rate,Incorrect information,Metro Loans,Pa,Atlanta,29124,,In progress,FALSE,Y,40
+100448,Mortgage,Rewards,Identity theft,,Oh,New York,41931,Closed,,No,No,31
+101110,Bank Account,, ,Metro Loans,Mi,Atlanta,21459,Resolved,In progress,Yes,,45
+100280,,Rewards,Identity theft,Northstar Finance,Fl,,61065,Closed,In progress,Y,N,59
+101404,Bank Account,Collections,Identity theft,,,Detroit,46004,In Progress,Closed with explanation,No,,26
+101414,Debt Collection,Interest rate,Identity theft,,Ny,Miami,74919,Open,,,,28
+100215,Bank Account,Fixed loan,Other,,Tx,Chicago,,  ,,N,TRUE,48
+100425,Mortgage,Collections,Identity theft,Northstar Finance,Fl,Columbus,96378,Closed,,N,N,8
+101265,Bank Account,,,United Credit,Ny,Chicago,82301,,Closed with explanation,TRUE,N,-4
+100228,Credit Reporting,Rewards,Collection harassment,United Credit,Fl,Philadelphia,64706,  ,,,Y,39
+100154,Credit Card,Fixed loan,Billing disputes,Metro Loans,,Houston,,,Closed,Yes,TRUE,9
+100291,Credit Card,Rewards,Collection harassment,Northstar Finance,Pa,,00123,Closed,,Yes,,54
+100948,,Rewards,Identity theft,Acme Bank,,Miami,00000,Open,In progress,,TRUE,21
+101784,Credit Reporting,Interest rate,Fees,,,Los Angeles,00000,In Progress,,N,TRUE,13
+100480,Credit Card,Collections,Collection harassment,,Oh,New York,24461,  ,,TRUE,FALSE,5
+100808,Bank Account,Adjustable loan,Other,,Fl,Houston,47386,Closed,,No,No,44
+100727,Mortgage,,Collection harassment,,,Houston,80858,Closed,In progress,N,FALSE,10
+101340,Debt Collection,Collections,Collection harassment,Metro Loans,,Chicago,83694,,,Y,,0
+101524,Credit Card,,Fees,Northstar Finance,Mi,New York,94359,  ,,,,36
+100254,Mortgage,Adjustable loan,Other,Metro Loans,,,,In Progress,,,,34
+101328,Mortgage,Interest rate,Fees,FinServ Co,Ny,Chicago,32698,In Progress,,,N,4
+101633,Student Loan,Fixed loan,Collection harassment,Acme Bank,Ny,Houston,00000,  ,,TRUE,No,51
+101285,Bank Account,Adjustable loan,Incorrect information,United Credit,Nc,Los Angeles,83253,  ,In progress,,,13
+101973,Bank Account,,Other,Northstar Finance,,Miami,40650,Open,Closed,,No,22
+100385,Debt Collection,Fixed loan,Identity theft,FinServ Co,Ny,Los Angeles,39109,,,N,Y,54
+100610,Credit Reporting,Interest rate,Fees,FinServ Co,Ca,Los Angeles,40840,Resolved,In progress,N,FALSE,18
+100250,Debt Collection,Rewards,Collection harassment,Metro Loans,Tx,Atlanta,,Closed,Closed,FALSE,TRUE,18
+100941,Credit Reporting,Fixed loan,Other,United Credit,Mi,New York,12069,Open,Closed with explanation,Yes,Yes,9
+101943,Credit  Card,,Billing disputes,Acme Bank,Mi,Los Angeles,13107,,In progress,Y,TRUE,1
+101518,,Rewards,Incorrect information,,Mi,,25479,Resolved,In progress,,,30
+101712,,Interest rate,Incorrect information,Northstar Finance,Ny,,00123,In Progress,,Y,,9
+101422,Mortgage,Fixed loan,Fees,,Oh,,00000,Open,,,,25
+101884,,Collections,Billing disputes,United Credit,Ny,Chicago,92502,,Closed,FALSE,N,12
+101904,Credit Reporting,Collections,Incorrect information,Acme Bank,Fl,Charlotte,00000,Open,,TRUE,TRUE,24
+100656,Debt Collection,,Incorrect information,United Credit,Oh,Philadelphia,00000,Resolved,,FALSE,FALSE,29
+100716,Credit  Card,,Identity theft,Metro Loans,Pa,Miami,50435,In Progress,,No,,59
+101065,Mortgage,,Incorrect information,,Nc,Columbus,87845,Closed,,Yes,FALSE,2
+100527,Bank Account,Collections,Identity theft,FinServ Co,Oh,Chicago,85592,  ,In progress,No,TRUE,19
+101787,Debt Collection,Fixed loan,Other,Northstar Finance,Pa,Los Angeles,15661,Open,,Y,TRUE,8
+100029,Credit Card,Interest rate,Billing disputes,United Credit,Fl,New York,82720,Resolved,Closed with explanation,,,2
+100895,Student Loan,Rewards,Identity theft,,,New York,00000,Resolved,In progress,,FALSE,41
+101589,Credit Card,Fixed loan,Other,,Ca,,80509,Closed,Closed,No,TRUE,39
+100713,Student Loan,,Incorrect information,FinServ Co,,New York,56096,Closed,Closed with explanation,No,Y,55
+100432,Student Loan,Adjustable loan,Billing disputes,,Pa,,71643,  ,,FALSE,No,50
+100660,Bank Account,,Billing disputes,Metro Loans,,Atlanta,00000,Closed,In progress,Y,Yes,8
+100747,Credit Reporting,Fixed loan,Collection harassment,,Nc,,10332,,,N,FALSE,43
+101606,Credit  Card,Adjustable loan,Identity theft,,Pa,,10629,,,Y,Yes,26
+100361,Credit Reporting,Rewards,Collection harassment,,,Chicago,99442,Open,Closed with explanation,TRUE,TRUE,51
+100462,,Rewards,Identity theft,FinServ Co,,New York,91351,In Progress,,Yes,Yes,46
+101314,Bank Account,Collections,Incorrect information,,Pa,Chicago,50352,Resolved,,,Yes,41
+101986,Student Loan,,Collection harassment,,Mi,,54789,Resolved,,FALSE,TRUE,6
+101421,Credit Card,Collections,Identity theft,United Credit,,Houston,11455,  ,,FALSE,No,31
+101157,Credit Reporting,Fixed loan,Identity theft,,Oh,Chicago,58069,Closed,Closed with explanation,,TRUE,24
+101300,Credit Reporting,Collections,Collection harassment,,Pa,Los Angeles,17115,Open,,FALSE,TRUE,48
+101398,Debt Collection,Collections,Fees,United Credit,Ca,,,Open,In progress,No,,27
+100103,Debt Collection,Collections,Identity theft,,Pa,Miami,73235,Resolved,,,Yes,30
+101050,Mortgage,Rewards,Identity theft,,Nc,Los Angeles,38927,  ,,,Y,7
+100960,Credit Reporting,Fixed loan,Incorrect information,Metro Loans,Pa,,46944,,,N,Yes,12
+100435,Student  Loan,Fixed loan,Other,,Ga,,43277,  ,Closed,N,N,55
+100971,Credit Card,,Collection harassment,Metro Loans,Ca,New York,68000,Open,,No,,57
+101742,Student  Loan,,Billing disputes,Acme Bank,Ca,,89383,In Progress,,Yes,N,0
+100585,Debt  Collection,Fixed loan,,,Ga,Los Angeles,42280,In Progress,Closed with explanation,TRUE,,35
+101888,Credit Reporting,Collections,Billing disputes,United Credit,Ny,Miami,80897,Open,Closed,No,No,0
+100756,Mortgage,,Incorrect information,United Credit,Oh,Charlotte,92288,Open,Closed,N,,36
+100000,Mortgage,Interest rate, ,Metro Loans,Ny,New York,75285,Closed,,N,,52
+101939,Student  Loan,Collections,Collection harassment,Acme Bank,,Chicago,76534,Closed,Closed,FALSE,N,24
+101515,Credit Card,Interest rate,Fees,Metro Loans,,New York,14335,Resolved,,FALSE,FALSE,-3
+100359,Credit Reporting,Rewards,Identity theft,,Oh,Columbus,19722,Resolved,,Y,No,57
+100931,Bank Account,,Fees,Metro Loans,,,00000,Resolved,,No,TRUE,35
+101513,Credit Card,Interest rate,Collection harassment,Metro Loans,,New York,98014,In Progress,In progress,FALSE,N,57
+100005,Mortgage,,Fees,Acme Bank,Ca,Miami,93641,Open,Closed with explanation,FALSE,Y,41
+100640,Student Loan,Collections,Identity theft,Northstar Finance,Nc,,25495,Closed,Closed with explanation,Yes,Y,58
+100932,,,Collection harassment,FinServ Co,Fl,Columbus,,Open,Closed with explanation,,TRUE,56
+101991,Debt  Collection,Adjustable loan,Billing disputes,Acme Bank,Nc,Los Angeles,,,,TRUE,,-1
+100418,Bank Account,Fixed loan,Other,Metro Loans,Pa,Miami,82121,Resolved,In progress,TRUE,Yes,12
+100956,Debt Collection,,,United Credit,Fl,Los Angeles,68448,,Closed,N,N,6
+100871,Bank Account,Rewards,Billing disputes,Northstar Finance,Ca,,82233,Closed,Closed with explanation,,,30
+101945,Credit  Card,Collections,Other,Acme Bank,Ga,Los Angeles,00123,Open,,Yes,N,-2
+101770,Credit Card,Fixed loan,Billing disputes,Acme Bank,,Miami,10799,Open,Closed,Yes,Yes,2
+101918,Bank Account,Interest rate, ,,Ca,,,In Progress,,FALSE,,14
+100218,Credit Card,Collections,Fees,Northstar Finance,Oh,Chicago,95441,,Closed,No,Y,55
+100101,Credit Card,Adjustable loan,Other,,Mi,Houston,85182,  ,In progress,TRUE,Yes,22
+101130,Mortgage,Interest rate,,United Credit,Fl,New York,,In Progress,Closed with explanation,FALSE,,2
+100235,Credit Reporting,Interest rate,Collection harassment,United Credit,,Charlotte,00123,Open,,,Yes,1
+101226,Credit Card,Collections,Fees,,Tx,Detroit,,,Closed with explanation,,Yes,30
+100718,Debt Collection,,Collection harassment,,Fl,Columbus,35227,Resolved,,,,26
+101177,Mortgage,,Incorrect information,,Nc,Detroit,00123,  ,Closed,,FALSE,35
+101345,Debt Collection,Rewards,Collection harassment,United Credit,Ca,,25839,Closed,,,N,43
+100503,Debt Collection,Fixed loan,Other,Metro Loans,Fl,New York,47432,Open,Closed with explanation,FALSE,,28
+100542,Bank Account,Rewards,Identity theft,Metro Loans,Ca,Miami,70216,  ,In progress,No,N,55
+100888,Debt  Collection,Interest rate,Collection harassment,Northstar Finance,,Atlanta,32231,Open,In progress,N,Y,54
+100433,Credit  Card,Adjustable loan,Identity theft,United Credit,Fl,Chicago,00000,  ,,,TRUE,50
+100680,Bank Account,,Collection harassment,Acme Bank,Mi,New York,59628,Closed,,Yes,Y,19
+101745,Credit Card,,Identity theft,,,,84615,Open,,N,TRUE,50
+101754,Bank Account,Rewards,Identity theft,,,Houston,85249,In Progress,,N,Y,13
+101097,,,Incorrect information,United Credit,Ca,Columbus,36438,  ,,FALSE,TRUE,28
+100828,Credit Card,Interest rate,Incorrect information,United Credit,Ny,New York,93904,In Progress,,,N,40
+100360,Student Loan,Rewards,Collection harassment,Acme Bank,,New York,41004,Resolved,,,,20
+100329,Mortgage,Interest rate,Billing disputes,FinServ Co,,Houston,62112,In Progress,In progress,FALSE,,19
+101944,Credit Reporting,,Collection harassment,Acme Bank,Nc,Los Angeles,58735,Open,Closed,,FALSE,50
+101477,Credit  Card,Collections,Fees,Metro Loans,Nc,Los Angeles,96785,,Closed,Yes,TRUE,17
+101475,Credit Reporting,Interest rate,, ,Tx,Miami,11088,Resolved,Closed,Yes,,42
+101832,Student Loan,Adjustable loan,Identity theft,FinServ Co,Nc,,35996,  ,Closed,Yes,Y,45
+100744,Debt Collection,Rewards,Other,,Mi,,93852,In Progress,,No,,48
+101775,Bank Account,,Collection harassment,FinServ Co,Ca,Chicago,88332,  ,,N,N,13
+100004,Credit Card,Adjustable loan,Collection harassment,United Credit,Pa,New York,62086,,,Yes,,2
+100890,Bank Account,,Billing disputes,FinServ Co,Oh,Miami,47394,Closed,,No,Yes,46
+100694,Student  Loan,Collections,Billing disputes,,Fl,Chicago,45074,Resolved,Closed with explanation,N,TRUE,23
+100981,Mortgage,Adjustable loan,Billing disputes,,Oh,Columbus,32586,Resolved,Closed with explanation,Yes,,40
+101015,Mortgage,Interest rate,Other,,Ga,Charlotte,65857,Closed,In progress,TRUE,,10
+100965,Debt  Collection,Rewards,Fees,United Credit,,New York,28112,Open,In progress,,N,14
+100530,Mortgage,Fixed loan,Fees,Acme Bank,Tx,Chicago,40537,Resolved,,,FALSE,37
+100849,Credit Card,Rewards,Billing disputes,Acme Bank,Mi,,86091,Closed,Closed with explanation,,,10
+100584,,Rewards,Billing disputes,,,Los Angeles,00123,  ,,,N,58
+100262,Bank Account,,Incorrect information,Metro Loans,,Charlotte,45518,In Progress,In progress,Y,FALSE,1
+101647,Credit Reporting,Adjustable loan,Fees,United Credit,Il,,33777,  ,Closed,Yes,,0
+100746,,,Other,Northstar Finance,,Miami,46377,,,Y,,37
+101483,Bank Account,,Billing disputes,Metro Loans,,,,Resolved,Closed,TRUE,TRUE,43
+100412,Credit Reporting,,Fees,Northstar Finance,Tx,Philadelphia,,  ,Closed,Yes,TRUE,52
+101572,Bank Account,Collections,Fees, ,,Chicago,31502,Open,,Yes,Yes,23
+101198,Credit Card,,Fees,Acme Bank,Nc,Miami,57820,,Closed,FALSE,,37
+101158,Debt Collection,Rewards,Fees,,,,24877,  ,,TRUE,TRUE,57
+100984,,Adjustable loan,,,Fl,Los Angeles,75632,Closed,,Y,Yes,45
+101846,Student Loan,Rewards,Identity theft,,Ca,,42834,  ,Closed with explanation,No,Yes,36
+101955,Mortgage,Interest rate,Other,Acme Bank,Fl,,20528,In Progress,,N,,31
+101453,Credit Reporting,Adjustable loan,Fees,,Nc,Los Angeles,71509,  ,,N,,7
+100489,Bank Account,Adjustable loan,Collection harassment,FinServ Co,,Houston,,Resolved,,,,25
+101741,Bank Account,,Incorrect information,,,Houston,24388,Closed,In progress,,,24
+101037,Mortgage,Interest rate,Identity theft,,Il,Charlotte,10996,,,No,TRUE,-1
+100602,,,Identity theft,United Credit,Il,Los Angeles,35212,Resolved,Closed with explanation,TRUE,FALSE,40
+101782,Mortgage,Interest rate,Identity theft,,Ca,,50386,,,,,-2
+101783,Mortgage,,Fees,FinServ Co,,Charlotte,86430,  ,,Yes,Y,30
+100076,Mortgage,Rewards,Billing disputes,,Ny,,,In Progress,,Yes,,-5
+101810,Mortgage,,Fees,,Ca,Chicago,75053,  ,Closed with explanation,TRUE,Y,24
+101357,Bank Account,Collections,Collection harassment,Metro Loans,Ca,New York,39696,  ,,Yes,Yes,17
+101719,Bank Account,,Identity theft,Acme Bank,Ny,Columbus,36327,Closed,,FALSE,N,1
+100015,Mortgage,Interest rate,Collection harassment,Acme Bank,,Miami,80055,Open,Closed with explanation,,FALSE,14
+100132,Credit  Card,Rewards,Collection harassment,FinServ Co,,Columbus,93573,In Progress,,,,48
+100206,Debt Collection,,Incorrect information,Acme Bank,Ga,Charlotte,39516,In Progress,,Yes,Y,53
+101848,,,Incorrect information,FinServ Co,Fl,Atlanta,,  ,,Yes,,55
+101408,Credit Reporting,Rewards,,Northstar Finance,Ny,Miami,76401,  ,Closed with explanation,Yes,N,34
+100239,Credit Reporting,,Fees,,Oh,Philadelphia,00000,Resolved,Closed with explanation,Yes,,0
+100582,Bank Account,Collections,Incorrect information,Northstar Finance,Ny,Miami,71716,Closed,Closed,FALSE,TRUE,48
+100071,Debt  Collection,Fixed loan,Billing disputes,United Credit,Tx,Houston,00123,,Closed,TRUE,TRUE,13
+100579,Bank Account,,Collection harassment,Metro Loans,Ca,Charlotte,71557,Closed,In progress,,Y,3
+101844,Credit Reporting,,Billing disputes,Acme Bank,Tx,Columbus,22537,  ,,,,46
+101862,Credit Reporting,,Identity theft,Metro Loans,,Columbus,18027,Open,,,FALSE,59
+100809,Mortgage,,Incorrect information,Acme Bank,Ca,Miami,42501,Resolved,Closed with explanation,,Yes,6
+100619,Mortgage,Adjustable loan,Identity theft,Northstar Finance,,,62097,In Progress,Closed with explanation,No,TRUE,42
+100892,Debt Collection,,Fees,,Mi,,43112,,Closed,N,,24
+100043,Credit  Card,Collections,Billing disputes,Acme Bank,,Philadelphia,36889,,Closed,No,Y,16
+101066,Student  Loan,Adjustable loan,Billing disputes,,Mi,Charlotte,,  ,In progress,Yes,,11
+100496,Debt Collection,Collections,Fees,,Tx,Miami,78124,In Progress,,FALSE,TRUE,4
+100401,Credit Reporting,Adjustable loan,Fees,Metro Loans,,Chicago,,Closed,In progress,,N,10
+101187,Student  Loan,Collections,Incorrect information,FinServ Co,Ca,Miami,18128,In Progress,Closed with explanation,N,Y,26
+101373,Bank Account,Fixed loan,Billing disputes,FinServ Co,,Charlotte,80694,,,No,N,34
+101573,Mortgage,Rewards,Incorrect information,Metro Loans,Fl,Columbus,92066,Closed,,N,No,38
+100072,Credit Reporting,Adjustable loan,Billing disputes,Acme Bank,Ca,Los Angeles,97626,Resolved,,Yes,N,-1
+101872,Debt  Collection,,Identity theft,Acme Bank,Pa,Detroit,93539,Closed,In progress,FALSE,No,26
+101184,Mortgage,,Identity theft,Metro Loans,,Miami,21812,,,,Y,19
+101089,Credit  Card,Adjustable loan,Incorrect information,Acme Bank,,Atlanta,00123,In Progress,,No,FALSE,20
+101034,Debt Collection,,Incorrect information,,Ca,Atlanta,33428,Closed,Closed with explanation,N,FALSE,21
+100831,Credit Reporting,Adjustable loan,Billing disputes,United Credit,Ga,Los Angeles,67066,In Progress,Closed with explanation,Y,,22
+101057,Bank Account,Interest rate,Identity theft,Metro Loans,,Philadelphia,51423,Closed,Closed,TRUE,Yes,53
+100175,Debt Collection,Rewards,Billing disputes,FinServ Co,Il,New York,40153,Resolved,Closed,FALSE,Y,26
+100017,Mortgage,Collections,Fees,,,,29159,Resolved,Closed,FALSE,Yes,46
+101428,,Fixed loan,Collection harassment,,,Los Angeles,,Closed,,N,Y,6
+101087,Bank Account,Interest rate,Billing disputes,Acme Bank,,,40895,,,FALSE,N,5
+101794,Credit Reporting,Interest rate,Fees,Northstar Finance,Pa,Miami,,,In progress,,No,13
+100471,Mortgage,Adjustable loan,Identity theft, ,,,67744,Resolved,,Y,TRUE,-1
+101463,Mortgage,Fixed loan,Incorrect information,,,New York,27285,Closed,Closed,TRUE,,11
+100587,Credit  Card,Fixed loan,Identity theft,,Oh,Houston,,,In progress,No,Y,18
+100310,Credit Reporting,Collections,Identity theft,,Ny,,00123,Closed,,N,Yes,3
+101733,Debt  Collection,Fixed loan,Fees,Metro Loans,Tx,,55224,Resolved,,N,,3
+101270,Credit Reporting,Fixed loan,Other,Acme Bank,Oh,Columbus,22356,Resolved,In progress,TRUE,N,17
+101455,Credit Card,Collections,Fees,Northstar Finance,Pa,Miami,63232,Closed,Closed,Y,TRUE,36
+101540,Credit Card,Interest rate,Other,Acme Bank,Nc,,13245,Resolved,,,,24
+100395,Student Loan,Rewards,,FinServ Co,Mi,,88329,  ,Closed with explanation,Y,,-4
+101896,Credit  Card,Collections,Incorrect information,Northstar Finance,,Columbus,63655,Resolved,Closed,TRUE,TRUE,58
+100573,Bank Account,Adjustable loan,Fees,Metro Loans,Nc,New York,36811,Resolved,,,Yes,7
+101306,Credit Card,Collections,Billing disputes,FinServ Co,,New York,54433,Closed,,,No,21
+100548,,Rewards,Fees,Metro Loans,Ca,Los Angeles,73125,,,,No,-2
+100375,Bank Account,Interest rate,Identity theft,,Oh,,47709,In Progress,In progress,Y,FALSE,1
+100822,Bank Account,Rewards,Collection harassment,United Credit,Fl,Los Angeles,67784,Closed,In progress,,Y,15
+100909,Debt Collection,Interest rate,Incorrect information,,Pa,New York,49710,Resolved,,,FALSE,59
+100701,Student Loan,,Billing disputes,United Credit,,Philadelphia,37552,In Progress,Closed with explanation,Y,Y,41
+100943,Bank Account,Rewards,Other,,,Detroit,62451,Closed,,Y,Y,43
+101374,Mortgage,Collections,Incorrect information,,Ga,Miami,12127,In Progress,In progress,No,,-1
+100426,Student  Loan,Rewards,Billing disputes,Northstar Finance,Ga,Philadelphia,17225,Resolved,Closed with explanation,Y,FALSE,29
+100182,Credit Reporting,Adjustable loan,Collection harassment,Metro Loans,Ny,Charlotte,48576,Closed,Closed with explanation,N,FALSE,44
+100635,Credit  Card,Fixed loan,Incorrect information,Metro Loans,,Atlanta,45908,Open,In progress,FALSE,Y,19
+101835,Credit Reporting,,,Northstar Finance,,,39600,  ,Closed,,TRUE,16
+100626,Bank Account,,,,Ca,Los Angeles,89398,Resolved,,FALSE,TRUE,-3
+101493,Credit Reporting,Interest rate,Fees,United Credit,Fl,Miami,45846,,Closed with explanation,Yes,Yes,21
+100692,Student Loan,,Billing disputes,,,New York,55330,Open,,No,,38
+101941,Debt Collection,Fixed loan,Collection harassment,,Pa,Houston,93253,Open,,No,TRUE,37
+101971,Credit Card,Collections,Identity theft,FinServ Co,Pa,Atlanta,94611,Open,Closed with explanation,Y,Yes,4
+101063,Credit  Card,,Fees,Acme Bank,Nc,,64269,Closed,,FALSE,TRUE,34
+101901,Mortgage,,Incorrect information,United Credit,Ca,New York,68363,Closed,In progress,Y,,42
+101108,Debt Collection,Adjustable loan,Identity theft,Metro Loans,Oh,Columbus,26405,Resolved,,No,No,3
+101879,Mortgage,,Billing disputes,FinServ Co,Pa,,85134,,Closed with explanation,FALSE,,-2
+100954,Credit Card,,Incorrect information,FinServ Co,Fl,Miami,69413,Resolved,,FALSE,FALSE,7
+100742,Credit Reporting,Collections,Fees,United Credit,Fl,,28632,Open,,No,,-2
+101355,Credit Reporting,Fixed loan,Incorrect information,,,,62714,In Progress,Closed with explanation,Y,N,11
+101915,,Fixed loan,Incorrect information,,Oh,Miami,48942,,In progress,FALSE,,9
+100824,Bank Account,Rewards,Identity theft,,,Los Angeles,00123,,Closed with explanation,FALSE,No,3
+100801,Mortgage,Fixed loan,Collection harassment,,Ny,,52784,Closed,Closed with explanation,,,20
+101299,Student  Loan,Adjustable loan,Fees,,Fl,,,Closed,In progress,,Yes,29
+100805,Student  Loan,,Other,Northstar Finance,Il,New York,76261,In Progress,,,N,7
+100301,Bank Account,,Fees,Metro Loans,,Miami,00000,  ,,FALSE,,13
+100652,Bank Account,Adjustable loan,Incorrect information,Northstar Finance,Tx,,11985,In Progress,In progress,No,Yes,31
+100666,Bank Account,Rewards,Fees,,Oh,Columbus,23765,In Progress,In progress,Y,FALSE,51
+101360,Student Loan,Interest rate,Collection harassment, ,Tx,Miami,46795,In Progress,,FALSE,,35
+101077,Bank Account,Collections,Other,Northstar Finance,Ga,Houston,13380,,In progress,,,36
+100837,Mortgage,,Collection harassment,Metro Loans,Ny,Los Angeles,00000,Resolved,,No,FALSE,2
+101654,Mortgage,Interest rate,Fees,Acme Bank,,,14796,Open,Closed,FALSE,FALSE,8
+101282,Bank Account,,Fees,Acme Bank,Ny,Philadelphia,63597,Resolved,,FALSE,N,16
+100957,Credit Reporting,Adjustable loan,Other,Northstar Finance,Pa,Charlotte,69284,In Progress,In progress,N,FALSE,9
+101036,Credit  Card,Interest rate, ,,Mi,,45314,Open,Closed,No,,55
+100190,Credit Reporting,Interest rate,Fees,United Credit,Fl,,31339,  ,In progress,,,12
+101815,Credit Reporting,Collections,Incorrect information,,Ca,,12694,In Progress,Closed with explanation,,,-5
+101092,Student  Loan,Adjustable loan,Incorrect information,,,Atlanta,69088,Resolved,,FALSE,FALSE,50
+101435,Debt  Collection,,Incorrect information,FinServ Co,Fl,Miami,35265,Closed,,,TRUE,37
+100534,Credit Reporting,Fixed loan,Identity theft,Acme Bank,Fl,,97600,Open,,Yes,FALSE,40
+101891,Credit Card,Rewards,Identity theft,FinServ Co,Ca,Philadelphia,43258,Closed,Closed with explanation,No,N,-5
+100155,Debt  Collection,Collections,Billing disputes,Northstar Finance,Nc,Columbus,79931,,Closed with explanation,Yes,Y,25
+101663,Credit Card,Adjustable loan,Identity theft,Northstar Finance,Mi,Los Angeles,10523,In Progress,,Y,FALSE,28
+101779,Student Loan,Interest rate,Collection harassment,Acme Bank,Nc,,69074,Open,,Yes,TRUE,7
+101824,Credit Card,Adjustable loan,Other,Metro Loans,Fl,Philadelphia,92584,Resolved,In progress,,FALSE,28
+100968,Student Loan,Interest rate,,FinServ Co,Tx,Detroit,00000,Open,,TRUE,FALSE,47
+100487,Credit Card,,Other,,Oh,Philadelphia,48587,Open,In progress,No,Y,3
+100457,Credit Card,,Collection harassment,Acme Bank,Ga,Detroit,26871,  ,,FALSE,Y,3
+101401,Student Loan,Collections,Incorrect information,Metro Loans,Pa,Los Angeles,15187,  ,,Yes,Yes,41
+100441,Mortgage,Interest rate,Other,FinServ Co,Ga,Houston,53071,Resolved,,N,FALSE,2
+100879,Credit Reporting,Adjustable loan,Incorrect information,United Credit,Mi,,91896,In Progress,,FALSE,Y,-4
+100553,Credit Reporting,,Fees,United Credit,Oh,Atlanta,69962,Closed,In progress,No,N,41
+100221,Credit Card,Interest rate,Collection harassment,FinServ Co,Oh,,00000,In Progress,,Yes,,17
+100897,Debt Collection,Fixed loan,Fees,,Nc,Houston,84509,Open,Closed,Y,N,32
+100436,Debt Collection,,Billing disputes,,Il,Atlanta,19857,Open,Closed,,Y,33
+101827,Debt Collection,Interest rate,Collection harassment,Northstar Finance,Oh,Miami,18350,  ,Closed with explanation,,Yes,50
+101430,,Adjustable loan,,Metro Loans,Pa,Detroit,45109,In Progress,,,TRUE,9
+101545,Bank Account,Fixed loan,Incorrect information,,,Columbus,73352,  ,Closed with explanation,,TRUE,59
+100078,Debt Collection,,Incorrect information,Metro Loans,Ny,Chicago,00123,Closed,Closed,N,Y,23
+101778,Credit Card,Interest rate,Collection harassment,,Ny,,72639,Open,Closed,N,,4
+100472,Credit Reporting,Fixed loan,Other,,Il,,20137,Closed,In progress,TRUE,,56
+100520,Student Loan,,Billing disputes,,Oh,Philadelphia,48066,Open,,FALSE,Y,22
+100491,Credit Reporting,Collections,Fees,United Credit,,Houston,90598,Closed,Closed,N,FALSE,57
+101484,Debt  Collection,Rewards,Other,Acme Bank,,New York,44867,Closed,,TRUE,,59
+100077,Credit Reporting,,Collection harassment,United Credit,Fl,Atlanta,00000,  ,,FALSE,FALSE,0
+100497,Credit Card,Adjustable loan,Incorrect information,Acme Bank,Pa,Atlanta,00000,Open,,,FALSE,32
+100793,Mortgage,,Fees,,Nc,New York,65895,In Progress,,,Yes,31
+100978,Bank Account,Interest rate,Billing disputes,,Ca,Philadelphia,33425,Open,,Y,,22
+100992,,Collections,Identity theft,Northstar Finance,Ca,Miami,67045,  ,Closed with explanation,N,N,8
+101474,Bank Account,,Incorrect information,,Fl,,89388,,Closed,N,No,9
+100769,Student Loan,,Billing disputes,United Credit,,,,  ,Closed,,FALSE,35
+101847,Debt Collection,Collections,Fees,,Oh,,73446,  ,,Y,,12
+100422,Bank Account,,Billing disputes,,Oh,Chicago,27259,  ,Closed with explanation,,FALSE,45
+101351,Credit Card,Rewards,Identity theft,Acme Bank,Tx,Houston,43881,Resolved,,,Yes,2
+101620,Student Loan,,Identity theft,Acme Bank,,Los Angeles,41553,,Closed with explanation,Y,Y,23
+101333,Mortgage,Interest rate,Billing disputes,,Ca,Atlanta,31166,Open,,,TRUE,39
+101109,Mortgage,,Billing disputes,Northstar Finance,Nc,Philadelphia,43141,,,Yes,,2
+101817,Credit Card,Collections,Collection harassment,Metro Loans,Mi,Philadelphia,93613,,Closed with explanation,FALSE,,50
+100391,Credit Card,Fixed loan,Incorrect information,Acme Bank,Ny,Detroit,55702,,In progress,TRUE,Yes,55
+100762,Credit Card,Adjustable loan,Billing disputes,Northstar Finance,,Charlotte,11645,,,FALSE,No,38
+100517,Bank Account,Fixed loan,Collection harassment,Northstar Finance,Fl,Columbus,48164,,,No,FALSE,52
+100137,Mortgage,Interest rate,Identity theft,,Mi,Miami,54712,In Progress,,,FALSE,50
+100316,,Rewards,Other,,Tx,Charlotte,79475,Closed,In progress,No,Y,46
+101362,Credit Reporting,Rewards,Incorrect information,United Credit,Pa,Chicago,,Resolved,Closed with explanation,FALSE,,34
+101818,Bank Account,Fixed loan,Fees,FinServ Co,Nc,,12090,  ,,Y,,29
+101042,Student Loan,Interest rate, ,United Credit,Ny,New York,00123,  ,,No,,44
+101621,Debt  Collection,Collections,Fees,Acme Bank,Mi,,,In Progress,,Y,FALSE,30
+100192,Credit Card,,Identity theft,Metro Loans,Tx,Los Angeles,15662,Open,,Yes,,28
+100363,,Fixed loan,Identity theft,Acme Bank,,Miami,23289,,,FALSE,No,45
+100499,Mortgage,Adjustable loan,Collection harassment,Acme Bank,Ca,,38006,,,,No,26
+101209,Debt Collection,,Collection harassment,FinServ Co,Il,Miami,70818,Closed,Closed,Y,,34
+100231,,Rewards,Fees,,Ca,Detroit,10694,,,Yes,N,53
+100565,Student Loan,Fixed loan,Fees,,Ca,,70987,Open,Closed,FALSE,Y,6
+101726,Credit Card,Collections,,,Fl,,67481,,In progress,Y,No,50
+101482,Debt Collection,Fixed loan,Fees,,Fl,Detroit,29252,,In progress,TRUE,,32
+101875,Credit  Card,Adjustable loan,Collection harassment,,,Columbus,28341,Open,,,Yes,13
+101501,Bank Account,Adjustable loan,Incorrect information,,Mi,New York,59450,Resolved,In progress,,,14
+101273,Credit Reporting,Fixed loan,Incorrect information,Northstar Finance,Pa,Detroit,,Open,,FALSE,N,3
+100899,Credit Card,Interest rate,Other,Metro Loans,,Columbus,27721,Closed,,,Y,25
+101154,Student  Loan,Adjustable loan,Incorrect information,Acme Bank,Il,Philadelphia,23474,Resolved,,No,,7
+101605,Credit Reporting,Interest rate,Collection harassment,,Nc,,,,In progress,FALSE,Yes,54
+100796,Mortgage,Interest rate,Identity theft,Northstar Finance,Mi,New York,24652,,,TRUE,Yes,57
+100638,Debt Collection,Rewards,Identity theft,FinServ Co,,Chicago,94376,Resolved,Closed with explanation,,,55
+101932,Mortgage,,Incorrect information,,,,,Closed,In progress,,TRUE,12
+101885,,,Other,Northstar Finance,Ny,Houston,54282,In Progress,,Y,N,46
+101803,Mortgage,,Incorrect information,Metro Loans,Ga,Detroit,33512,Resolved,,Yes,,44
+100272,Debt  Collection,,Billing disputes,FinServ Co,,New York,28044,In Progress,Closed,,TRUE,50
+100151,Credit  Card,,Other,Acme Bank,Ca,Miami,23475,  ,,,TRUE,24
+101659,Bank Account,,Fees,,,Atlanta,49468,Open,Closed with explanation,,,14
+100138,Mortgage,Interest rate,Billing disputes,,Nc,Houston,66155,,,Yes,FALSE,3
+100120,Credit Reporting,Fixed loan,Other,Metro Loans,Oh,Philadelphia,45271,  ,,,Y,8
+100655,Debt  Collection,Collections,Incorrect information,United Credit,Ga,Philadelphia,00000,  ,Closed,FALSE,,11
+100994,Credit  Card,Adjustable loan,Billing disputes,Metro Loans,Pa,Miami,61399,,,N,Yes,-5
+101804,,Interest rate,Other,FinServ Co,,Miami,99353,,,Yes,FALSE,2
+100223,Bank Account,Interest rate,Collection harassment,Acme Bank,,Los Angeles,00000,,In progress,TRUE,Yes,25
+101859,Student Loan,Rewards,Fees,Metro Loans,Oh,Atlanta,69538,,,FALSE,No,46
+101427,Credit  Card,Fixed loan,,United Credit,,Columbus,00123,,Closed,,N,33
+101744,Student  Loan,Adjustable loan,Other,,Fl,,26246,In Progress,Closed with explanation,No,FALSE,38
+101809,Credit  Card,,Identity theft,Acme Bank,Nc,Atlanta,84317,Open,,No,,16
+101138,Mortgage,Collections,Other,,Ga,Philadelphia,12873,Closed,In progress,TRUE,No,32
+101755,Credit Card,,Other,FinServ Co,Ga,Atlanta,36391,  ,In progress,No,FALSE,28
+100825,Debt  Collection,Rewards,Fees,,Il,Chicago,92118,In Progress,,FALSE,,40
+101549,Credit Reporting,,Collection harassment,Acme Bank,Tx,Columbus,45423,Open,,TRUE,Y,15
+100857,Mortgage,Rewards,Collection harassment,,,Los Angeles,76922,  ,,TRUE,No,15
+100007,Mortgage,,Incorrect information,Northstar Finance,Tx,Detroit,89667,  ,,No,Y,32
+100833,Credit  Card,Collections,Billing disputes,Metro Loans,Oh,Detroit,83149,Closed,In progress,Y,Yes,10
+101434,,Collections,Billing disputes,FinServ Co,Ny,Miami,68329,  ,In progress,Yes,TRUE,-5
+101060,Credit Card,,Identity theft,FinServ Co,,Los Angeles,37062,Resolved,,N,Yes,36
+100964,Bank Account,Rewards,Other,Acme Bank,Ca,,14553,Open,Closed with explanation,,Yes,4
+101628,,Rewards,Identity theft,Northstar Finance,Mi,Houston,96537,In Progress,,Yes,Y,47
+100474,Debt  Collection,Fixed loan,Other,,Il,Los Angeles,70719,,In progress,No,Yes,28
+100502,Debt Collection,,Identity theft,Northstar Finance,,Miami,47973,Resolved,Closed with explanation,No,Y,1
+101035,Bank Account,Rewards,Billing disputes,Acme Bank,,Miami,00123,Resolved,Closed,,TRUE,10
+101936,Debt Collection,Collections,Incorrect information,Northstar Finance,Fl,Houston,00000,Closed,,No,,17
+100894,Credit Card,,Collection harassment,,Nc,New York,90824,Closed,Closed with explanation,Y,Yes,0
+101431,Mortgage,Rewards,Collection harassment,Northstar Finance,,Atlanta,41311,Open,In progress,FALSE,TRUE,4
+100249,Bank Account,Rewards,Fees,FinServ Co,Ca,New York,12518,Resolved,,No,TRUE,29
+101867,,Fixed loan,Collection harassment,,,Miami,,Open,Closed with explanation,Yes,,1
+101934,Credit  Card,Fixed loan,Collection harassment,Metro Loans,,,33966,Open,In progress,N,TRUE,18
+101582,Student Loan,Fixed loan,Billing disputes,FinServ Co,,,43167,Open,,Yes,,-5
+100417,Credit Card,,Incorrect information,,Fl,Houston,00000,Open,Closed with explanation,TRUE,FALSE,-2
+100183,Student Loan,Interest rate,Identity theft,FinServ Co,Oh,,22229,In Progress,,Yes,N,1
+101881,Mortgage,Fixed loan,Fees,,Oh,Los Angeles,92905,Open,,,FALSE,42
+100908,Student  Loan,Fixed loan,Incorrect information,FinServ Co,Nc,Philadelphia,46018,,,N,N,49
+100080,Credit Card,Adjustable loan,Identity theft,United Credit,,Houston,41029,Resolved,,N,FALSE,45
+101535,Debt  Collection,Rewards,Billing disputes,Metro Loans,Mi,Philadelphia,33904,,In progress,,Yes,22
+100671,Credit Reporting,Collections,Identity theft,,,Miami,55189,Open,In progress,,Y,2
+100821,,Fixed loan,Collection harassment,,Il,Los Angeles,63834,,Closed with explanation,No,No,11
+100405,Credit Card,,Billing disputes,,,,93830,Closed,In progress,,TRUE,24
+101451,Debt Collection,,Billing disputes,Acme Bank,,,11657,Closed,Closed,,,21
+100129,Bank Account,Rewards,Other,Acme Bank,Tx,Los Angeles,45918,Closed,,,FALSE,6
+101318,Mortgage,,Identity theft,,Il,Chicago,87971,In Progress,In progress,Y,,17
+100818,Student  Loan,,Identity theft,FinServ Co,Ga,Columbus,77392,In Progress,,Yes,TRUE,4
+100624,Student Loan,Fixed loan,Other,Metro Loans,Oh,New York,12263,,In progress,No,No,34
+101630,,Fixed loan,Fees,Northstar Finance,Mi,Detroit,82856,Closed,,Yes,N,41
+101038,Student  Loan,,Identity theft,Acme Bank,,Detroit,00123,Closed,,Yes,,10
+101099,Debt Collection,Rewards,Collection harassment,,,New York,31913,  ,,FALSE,,50
+101972,Bank Account,Rewards,Incorrect information,FinServ Co,Ny,,75615,  ,,N,TRUE,41
+100494,Mortgage,Collections,Incorrect information,United Credit,Oh,Houston,20766,In Progress,Closed,FALSE,FALSE,8
+101229,Bank Account,,Other,,Oh,Los Angeles,96393,  ,Closed with explanation,,,29
+101371,Mortgage,Rewards,Other,United Credit,Fl,Los Angeles,28128,Closed,Closed,Y,,31
+100596,Bank Account,,Billing disputes,FinServ Co,Tx,,87113,Resolved,In progress,Yes,,30
+101002,Credit Reporting,Collections,Identity theft,Metro Loans,,Philadelphia,00000,Open,Closed,FALSE,,8
+100575,,Adjustable loan,Incorrect information,Northstar Finance,Ca,Los Angeles,36937,,Closed with explanation,Y,Yes,7
+101674,Credit Card,,Other,Metro Loans,Il,Philadelphia,00000,,,Y,Y,30
+100358,Credit Card,Fixed loan,Fees,Northstar Finance,Fl,,10216,,In progress,Y,FALSE,42
+100362,Credit Reporting,,Incorrect information,Metro Loans,Tx,Atlanta,,In Progress,,FALSE,Yes,8
+101856,Bank Account,Interest rate, ,Acme Bank,Il,,46780,,,N,FALSE,30
+101073,Credit  Card,Fixed loan,Incorrect information,,Ca,Chicago,23578,,Closed with explanation,FALSE,Y,55
+101201,Debt  Collection,Interest rate,Incorrect information,,,Columbus,51466,,Closed with explanation,,No,56
+101491,Student  Loan,Fixed loan,Other,,Il,Los Angeles,00000,Open,Closed with explanation,Yes,FALSE,41
+101258,Debt  Collection,Adjustable loan, ,FinServ Co,Oh,Miami,80086,In Progress,Closed with explanation,N,Y,25
+100566,Student Loan,Fixed loan,Billing disputes,United Credit,Ny,,,In Progress,Closed with explanation,No,Y,57
+100526,,,Identity theft,,Mi,,19748,,In progress,Yes,Y,29
+101176,Mortgage,Collections,Incorrect information,,Ga,Atlanta,13497,Open,,,Y,21
+100038,Student Loan,,Collection harassment,Northstar Finance,Tx,Los Angeles,00000,Open,Closed with explanation,,Y,-2
+101486,Mortgage,Collections,Identity theft,,Ca,Houston,86789,,,,,59
+100972,Credit Card,Rewards,Identity theft,Metro Loans,Ca,,47703,Open,,,Y,12
+100450,Student Loan,Fixed loan,Collection harassment,United Credit,Fl,Philadelphia,84877,Open,Closed,TRUE,TRUE,58
+100236,Mortgage,Interest rate, ,Acme Bank,Mi,New York,56803,,,Yes,FALSE,22
+100678,Mortgage,Rewards,Billing disputes,Northstar Finance,Ga,Los Angeles,00000,Resolved,Closed with explanation,,,56
+100373,Student Loan,,Incorrect information,Acme Bank,Ca,New York,,,Closed with explanation,TRUE,Y,6
+100485,Mortgage,Interest rate,Other,,,Los Angeles,,  ,In progress,N,FALSE,46
+100715,Debt Collection,Fixed loan,Other,Acme Bank,Fl,,51060,Closed,Closed,No,TRUE,12
+101190,Credit Reporting,,Fees,Acme Bank,Nc,Miami,10354,In Progress,In progress,TRUE,,14
+100009,Credit Reporting,Rewards,Incorrect information,,,Chicago,94435,  ,,No,TRUE,5
+100750,Credit Reporting,Rewards,Identity theft,FinServ Co,,,00000,Closed,Closed,No,Yes,22
+101769,Credit Card,Adjustable loan,Other,Metro Loans,Ny,,69539,Resolved,,No,N,7
+101174,Credit Reporting,Adjustable loan,Billing disputes,FinServ Co,Tx,Houston,21576,In Progress,,N,N,1
+101996,Bank Account,,Collection harassment,Acme Bank,Mi,Philadelphia,61089,Open,Closed,Yes,No,-3
+101221,Credit Reporting,Fixed loan,Billing disputes,Northstar Finance,Mi,Miami,19939,Open,,TRUE,Yes,22
+100319,Student Loan,,Fees, ,Pa,Atlanta,81155,,,Y,Yes,-3
+100399,Bank Account,,Collection harassment,,Nc,New York,79094,Resolved,,No,Y,4
+101746,Mortgage,Rewards,,FinServ Co,,Los Angeles,22720,  ,,,,17
+100021,Mortgage,Rewards,Fees,Northstar Finance,Ca,,93538,Resolved,Closed with explanation,N,Y,-4
+101014,Bank Account,,Other,,Nc,,37210,  ,,,TRUE,19
+100452,Credit Card,Collections,Other, ,Nc,Charlotte,55958,Open,,,Yes,34
+100505,Student Loan,,Incorrect information,,Il,,34568,Open,,Yes,N,7
+100893,,,Other,,,,00000,In Progress,Closed with explanation,N,Yes,44
+101740,Bank Account,,Billing disputes,Metro Loans,Ny,,44791,Closed,,,,4
+101377,Student  Loan,Collections,Incorrect information,United Credit,Mi,Miami,33646,Resolved,,FALSE,N,-2
+100244,Credit Card,Fixed loan,Collection harassment,United Credit,Tx,Miami,96216,Closed,,N,,15
+101765,Debt Collection,,Identity theft,,Ga,,13360,In Progress,,,,47
+101444,Debt Collection,Collections,,United Credit,,Miami,22365,,Closed,FALSE,N,32
+101966,Credit Reporting,Fixed loan,Billing disputes,,Nc,Los Angeles,53232,Closed,,Yes,,47
+100476,Debt  Collection,Fixed loan,Identity theft,,,Houston,20396,In Progress,Closed,TRUE,,25
+101496,Bank Account,Interest rate,Identity theft,,Ny,,46558,Resolved,Closed with explanation,Y,TRUE,8
+100772,Credit Card,Fixed loan,Incorrect information,United Credit,Ny,Los Angeles,35142,In Progress,Closed with explanation,,TRUE,27
+101338,Credit Reporting,Adjustable loan,Billing disputes,,,Charlotte,39558,  ,Closed with explanation,FALSE,TRUE,50
+100847,Student  Loan,Fixed loan,Collection harassment,,,Miami,97377,Closed,,Yes,Yes,6
+100620,Student Loan,,Billing disputes,,Ca,,63315,Closed,,,,23
+100612,Student Loan,Fixed loan,Incorrect information,,Ny,Houston,59631,  ,Closed with explanation,Y,No,20
+101044,Student Loan,Rewards,Billing disputes,,,,00000,  ,Closed with explanation,TRUE,,1
+100446,Student Loan,Interest rate,Fees, ,,,70464,In Progress,,Yes,Yes,26
+100351,Student Loan,Rewards,Incorrect information,FinServ Co,Ca,New York,81358,,,TRUE,FALSE,-1
+100356,Credit Card,Fixed loan,Fees,Northstar Finance,Mi,Los Angeles,,Open,In progress,Y,Yes,5
+100959,Bank Account,Interest rate,,Metro Loans,Ca,Columbus,15508,,,No,Yes,58
+100311,Credit Card,Fixed loan,Other,FinServ Co,Pa,,00000,Open,Closed,No,N,37
+101020,Mortgage,Interest rate,Identity theft,United Credit,Mi,,87819,In Progress,Closed with explanation,,No,21
+101509,Credit Reporting,Collections,Collection harassment,Acme Bank,Ca,Atlanta,44825,Open,Closed with explanation,,N,54
+100414,Credit  Card,Adjustable loan,Billing disputes,,,,,  ,In progress,FALSE,,19
+100232,,Rewards,Identity theft,,Ca,Miami,00123,Open,In progress,N,Yes,1
+100188,Debt  Collection,Collections,Billing disputes,FinServ Co,Nc,Detroit,00123,Closed,Closed with explanation,Yes,Yes,20
+101853,Credit  Card,Collections,Fees,,Tx,New York,52569,Closed,,FALSE,,18
+101094,Credit Reporting,Interest rate,Collection harassment,Northstar Finance,,Miami,51118,Closed,Closed,No,No,50
+100051,Credit Card,Adjustable loan,Incorrect information,United Credit,Mi,Detroit,67642,In Progress,In progress,,,20
+100096,Debt Collection,Interest rate,Incorrect information,,Oh,Chicago,97849,In Progress,Closed with explanation,,N,30
+100597,,,Identity theft,Metro Loans,Ca,Los Angeles,26171,,In progress,,,57
+101921,Mortgage,Interest rate,Other,,,Detroit,81405,Open,Closed with explanation,No,TRUE,21
+100761,Credit  Card,,Incorrect information,,Mi,Los Angeles,92730,Open,In progress,,TRUE,45
+100979,Credit Card,Interest rate,Billing disputes,United Credit,Il,,88115,Closed,,Y,Y,59
+100645,,Rewards,Billing disputes,Northstar Finance,Nc,,,  ,,TRUE,No,18
+101334,Student Loan,,Identity theft,FinServ Co,Oh,Los Angeles,65444,  ,,FALSE,Yes,16
+101919,Student Loan,,Other,Acme Bank,Fl,New York,93831,  ,,N,N,7
+101186,Mortgage,,Fees,FinServ Co,Il,Columbus,80827,Closed,,,FALSE,58
+101956,Debt Collection,Collections, ,Metro Loans,Il,Charlotte,44882,,,N,N,27
+100274,Credit Reporting,Rewards,Billing disputes,,Mi,Atlanta,79015,In Progress,,FALSE,Yes,44
+101725,Student Loan,Rewards,Fees,Northstar Finance,Ga,Atlanta,39212,  ,,FALSE,,7
+100501,Mortgage,Rewards,Billing disputes,,Oh,Atlanta,39917,  ,Closed,Yes,Y,7
+101603,Bank Account,,Fees,,Tx,New York,69990,Open,,,No,31
+101295,Credit Card,Interest rate,Billing disputes,,Pa,,92704,,,No,,0
+101724,Mortgage,Fixed loan,,Metro Loans,,,00000,Resolved,Closed with explanation,No,Y,19
+100609,,Adjustable loan,Incorrect information,FinServ Co,Fl,Houston,,In Progress,Closed,Y,N,13
+100627,Debt Collection,Fixed loan,Billing disputes,United Credit,Nc,New York,,  ,,No,,15
+100991,Credit Card,Collections,Fees,FinServ Co,,,96008,  ,Closed,FALSE,Y,49
+100785,Credit Reporting,Rewards,Other,Acme Bank,,,80115,Closed,In progress,,TRUE,19
+101024,Debt  Collection,,Incorrect information,Northstar Finance,Ny,Los Angeles,56527,Open,,TRUE,Yes,51
+101346,Mortgage,,Other,Northstar Finance,Mi,Miami,00000,Resolved,Closed,TRUE,TRUE,24
+101363,Credit Card,Interest rate,Billing disputes,,Il,New York,95588,In Progress,,,No,5
+100554,Mortgage,Rewards,,United Credit,,Columbus,00123,In Progress,Closed with explanation,FALSE,N,29
+101683,Bank Account,Fixed loan, ,Acme Bank,Il,Miami,00000,,Closed,,No,26
+100193,,Interest rate,,Northstar Finance,Mi,,,Resolved,Closed with explanation,Y,No,5
+100284,Credit Reporting,Collections,Other,,Ca,,17514,Open,In progress,FALSE,No,21
+101841,Credit Reporting,,Billing disputes,United Credit,Ca,Detroit,91715,Closed,,Yes,FALSE,53
+100062,Bank Account,Rewards,Identity theft,,,Charlotte,56153,Resolved,In progress,,N,4
+100365,,Fixed loan,Identity theft,,,Los Angeles,94557,In Progress,Closed,FALSE,Y,44
+100800,Mortgage,,Identity theft,Metro Loans,Il,New York,19510,,Closed,Y,N,7
+101747,Credit Reporting,,Incorrect information,Metro Loans,Fl,Philadelphia,80858,  ,In progress,Y,TRUE,15
+100313,Credit Card,Interest rate,Fees,FinServ Co,Mi,Los Angeles,86318,Open,,FALSE,,9
+101731,Student Loan,Interest rate,Identity theft,,,Miami,97835,In Progress,,,Y,26
+100242,Mortgage,,Collection harassment,Acme Bank,Nc,Detroit,15322,  ,,FALSE,Y,50
+100094,,Rewards,Billing disputes,United Credit,Nc,Los Angeles,00000,Open,Closed with explanation,FALSE,N,48
+100147,Credit Card,Collections,,,Oh,Atlanta,,Open,,,No,58
+100305,Debt Collection,Interest rate,Billing disputes,,Nc,Philadelphia,38907,Open,In progress,,Y,47
+100342,Credit Reporting,Adjustable loan,Billing disputes,United Credit,,Philadelphia,76856,  ,,TRUE,No,25
+100371,Credit Card,Adjustable loan,Identity theft,United Credit,,Miami,,Closed,Closed with explanation,Yes,,58
+101693,Mortgage,Adjustable loan,Billing disputes,Acme Bank,Fl,New York,94567,  ,,N,,40
+100856,Bank Account,Interest rate,Billing disputes,,Ny,Miami,92726,Resolved,Closed,Yes,No,6
+101625,Credit Reporting,Interest rate,Fees,,,Miami,,,,FALSE,Y,36
+100628,Mortgage,Interest rate,Incorrect information,United Credit,,Houston,68074,Resolved,,N,No,5
+100840,Debt  Collection,Adjustable loan,Incorrect information,Acme Bank,,Miami,33136,,Closed with explanation,FALSE,N,24
+100776,Credit Reporting,,Identity theft,United Credit,Ny,,31623,In Progress,Closed,Yes,FALSE,24
+100576,Mortgage,Interest rate,,Northstar Finance,Tx,Detroit,74131,Closed,,,Yes,1
+100349,Bank Account,Interest rate,Fees,FinServ Co,Mi,Charlotte,50683,,,No,N,58
+101410,Credit Reporting,,Incorrect information,United Credit,Nc,,,  ,,Yes,N,42
+101968,Student Loan,Adjustable loan,Fees,,Ny,Los Angeles,74497,Resolved,,No,N,55
+101419,Debt  Collection,Collections,Collection harassment,Metro Loans,Ca,Detroit,75169,In Progress,In progress,N,Y,16
+101729,Credit  Card,Rewards,Identity theft,,,Detroit,54861,Resolved,,,Y,33
+101720,Credit  Card,Adjustable loan,Billing disputes,FinServ Co,Nc,New York,80107,Resolved,In progress,,,56
+100845,Mortgage,,Other,,,New York,38271,Open,,N,Yes,18
+100219,,Adjustable loan,Incorrect information,Acme Bank,Oh,Miami,49220,Closed,Closed with explanation,,FALSE,25
+100784,Debt Collection,Collections,Fees,Metro Loans,Tx,Charlotte,57592,,,Yes,Y,7
+100885,Credit Card,Rewards,,,Ca,,95907,Open,Closed with explanation,N,Y,23
+100273,Credit Card,Rewards,Other,FinServ Co,,Philadelphia,58272,Open,,,,57
+100723,Credit Reporting,Adjustable loan,Other,Acme Bank,Ca,Miami,84790,Open,,FALSE,TRUE,58
+101259,Credit Card,Interest rate,Billing disputes,FinServ Co,Mi,Miami,59083,Open,,TRUE,No,24
+100350,Mortgage,Fixed loan,Collection harassment,,Ca,New York,71932,Closed,Closed with explanation,No,N,17
+100853,Credit Card,Adjustable loan,Collection harassment, ,,Atlanta,87414,Resolved,Closed,,,41
+100886,Student Loan,,Identity theft,Acme Bank,Ca,Los Angeles,88037,,,,No,52
+101928,Student Loan,Adjustable loan,Billing disputes,Acme Bank,Tx,Detroit,28660,Open,Closed,No,Y,6
+101358,Student Loan,Rewards,Fees,Metro Loans,,Los Angeles,36960,Resolved,In progress,Y,Y,13
+101604,Credit Card,,Billing disputes,Acme Bank,,Columbus,,,,TRUE,N,14
+100483,Credit Reporting,Interest rate,Collection harassment,Acme Bank,Ca,,73177,Open,,No,FALSE,2
+100625,Credit Reporting,,Collection harassment,,Il,Los Angeles,50702,Resolved,Closed with explanation,Yes,No,0
+101623,Bank Account,,Other,,Pa,Los Angeles,85116,Open,,FALSE,Y,11
+101644,Mortgage,Interest rate,Billing disputes,,Oh,Philadelphia,20546,In Progress,Closed,N,,24
+101796,Credit Card,Fixed loan,Incorrect information,,Ny,Los Angeles,45272,Open,Closed with explanation,Yes,No,-3
+101909,Credit Card,Rewards,Fees,Acme Bank,Fl,Miami,27498,Closed,Closed with explanation,TRUE,FALSE,51
+101417,,,Other,United Credit,,Columbus,55337,In Progress,In progress,,TRUE,28
+100535,Mortgage,,Fees,Northstar Finance,Tx,,38043,Open,,TRUE,TRUE,30
+100923,Mortgage,Collections,Fees,Metro Loans,,New York,,Open,,TRUE,,5
+100237,Credit Reporting,Interest rate,Incorrect information,,Ca,,61551,  ,Closed,N,,28
+101308,,,Incorrect information,,,,77721,Open,Closed with explanation,Y,Yes,52
+100616,Student Loan,,,,Pa,,31059,Resolved,,Yes,Y,0
+100410,Mortgage,Collections,,Northstar Finance,Nc,Los Angeles,88023,In Progress,,FALSE,TRUE,16
+100057,Debt Collection,Interest rate,Collection harassment,,,Philadelphia,22440,  ,Closed,,Y,5
+101225,Credit  Card,Fixed loan,Billing disputes,Acme Bank,,Houston,63185,Open,,No,,18
+101656,Student  Loan,Rewards,Collection harassment,,,Columbus,75095,Closed,,Y,N,55
+100320,Bank Account,Rewards,Collection harassment,,Ny,Los Angeles,38929,Open,,No,TRUE,33
+101616,Bank Account,,Incorrect information,,,Atlanta,96651,Closed,Closed,TRUE,Y,41
+100540,Credit Card,Interest rate,Fees,FinServ Co,Tx,Chicago,60933,Open,,N,TRUE,-3
+100918,Credit Card,,Incorrect information,,,New York,65955,  ,Closed,FALSE,Yes,59
+100642,Credit Reporting,Interest rate,Billing disputes,Acme Bank,Oh,,,In Progress,Closed,No,TRUE,10
+101910,Credit Reporting,Rewards,Other,,,,00123,Closed,,N,TRUE,20
+101070,Debt Collection,Adjustable loan,Incorrect information,United Credit,Ga,Chicago,40943,Open,In progress,N,Yes,56
+100910,Bank Account,Adjustable loan,Other,United Credit,Oh,New York,,Open,In progress,TRUE,Yes,2
+101311,Mortgage,Fixed loan,Billing disputes,Acme Bank,Pa,Columbus,00123,,In progress,,TRUE,28
+101074,Debt Collection,Interest rate,Other,,Nc,Miami,26810,  ,,FALSE,N,9
+101161,Credit Reporting,,Incorrect information,United Credit,,,48202,Closed,In progress,,FALSE,47
+101320,Credit Card,,Fees,Acme Bank,,Los Angeles,31359,,In progress,Y,,25
+100887,Mortgage,,Other,Northstar Finance,Ga,New York,25593,  ,,Y,,49
+100595,Credit Reporting,Rewards,Other,Acme Bank,Il,Los Angeles,93367,Resolved,In progress,TRUE,Yes,20
+100403,Credit Reporting,,Other,,Fl,Los Angeles,,Resolved,,Yes,,8
+100370,Debt Collection,,Billing disputes,Acme Bank,,Charlotte,00123,  ,In progress,No,Yes,48
+101913,Bank Account,Fixed loan,Incorrect information,,,Miami,,  ,,N,Yes,54
+100802,Credit  Card,Fixed loan,Billing disputes,Metro Loans,,New York,65574,Resolved,In progress,N,FALSE,13
+101052,Credit Reporting,,Other,Northstar Finance,Ca,Miami,44144,In Progress,Closed with explanation,Yes,Yes,25
+101007,Bank Account,Interest rate,Other,Northstar Finance,Ny,New York,67868,,,,,44
+101958,Mortgage,Collections,Collection harassment,,Fl,Atlanta,60096,  ,In progress,Y,Y,3
+101495,Bank Account,Rewards,Incorrect information,Metro Loans,Mi,,85587,Open,Closed with explanation,No,TRUE,15
+101348,Student  Loan,Rewards,Fees,FinServ Co,Tx,,61989,  ,,,Yes,37
+101858,Credit Reporting,Adjustable loan,Billing disputes,Northstar Finance,Ga,Charlotte,,In Progress,,FALSE,TRUE,4
+100428,Credit Card,Interest rate,Incorrect information,Northstar Finance,Oh,New York,62612,In Progress,,,No,57
+101179,Bank Account,,Billing disputes,,Oh,Philadelphia,,Resolved,,No,,1
+101269,Bank Account,Collections,Collection harassment,Northstar Finance,Oh,,39383,Open,,Yes,Y,-2
+101281,Debt Collection,Interest rate,Identity theft,,,,92093,In Progress,In progress,No,TRUE,48
+101246,Credit  Card,,Collection harassment,,Ny,,25314,Closed,Closed with explanation,Y,Yes,-4
+100589,Credit Reporting,Fixed loan,Fees, ,Ga,Detroit,36972,,Closed,No,No,35
+100187,Mortgage,,Identity theft,,Nc,,84979,,In progress,,N,5
+101494,Debt Collection,Fixed loan,Identity theft,,Ga,New York,,In Progress,Closed with explanation,Yes,,55
+101040,Credit  Card,Fixed loan,Identity theft,Metro Loans,Pa,Philadelphia,00000,Closed,In progress,Yes,No,42
+100252,Credit  Card,Fixed loan,Identity theft,,Ca,,,  ,,,,12
+100264,Student Loan,Fixed loan,Billing disputes,Acme Bank,Tx,,22455,,,,Yes,1
+101085,Credit Reporting,Fixed loan,Incorrect information,United Credit,Il,,93178,Resolved,Closed,N,Y,23
+100974,Bank Account,Interest rate,Other,Acme Bank,,Miami,30012,Closed,Closed,FALSE,FALSE,57
+100783,Bank Account,Collections,,,Ny,Los Angeles,35433,Resolved,Closed,N,N,20
+101865,,Interest rate,Incorrect information,Acme Bank,Ga,,11888,  ,,N,FALSE,0
+101418,Student  Loan,,Collection harassment,Metro Loans,Nc,Miami,26076,In Progress,Closed with explanation,N,FALSE,54
+100681,Credit Reporting,Interest rate,Collection harassment,,,Charlotte,13086,In Progress,,N,No,16
+101658,Credit Reporting,,Fees,United Credit,,Miami,50376,Resolved,Closed,No,N,-4
+101168,Student  Loan,Collections,Incorrect information,,Ca,New York,40930,,Closed,,Y,36
+100156,,Rewards,Other,United Credit,Tx,,,  ,In progress,No,TRUE,37
+100318,,Adjustable loan,Identity theft,Northstar Finance,,Detroit,93311,In Progress,In progress,TRUE,Y,51
+101703,Credit  Card,Collections,Collection harassment,United Credit,,Chicago,87068,,,N,N,55
+101005,,,Collection harassment,Metro Loans,Fl,Atlanta,21663,In Progress,In progress,,,42
+101902,Credit Card,Adjustable loan,Identity theft,FinServ Co,Mi,Columbus,29461,In Progress,,No,TRUE,50
+101987,Bank Account,Collections,Incorrect information,Northstar Finance,Ny,Houston,81269,  ,,No,,24
+100541,Credit Reporting,,Fees,Northstar Finance,Pa,,17205,Open,In progress,TRUE,,15
+101584,Credit Card,Fixed loan,Incorrect information,Acme Bank,Nc,Houston,55064,Closed,Closed,Yes,Yes,6
+101476,Debt Collection,Fixed loan,Fees,Metro Loans,Il,Chicago,96106,  ,Closed,N,N,13
+100961,Debt Collection,Collections,Incorrect information,FinServ Co,Ga,New York,87837,  ,Closed,,,54
+101473,Debt Collection,Adjustable loan,Fees,,,Philadelphia,36725,In Progress,Closed with explanation,,Y,47
+100572,Mortgage,,Fees,,,New York,,,In progress,,N,13
+101761,Bank Account,Collections,Incorrect information,Metro Loans,Pa,,75433,  ,,TRUE,FALSE,15
+101653,Credit Card,Adjustable loan,Billing disputes,Northstar Finance,,,,  ,Closed,,No,23
+101551,Credit Card,Collections,Incorrect information,,Ca,New York,00123,Open,Closed with explanation,Yes,Yes,6
+100277,Mortgage,Interest rate,Fees,,,,69826,Closed,,Y,N,39
+101394,Mortgage,Adjustable loan,Identity theft,United Credit,Nc,Charlotte,87708,Resolved,Closed,FALSE,TRUE,44
+100901,,Interest rate,,Acme Bank,Il,Los Angeles,41537,  ,,No,Y,26
+101131,Student Loan,,Identity theft,,Il,Los Angeles,,Closed,,TRUE,TRUE,59
+101575,Bank Account,Fixed loan,Fees,Acme Bank,,,17172,Open,,No,N,19
+100664,Student Loan,Fixed loan,Other,,Fl,Philadelphia,18184,Closed,Closed,FALSE,Y,35
+101672,Mortgage,Collections,,,Oh,New York,43493,,,TRUE,,58
+101084,Debt Collection,,Other,Acme Bank,,,35075,Resolved,,,Yes,36
+101512,,Adjustable loan,Fees,Metro Loans,Ga,Los Angeles,37385,  ,Closed,No,No,46
+100135,Mortgage,Interest rate,Other,,Ca,New York,00000,In Progress,,FALSE,TRUE,40
+100763,Bank Account,Fixed loan,Incorrect information,Metro Loans,Il,Los Angeles,79986,Closed,Closed with explanation,No,,57
+101134,Student Loan,Adjustable loan,Identity theft,,,Philadelphia,79398,  ,,Yes,TRUE,38
+101851,Mortgage,Fixed loan,Billing disputes,,,Miami,10367,Resolved,,FALSE,,42
+100325,Credit Reporting,Rewards,Billing disputes,FinServ Co,,Los Angeles,00123,In Progress,,,N,23
+101452,Bank Account,Fixed loan,Identity theft,FinServ Co,Ca,Miami,63719,  ,In progress,N,Yes,35
+100121,Student Loan,,Collection harassment,,Ny,Miami,32919,  ,Closed with explanation,FALSE,N,43
+101149,Debt  Collection,Interest rate,Incorrect information,Northstar Finance,Pa,Columbus,00000,Open,,TRUE,N,13
+101366,Credit Card,Adjustable loan,Billing disputes,,Oh,Philadelphia,00000,In Progress,Closed,,N,3
+100149,Mortgage,Interest rate,Other,Acme Bank,,Columbus,,In Progress,,,Y,57
+100118,Mortgage,Rewards,Fees,Metro Loans,Pa,,58554,In Progress,,Yes,Y,9
+101802,Debt Collection,Interest rate,Other,FinServ Co,,Chicago,,Resolved,,No,TRUE,37
+100124,Credit Reporting,Interest rate,Billing disputes,United Credit,Ga,Columbus,77978,Closed,Closed with explanation,Y,No,2
+100339,Mortgage,Rewards,Other,Metro Loans,Pa,,,Resolved,In progress,TRUE,TRUE,58
+101821,Debt Collection,Adjustable loan,Billing disputes,United Credit,,New York,42415,  ,Closed with explanation,N,,4
+101064,Debt Collection,Interest rate,Collection harassment,Metro Loans,,Chicago,95388,Closed,Closed,No,Yes,12
+101317,Credit Card,,Collection harassment,United Credit,Tx,New York,,  ,Closed with explanation,,,40
+100588,Bank Account,Rewards,Billing disputes,Northstar Finance,,Detroit,36493,In Progress,,Y,No,56
+101231,,,Incorrect information,,Nc,Charlotte,16777,Resolved,,N,No,9
+101638,Mortgage,Fixed loan,Fees,,Ny,Chicago,49353,Open,Closed with explanation,No,,10
+101391,Bank Account,Adjustable loan,Billing disputes,,Tx,Philadelphia,38191,  ,,,Yes,30
+101144,Debt Collection,Collections,Identity theft,Acme Bank,Ny,Columbus,39396,  ,,TRUE,Yes,54
+100064,Credit Card,Collections,Fees,Acme Bank,,Los Angeles,,In Progress,Closed with explanation,Y,Yes,52
+100500,,Fixed loan,Incorrect information,United Credit,Mi,,20534,In Progress,,FALSE,No,17
+101585,Bank Account,,Incorrect information,Metro Loans,Mi,Columbus,65857,,In progress,,Yes,53
+100797,,Rewards,Fees,Metro Loans,,,99935,  ,Closed with explanation,TRUE,TRUE,47
+100352,Credit Card,,,,,,00000,Resolved,Closed with explanation,FALSE,,19
+100966,Debt Collection,Fixed loan,Other,FinServ Co,Fl,Charlotte,36905,In Progress,,N,TRUE,39
+101492,Credit Card,Adjustable loan,Billing disputes,United Credit,Il,Atlanta,,Closed,In progress,TRUE,N,50
+101075,Debt Collection,,Billing disputes,,,,,In Progress,Closed,Y,N,21
+101188,Credit Card,,Other,,Nc,Chicago,74409,  ,Closed,N,,52
+100105,Debt Collection,Interest rate,Identity theft,,Ga,Houston,31032,,Closed with explanation,,TRUE,33
+101828,Mortgage,Fixed loan,Fees,Acme Bank,Ca,Philadelphia,89875,  ,,FALSE,,22
+101047,,Collections,Incorrect information,Acme Bank,,Detroit,27213,,,No,,3
+100868,Credit Reporting,Fixed loan,Collection harassment,Northstar Finance,Ca,Chicago,73916,Resolved,In progress,FALSE,,19
+100603,Credit Card,Fixed loan,Fees, ,Nc,Charlotte,11385,Closed,In progress,N,,44
+101329,Mortgage,Adjustable loan,Incorrect information,Metro Loans,Nc,Miami,53063,,Closed with explanation,Y,Yes,44
+100914,Student Loan,,Collection harassment,FinServ Co,Oh,,12031,In Progress,,N,Yes,46
+101150,Credit Reporting,,Incorrect information,,Oh,Chicago,81335,Closed,Closed,Y,,39
+100600,Credit Reporting,,Fees,United Credit,Mi,Los Angeles,,Resolved,,No,Yes,58
+101874,Bank Account,Adjustable loan, ,Acme Bank,,Detroit,67288,  ,,,Y,58
+100702,Student  Loan,Fixed loan,Other,,Ny,,30621,Open,,Yes,TRUE,44
+101861,Credit  Card,Fixed loan,Collection harassment,,,,00123,,In progress,Y,N,0
+101924,Credit Card,Interest rate,Fees,Acme Bank,,,42455,In Progress,,No,N,8
+101468,,Adjustable loan,Billing disputes,Northstar Finance,Pa,Atlanta,63772,Resolved,In progress,FALSE,TRUE,44
+101711,Debt Collection,Collections,Incorrect information,,,New York,78513,  ,Closed,,Yes,19
+100289,Debt Collection,,Other,,,Miami,,  ,,,FALSE,0
+101267,Credit Card,Interest rate,Identity theft,United Credit,Nc,Detroit,28624,  ,,No,Yes,49
+101114,Debt Collection,Adjustable loan,Billing disputes,Northstar Finance,Oh,Miami,79968,  ,In progress,,No,42
+101873,Debt Collection,Interest rate,Billing disputes,FinServ Co,Il,New York,00000,  ,,No,TRUE,4
+101708,,Interest rate,Other, ,,New York,15088,Open,Closed,N,,18
+100083,Mortgage,,Identity theft,FinServ Co,Ga,Atlanta,00000,In Progress,,N,Yes,37
+100402,Credit Card,Rewards,Collection harassment,Acme Bank,Fl,New York,13288,,In progress,FALSE,FALSE,27
+100863,Mortgage,Collections,Incorrect information, ,Il,Detroit,,Closed,,TRUE,Yes,-5
+100564,Student  Loan,,Collection harassment,Northstar Finance,Tx,Miami,25250,In Progress,In progress,TRUE,N,-1
+101324,Credit Card,,Other,FinServ Co,Pa,Miami,24139,Open,,No,,46
+100429,Student Loan,Fixed loan,Billing disputes,United Credit,,Detroit,25469,Open,,TRUE,,-1
+101290,Credit Card,Rewards,Incorrect information,Metro Loans,Il,New York,45868,Open,Closed,No,FALSE,2
+101465,Mortgage,,,Acme Bank,Nc,Houston,32991,,In progress,Yes,TRUE,56
+100493,Student Loan,Collections,Incorrect information,,Nc,,87927,Closed,In progress,Yes,,55
+100766,,Rewards,Fees,Acme Bank,Nc,Chicago,24574,  ,Closed,Y,FALSE,19
+100475,Credit Card,,Fees,United Credit,Pa,Miami,84972,,In progress,No,FALSE,27
+100729,Credit Card,Fixed loan,Incorrect information,Acme Bank,Ny,Columbus,00000,,In progress,N,Y,41
+100290,Bank Account,Adjustable loan,Collection harassment,United Credit,Oh,,00123,,In progress,FALSE,FALSE,32
+101732,Mortgage,Rewards,Identity theft,United Credit,Nc,Chicago,,  ,,No,,55
+100841,,Adjustable loan,Other,Acme Bank,Fl,Atlanta,00123,Open,,,N,23
+101774,Bank Account,Fixed loan,Collection harassment,,,Charlotte,20646,Closed,Closed,Yes,No,26
+100287,Credit Card,Rewards,Fees,,Oh,Chicago,47732,Open,In progress,Yes,,25
+101750,Bank Account,Interest rate,Fees,,,New York,48537,  ,,Yes,N,25
+101926,Bank Account,,Incorrect information,,,Los Angeles,20567,Resolved,,Y,FALSE,39
+101022,Credit Card,Rewards,Identity theft,United Credit,Mi,,55778,,,,FALSE,26
+101383,Credit  Card,,Identity theft,,Nc,,44512,Open,,Y,TRUE,16
+100827,Bank Account,Rewards,Other,,,Los Angeles,97609,  ,Closed with explanation,Yes,,48
+100212,Mortgage,,Other,Metro Loans,Ca,Los Angeles,22379,In Progress,,TRUE,TRUE,52
+101439,Bank Account,Fixed loan,Collection harassment,Acme Bank,,Miami,61541,Open,In progress,No,No,30
+100337,,Rewards,Fees,,Fl,Philadelphia,00000,  ,Closed with explanation,FALSE,,12
+100024,Student Loan,,Fees,Northstar Finance,Nc,New York,00000,  ,Closed with explanation,,Yes,28
+100346,Bank Account,Collections,Billing disputes,FinServ Co,,,51320,,Closed,,Y,31
+100942,Student Loan,,Identity theft,United Credit,Fl,Philadelphia,57210,,Closed with explanation,N,FALSE,7
+100198,Credit Reporting,Interest rate,Other,United Credit,Tx,Miami,47296,  ,,TRUE,,38
+100622,Student  Loan,Fixed loan,Identity theft,United Credit,Pa,,10710,,,Yes,Y,55
+100259,Mortgage,Adjustable loan,Fees,,Fl,,13346,Resolved,,N,,-3
+100181,Student Loan,Collections,Collection harassment,FinServ Co,Ga,Detroit,73825,,Closed,,,11
+100903,Bank Account,,Billing disputes,,Ny,Houston,,Resolved,,Yes,No,24
+101033,Mortgage,Fixed loan,Other,,Oh,Los Angeles,68417,Closed,,TRUE,No,37
+101737,,Rewards,Identity theft,Metro Loans,Ca,,,  ,,Yes,FALSE,36
+100453,Credit Reporting,, ,,,New York,37471,,,No,Y,54
+100482,Student  Loan,Adjustable loan,Identity theft,,Il,Atlanta,25461,Open,Closed with explanation,No,No,38
+101276,Student Loan,Interest rate,Other,Metro Loans,,New York,24947,Resolved,,No,,58
+101510,Credit Reporting,Collections,Identity theft,Acme Bank,Pa,,83028,Open,Closed,N,,32
+100230,Student Loan,Interest rate,Billing disputes,,Il,Detroit,,Resolved,,FALSE,Y,8
+101988,Bank Account,Fixed loan,Other,FinServ Co,Ga,Los Angeles,52706,Resolved,In progress,Y,N,34
+100251,Credit  Card,,Incorrect information,FinServ Co,Ga,Los Angeles,42336,Open,,Y,TRUE,17
+101293,Debt  Collection,,Fees,FinServ Co,Ny,,19792,  ,Closed with explanation,,FALSE,-2
+101908,Student Loan,Interest rate,Fees,Northstar Finance,Ga,Atlanta,70918,Closed,,FALSE,,50
+101203,Credit Reporting,Fixed loan,Identity theft,United Credit,Ny,Detroit,36167,In Progress,,,TRUE,24
+101526,Bank Account,Collections,Fees,,Pa,Philadelphia,00123,In Progress,Closed,FALSE,FALSE,21
+100440,Credit Card,Fixed loan,Collection harassment,Northstar Finance,Mi,,76016,  ,Closed with explanation,Y,Yes,19
+100169,Mortgage,Fixed loan,,United Credit,Il,,91591,In Progress,,TRUE,No,25
+100108,Credit Card,,Identity theft,Acme Bank,Pa,New York,58567,Open,Closed,N,,43
+100142,Credit Card,Interest rate,Billing disputes,,,Charlotte,70160,Closed,,Yes,N,24
+101929,Student  Loan,Fixed loan,Other,FinServ Co,,Miami,00123,Open,,No,FALSE,27
+100046,,,Billing disputes,United Credit,Ca,Miami,,,,N,,49
+100524,Mortgage,,Identity theft,,,Columbus,60971,  ,,,,-3
+100514,Credit Reporting,Rewards,Collection harassment,Northstar Finance,Il,Los Angeles,75083,Closed,,N,,37
+101449,Student Loan,Rewards,Identity theft,Northstar Finance,Fl,New York,39625,  ,,No,FALSE,57
+101992,Credit Card,,Identity theft,Metro Loans,Nc,Chicago,00123,  ,,FALSE,,34
+100079,,Fixed loan,Identity theft,Acme Bank,Il,Houston,00123,Open,Closed,N,FALSE,50
+101207,Bank Account,Interest rate,,,Ny,,00000,In Progress,Closed,FALSE,Y,15
+101857,Bank Account,Adjustable loan,Other,United Credit,Pa,Miami,50671,In Progress,Closed with explanation,FALSE,FALSE,29
+100696,Bank Account,Adjustable loan,Fees,Acme Bank,,Houston,55281,,,,FALSE,9
+100869,Mortgage,Interest rate,Incorrect information,,,New York,29960,Open,,No,N,53
+101634,Mortgage,Adjustable loan,Incorrect information,Northstar Finance,,Chicago,29604,,In progress,FALSE,Yes,25
+101670,,Rewards,Identity theft,Metro Loans,,,52726,Closed,,Y,Yes,53
+101597,Credit Reporting,Adjustable loan,Fees,,Ca,,27707,In Progress,Closed with explanation,Yes,FALSE,7
+101440,Credit  Card,Adjustable loan,Billing disputes,Northstar Finance,,,11661,  ,In progress,TRUE,Yes,41
+101981,Mortgage,Adjustable loan,Incorrect information,,,Charlotte,00000,,Closed with explanation,,N,2
+100454,Credit Reporting,,Collection harassment,,,Philadelphia,66428,,,No,,22
+100686,Credit Card,Rewards,Identity theft,Acme Bank,,New York,69255,,,,FALSE,6
+100709,Mortgage,Adjustable loan,Other,FinServ Co,Nc,Columbus,,In Progress,,No,TRUE,29
+101814,Mortgage,Collections,Incorrect information,Northstar Finance,Nc,Columbus,78482,Open,Closed with explanation,No,Yes,47
+100143,Mortgage,Collections,Incorrect information,Northstar Finance,Fl,Atlanta,98480,  ,,N,,54
+100331,Student Loan,,Other,,Tx,Houston,67143,Open,Closed with explanation,TRUE,TRUE,47
+100725,Credit Reporting,Rewards,Other,United Credit,,New York,61708,Open,In progress,TRUE,,42
+101487,Debt  Collection,Rewards,Other,,Ca,,46117,Resolved,,Y,No,2
+101181,Student  Loan,, ,Metro Loans,Tx,New York,65315,Open,,,,28
+100523,Credit Card,Rewards,Collection harassment,,Ca,Detroit,21412,,Closed with explanation,FALSE,N,18
+100400,Credit Reporting,Adjustable loan,Incorrect information,United Credit,Nc,Philadelphia,48573,,,No,,50
+101788,Student Loan,Rewards,Collection harassment,,,Philadelphia,36930,Open,,,TRUE,23
+100536,Credit Card,,Billing disputes,Northstar Finance,Ca,Houston,62445,Closed,,,Y,14
+101055,Credit Reporting,Interest rate,Identity theft,,Il,Philadelphia,21712,  ,,,FALSE,7
+101694,Mortgage,Fixed loan,Incorrect information, ,Ga,Charlotte,55492,Open,,,,42
+101029,Student Loan,Fixed loan,Collection harassment,FinServ Co,Fl,Philadelphia,51549,Open,,N,,3
+100100,Debt  Collection,Collections,Incorrect information, ,Mi,New York,45356,  ,Closed,No,,1
+100431,Credit Card,Interest rate,Collection harassment,Northstar Finance,,,35600,In Progress,In progress,N,No,46
+101592,Credit Card,Adjustable loan,Collection harassment,,,,33754,Closed,Closed,TRUE,FALSE,8
+101690,Mortgage,Adjustable loan,Identity theft,,Ca,Houston,43178,  ,In progress,FALSE,FALSE,43
+100053,Debt  Collection,Rewards,,Acme Bank,Pa,Houston,93056,  ,,Yes,Y,10
+101882,Bank Account,,Identity theft,,Tx,New York,87130,Resolved,In progress,Yes,Yes,56
+100208,Credit  Card,Collections,Billing disputes,Acme Bank,Tx,Houston,92878,Open,,TRUE,TRUE,37
+101544,Credit Reporting,Collections,Identity theft,,Il,,00000,In Progress,,,,44
+101925,Mortgage,Adjustable loan,Incorrect information,Acme Bank,Pa,Miami,86789,  ,Closed,Yes,Yes,41
+101200,Bank Account,Fixed loan,Billing disputes,Acme Bank,Oh,,13566,,Closed with explanation,N,Y,48
+101570,Debt Collection,Adjustable loan,Collection harassment,Metro Loans,Oh,,95286,Open,In progress,,N,34
+100814,Credit Reporting,Rewards,Collection harassment,United Credit,Il,Miami,83877,Resolved,,Y,N,18
+101136,Bank Account,,Incorrect information, ,,New York,33089,,,Yes,Yes,27
+100275,Credit Reporting,,Fees,United Credit,,,64311,Resolved,,N,Yes,1
+100843,Credit Card,,Identity theft,,Tx,New York,61457,  ,Closed with explanation,N,FALSE,12
+100443,Student Loan,,Billing disputes,,,Atlanta,,  ,,Y,Yes,20
+101208,Debt Collection,Fixed loan,Fees,FinServ Co,Ca,Columbus,77562,  ,,FALSE,FALSE,31
+101699,Credit Reporting,Rewards,Fees,,,Columbus,79204,  ,Closed with explanation,FALSE,,41
+100034,Mortgage,,Fees,Acme Bank,,Houston,59843,In Progress,In progress,,TRUE,24
+100409,Mortgage,Fixed loan,Collection harassment,United Credit,Nc,,53773,In Progress,,TRUE,,55
+101460,Debt Collection,Interest rate,Collection harassment,,,Los Angeles,,,,Y,Y,44
+100511,Credit Card,,Identity theft,Metro Loans,Nc,New York,58808,In Progress,Closed,TRUE,Yes,10
+100211,Credit Reporting,,,,Mi,Los Angeles,47162,Resolved,,No,Yes,49
+100759,Bank Account,Adjustable loan,Billing disputes,Metro Loans,Fl,Atlanta,42651,In Progress,Closed with explanation,No,FALSE,23
+101877,,Rewards,Other,Northstar Finance,,,27337,Closed,,FALSE,Yes,-4
+100983,Credit Reporting,Adjustable loan,Incorrect information,Metro Loans,Pa,New York,26761,Closed,Closed with explanation,,Y,45
+101003,Credit Reporting,Interest rate,Fees,Northstar Finance,Il,Philadelphia,26220,In Progress,,,TRUE,53
+100263,,Fixed loan,Identity theft,,Tx,Charlotte,21677,Closed,,,No,43
+101129,Bank Account,Rewards,Collection harassment,,Ga,Miami,50422,  ,In progress,Y,FALSE,22
+100613,,Collections,Fees,FinServ Co,Fl,Los Angeles,00000,Closed,,Y,TRUE,2
+101903,Bank Account,Adjustable loan,Incorrect information,Acme Bank,,Chicago,,,,FALSE,No,5
+100097,Student Loan,Fixed loan,Incorrect information,Northstar Finance,,Atlanta,90984,Closed,Closed with explanation,TRUE,Yes,24
+101137,Credit  Card,Collections,Incorrect information,FinServ Co,Il,New York,00123,,Closed with explanation,Yes,Yes,27
+100970,Credit Card,, ,Metro Loans,,,69596,,Closed with explanation,TRUE,Y,10
+100226,Credit Card,Fixed loan,Collection harassment,,,,93147,Resolved,Closed,No,Y,7
+100368,Credit Reporting,Rewards,Collection harassment,Northstar Finance,Il,,78440,Closed,In progress,,Yes,29
+101327,Mortgage,Adjustable loan,Identity theft,Acme Bank,Il,,22029,,,TRUE,No,22
+100557,Debt  Collection,Rewards,Incorrect information,United Credit,Ny,Detroit,88476,Open,,,Yes,51
+100621,Credit Card,,Other,Acme Bank,,,25839,Closed,,,TRUE,7
+100176,Debt Collection,Interest rate,Fees,Northstar Finance,,,85895,In Progress,,Yes,N,35
+100986,Debt  Collection,Collections,Collection harassment,United Credit,Ga,New York,67852,In Progress,Closed with explanation,TRUE,TRUE,45
+100115,Debt  Collection,,Fees, ,Nc,,31599,,In progress,Yes,N,15
+100164,Credit Reporting,,Collection harassment,Northstar Finance,Oh,Philadelphia,98280,Closed,,Y,Yes,30
+101715,Bank Account,Collections,Fees,United Credit,,Charlotte,00000,  ,In progress,Yes,N,33
+100993,Mortgage,Fixed loan,Fees,Northstar Finance,Il,Philadelphia,,Open,Closed with explanation,No,N,38
+100719,Credit Reporting,Adjustable loan,Incorrect information,,Pa,Philadelphia,,Closed,,N,,28
+100707,Debt Collection,Fixed loan, ,,Mi,,00123,,,No,Yes,33
+100201,Mortgage,,Incorrect information,Metro Loans,Pa,Miami,95386,Resolved,,,Yes,18
+100085,Credit Reporting,,Fees,Metro Loans,,Houston,,Closed,In progress,Y,N,43
+101557,Credit Reporting,,,Metro Loans,,Miami,95916,,,No,TRUE,39
+101235,Credit Card,Fixed loan,Identity theft,FinServ Co,,New York,77788,Resolved,,N,No,14
+101409,Credit Reporting,Fixed loan,Other,Metro Loans,,Detroit,,In Progress,Closed,N,TRUE,59
+101010,Bank Account,Collections,Billing disputes,Acme Bank,Ny,Columbus,40877,  ,Closed with explanation,FALSE,Yes,20
+101892,Debt Collection,,Fees,FinServ Co,,Houston,64281,Resolved,Closed with explanation,,TRUE,55
+100354,Student Loan,,Incorrect information,,,New York,00123,  ,,Y,Yes,1
+101930,Student Loan,Fixed loan,Other,Acme Bank,Nc,Houston,00000,Closed,,N,,38
+101506,Credit Card,Rewards,Collection harassment,Acme Bank,Oh,Miami,11464,Open,,,Yes,59
+101990,Debt Collection,,Billing disputes,United Credit,,Houston,49029,,,FALSE,,-5
+100958,Credit Reporting,,Identity theft,,Ca,Columbus,,  ,,FALSE,TRUE,47
+100674,Bank Account,,Billing disputes,Northstar Finance,Oh,Los Angeles,95696,  ,In progress,FALSE,Y,9
+100611,Credit Reporting,Adjustable loan,,Acme Bank,,Atlanta,37754,In Progress,In progress,TRUE,,7
+101141,Credit  Card,Collections,Billing disputes,Northstar Finance,Nc,New York,80523,Open,In progress,No,N,49
+100654,Credit Card,Collections,Incorrect information,,Mi,,49052,Closed,,No,FALSE,54
+101590,Debt Collection,Adjustable loan,Identity theft,Northstar Finance,,,48816,  ,In progress,Y,Yes,4
+101466,,,Identity theft,FinServ Co,Oh,,75948,Open,,,Y,5
+101153,Student  Loan,Interest rate,Incorrect information,Northstar Finance,,Miami,00123,Closed,,N,Y,46
+101436,Mortgage,Rewards,Billing disputes,Metro Loans,Nc,Los Angeles,00123,Closed,Closed with explanation,TRUE,,23
+100988,Student Loan,,Incorrect information,,Ca,Columbus,16282,Closed,,TRUE,No,19
+100962,Student  Loan,Interest rate,Incorrect information,United Credit,,Los Angeles,78576,In Progress,,Yes,,45
+101006,Mortgage,Fixed loan,Fees,,Ny,,27651,  ,,TRUE,FALSE,47
+100314,Student Loan,Adjustable loan,Other,FinServ Co,Mi,Philadelphia,86938,,Closed,TRUE,N,58
+101330,Mortgage,Fixed loan,Other,Northstar Finance,Mi,Columbus,75396,Closed,Closed with explanation,N,No,11
+101588,Bank Account,Adjustable loan,Other,Northstar Finance,,,46504,Closed,,TRUE,N,30
+101217,Credit  Card,Fixed loan,Billing disputes,United Credit,Tx,,19865,Open,In progress,TRUE,Y,43
+101795,Mortgage,,Collection harassment,Metro Loans,Ga,Houston,18130,  ,,Y,,22
+101799,,Adjustable loan,Other,,Ny,Detroit,88523,Resolved,,,,14
+100532,Student Loan,Collections,Other,,,Miami,44726,,In progress,,Yes,-3
+101722,Bank Account,Rewards,Other,Metro Loans,,Columbus,57923,In Progress,,Yes,TRUE,50
+100025,Bank Account,Fixed loan,Billing disputes,,Il,,11500,Closed,,Yes,,1
+100842,Debt  Collection,,Billing disputes,FinServ Co,,,26436,Closed,,Yes,No,48
+101507,Debt Collection,,Identity theft,Metro Loans,Ca,,13513,Open,In progress,Yes,,24
+100848,Mortgage,Interest rate,Incorrect information,,Ga,,97675,Resolved,In progress,Yes,No,6
+101380,Credit  Card,,Fees,,,New York,89237,Closed,In progress,Y,Yes,0
+100107,Credit Card,Fixed loan,Identity theft,FinServ Co,,Chicago,26588,,In progress,Yes,TRUE,16
+101806,Debt  Collection,Adjustable loan,Other,Acme Bank,Il,,91774,In Progress,,TRUE,Yes,-5
+100116,Student  Loan,Adjustable loan,Other,Acme Bank,Pa,,61449,Open,Closed,TRUE,FALSE,18
+101758,Credit Reporting,Adjustable loan,Incorrect information,FinServ Co,,Chicago,97566,,,Yes,,49
+101386,Student Loan,Fixed loan,Fees,,Il,Los Angeles,62775,Closed,,Y,TRUE,43
+100271,Mortgage,Interest rate,Collection harassment,,Nc,Detroit,77726,Resolved,,FALSE,TRUE,7
+100815,Credit Reporting,Interest rate,Collection harassment,Northstar Finance,Ny,Miami,72536,Resolved,,,N,26
+100877,Mortgage,Fixed loan,Incorrect information,United Credit,Nc,Detroit,52452,Resolved,Closed with explanation,,N,35
+101182,Credit Reporting,,Collection harassment,,Tx,Columbus,74691,Resolved,Closed with explanation,No,Y,46
+101319,Bank Account,Rewards,Collection harassment,FinServ Co,Ga,Charlotte,11349,Open,Closed,TRUE,TRUE,5
+101933,Credit Reporting,Adjustable loan,Fees,Metro Loans,Tx,,59307,  ,In progress,No,No,27
+101106,Debt Collection,Adjustable loan,Billing disputes,United Credit,Ga,,,Closed,,FALSE,No,44
+100451,Credit Card,Fixed loan,Incorrect information,United Credit,,Los Angeles,28931,  ,,No,,42
+100570,Student  Loan,,Incorrect information,Metro Loans,Tx,Charlotte,93916,Resolved,,TRUE,,7
+100580,Credit Reporting,Rewards,Billing disputes,,Tx,Chicago,71290,  ,,Yes,FALSE,41
+101978,Credit  Card,,,United Credit,Il,Detroit,83004,,Closed,TRUE,No,17
+101096,,Rewards,Incorrect information,FinServ Co,Oh,,71992,Resolved,In progress,No,FALSE,9
+100161,,Fixed loan,Collection harassment,FinServ Co,Ny,Los Angeles,39373,Closed,Closed,TRUE,,-5
+100929,Mortgage,Adjustable loan,Collection harassment,,Il,Columbus,57706,Resolved,Closed with explanation,FALSE,No,48
