@@ -1,5 +1,5 @@
 superstore-dataset-final.zip
-venv/
+.venv/
 Lab1/LabReport.docx
 Lab2/LabReport.docx
 Lab3/LabReport.docx
@@ -9,3 +9,4 @@ Lab6/LabReport.docx
 Lab7/
 Lab8/
 Lab9/LabReport.docx
+Lab10/LabReport.docx
